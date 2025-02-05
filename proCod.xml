@@ -1,0 +1,2934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+
+            <titleStmt>
+                <title type="main">La rassegna settimanale</title>
+                <title type="sub">di politica, scienza, lettere ed arti</title>
+                <author ref="#SSon"> Sydney Sonnino </author>
+                <author ref="#LF"> Leopoldo Franchetti</author> <!--nome, i nomi di un autore, personale o aziendale, di un'opera-->
+                <respStmt>
+                    <resp>Con il sostegno di: </resp>
+                    <name>Pasquale Villari</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalizzazione e indicizzazione della Rassegna settimanale a cura di </resp>
+                    <name>Leonardo Musci</name>
+                </respStmt>
+            </titleStmt>
+
+            <editionStmt>
+                <edition>Edizione digitale - <date when="2024">2024</date></edition>
+                <respStmt>
+                    <resp>Progetto coordinato dal professor </resp>
+                    <name>Angelo Mario Del Grosso</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificato da </resp>
+                    <name>Stefania Parello</name>
+                </respStmt>
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <date when="2024">2024</date>
+            </publicationStmt>
+
+            <seriesStmt>
+                <title xml:lang="it">La Rassegna Settimanale</title>
+                <biblScope unit="part" from="2" to="26"> Fascicolo 2-26 </biblScope>
+                <biblScope unit="volume">Volume 1</biblScope>
+                <biblScope unit="part" from="27" to="52"> Fascicolo 27-52 </biblScope>
+                <biblScope unit="volume">Volume 2</biblScope>
+                <biblScope unit="part" from="53" to="78"> Fascicolo 53-78 </biblScope>
+                <biblScope unit="volume">Volume 3</biblScope>
+                <biblScope unit="part" from="79" to="104"> Fascicolo 79-104 </biblScope>
+                <biblScope unit="volume">Volume 4</biblScope>
+                <biblScope unit="part" from="105" to="130"> Fascicolo 105-130 </biblScope>
+                <biblScope unit="volume">Volume 5</biblScope>
+                <biblScope unit="part" from="131" to="156"> Fascicolo 131-151 </biblScope>
+                <biblScope unit="volume">Volume 6</biblScope>
+                <biblScope unit="part" from="157" to="182"> Fascicolo 157-182 </biblScope>
+                <biblScope unit="volume">Volume 7</biblScope>
+                <biblScope unit="part" from="183" to="208"> Fascicolo 183-208 </biblScope>
+                <biblScope unit="volume">Volume 8</biblScope>
+                <biblScope unit="part" from="209" to="213"> Fascicolo 209-213 </biblScope>
+                <biblScope unit="volume">Volume 9</biblScope>
+            </seriesStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <placeName>
+                            <region>Lazio</region>
+                            <settlement>Roma</settlement>
+                        </placeName>
+                        <repository ref="https://rassegnasettimanale.animi.it/">Archivio digitale della rassegna settimanale</repository>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary> La rivista tratta un insieme di temi tra cui: temi politici, 
+                            la povertà, la condizione contadina, l'istruzione, il lavoro delle donne e dei fanciulli,
+                            la questione del Mezzogiorno.
+                        </summary>
+                        <msItem>
+                            <author>
+                                <persName>
+                                    <forename>Leopoldo</forename>
+                                    <surname>Franchetti</surname>
+                                </persName>
+                                <persName>
+                                    <forename>Sydney</forename>
+                                    <surname>Sonnino</surname>
+                                </persName>
+                            </author>
+                            <textLang mainLang="it">Italiano</textLang>
+                            <titlePart>
+                                <title xml:lang="it">La Rassegna Settimanale</title>
+                                <origDate>1878</origDate>
+                            </titlePart>
+                            <bibl>
+                               <publisher>Casa Editrice Barbèra</publisher>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="folio">
+                            <supportDesc material="paper">
+                                <support>Fogli di <material>carta stampata.</material></support>
+                                <extent>La rivista è suddivisa in nove volumi: 
+                                    Il primo volume è formato da: <measure unit="pages" quantity="26"> 26 pagine</measure>. 
+                                    Dal secondo volume all'ottavo volume è formato da: <measure unit="pages" quantity="25"> 25 pagine</measure>.
+                                    Il nono volume è formato da: <measure unit="pages" quantity="4"> 4 pagine</measure>.
+                                </extent>
+                            </supportDesc>
+                            
+                            <layoutDesc>
+                                <layout columns="2" ruledLines="60 70">
+                                    <p>
+                                        La rivista in questione è un testo stampato che contiene dalle 60 alle 70 righe. 
+                                        La rivista contiene delle indicazioni di responsabilità sui curatori e dirigenti dell'articolo.
+                                        Ogni rivista è accompagnata dalla propria data di pubblicazione. 
+                                        Vengono indicati anche i numeri delle pagine e il numero dell'articolo a cui si rifà sul volume.
+                                    </p> 
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="2"> 
+                            <p>La rivista viene redatta da 
+                                <persName>
+                                    <name>Sidney</name>
+                                    <surname>Sonnino</surname>
+                                </persName> e da 
+                                <persName>
+                                    <name>Leopoldo</name>
+                                    <surname>Franchetti</surname>
+                                </persName> che ne è anche il direttore </p>
+                        </handDesc>
+                    </physDesc>
+                
+                    <history>
+                        <origin>
+                            <p>
+                                La rivista "La rassegna settimanale" viene sviluppato inizialmente a 
+                                <placeName><settlement>Firenze</settlement> in <region>Toscana</region></placeName> nei
+                                <date when="1878-01">primi di gennaio del 1878</date>;
+                                successivamente la sede viene trasferita a <placeName><settlement>Roma</settlement></placeName>
+                                nel <date when="1879">1879</date>.
+                            </p>
+                        </origin>
+                        <provenance>
+                            <p>
+                                La rivista viene fondata da <persName ref="SSon">Sydney Sonnino</persName> e 
+                                <persName ref="LF">Leopoldo Franchetti</persName>. La rivista tratta di temi che 
+                                spaziano ampiamente problemi economici, sociali e politici della nuova Italia e dell'Italia meridionale.
+                                Soprattuto l'obiettivo era quello di <quote> render consapevole la società italiana che l'economia del Sud 
+                                doveva essere riequilibrata anche per porre fine al pericoloso malcontento delle masse contadine.
+                                </quote>
+                            </p>
+                        </provenance>
+
+                    </history>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+            <creation>
+                <date when="1878-01">gennaio 1878</date>
+            </creation>
+            <textDesc>
+                <channel mode="w"/>
+                <constitution type="single"/>
+                <derivation type="original"/>
+                <domain type="public">Il libro presenta diversi interventi collegati 
+                    alla bibliografia degli autori</domain>
+                <factuality type="fact"/>
+                <interaction type="partial" active="plural" passive="world"/>
+                <preparedness type="none"/>
+                <purpose type="inform"/>
+            </textDesc>
+        </profileDesc>
+    </teiHeader>
+
+    <facsimile>
+        <surface n="1" xml:id="Pg_40">
+        <graphic url='pg40.png' width='581px' height='853px' />
+            <zone points = ' 1,3 580,4 580,852 2,853 ' rendition="Hotspot" xml:id="Pg_40_s"/>
+            <zone points = ' 138,410 184,409 186,418 139,419 ' rendition="Line" xml:id="Pg_40_1"/>
+            <zone points = ' 107,423 214,423 215,432 108,433 ' rendition="Line" xml:id="Pg_40_2"/>
+            <zone points = ' 44,437 294,437 294,446 52,446 ' rendition="Line" xml:id="Pg_40_3"/>
+            <zone points = ' 28,448 291,448 289,456 29,455 ' rendition="Line" xml:id="Pg_40_4" />
+            <zone points = ' 29,460 292,460 291,467 31,467 ' rendition="Line" xml:id="Pg_40_5"/>
+            <zone points = ' 29,472 291,470 291,479 31,478 ' rendition="Line" xml:id="Pg_40_6"/>
+            <zone points = ' 30,483 291,482 291,490 31,490 ' rendition="Line" xml:id="Pg_40_7"/>
+            <zone points = ' 30,495 291,493 290,502 31,501 ' rendition="Line" xml:id="Pg_40_8"/>
+            <zone points = ' 30,506 290,505 289,512 31,513 ' rendition="Line" xml:id="Pg_40_9"/>
+            <zone points = ' 31,518 291,517 290,523 33,523 ' rendition="Line" xml:id="Pg_40_10"/>
+            <zone points = ' 31,527 290,527 290,533 31,534 ' rendition="Line" xml:id="Pg_40_11"/>
+            <zone points = ' 30,538 144,538 141,544 31,545 ' rendition="Line" xml:id="Pg_40_12"/>
+            <zone points = ' 45,548 289,549 289,556 45,556 ' rendition="Line" xml:id="Pg_40_13"/>
+            <zone points = ' 29,561 289,560 288,568 29,567 ' rendition="Line" xml:id="Pg_40_14"/>
+            <zone points = ' 29,572 291,572 290,580 29,579 ' rendition="Line" xml:id="Pg_40_15" />
+            <zone points = ' 31,585 288,583 288,591 29,591 ' rendition="Line" xml:id="Pg_40_16"/>
+            <zone points = ' 29,595 94,595 94,600 29,602 ' rendition="Line" xml:id="Pg_40_17"/>
+            <zone points = ' 44,606 290,607 289,612 50,612 ' rendition="Line" xml:id="Pg_40_18"/>
+            <zone points = ' 29,618 291,617 291,623 30,623 ' rendition="Line" xml:id="Pg_40_19"/>
+            <zone points = ' 29,629 290,629 290,635 31,635 ' rendition="Line" xml:id="Pg_40_20"/>
+            <zone points = ' 29,640 291,640 290,647 29,646 ' rendition="Line" xml:id="Pg_40_21"/>
+            <zone points = ' 29,651 78,650 77,657 29,657 ' rendition="Line" xml:id="Pg_40_22"/>
+            <zone points = ' 43,662 291,660 289,669 52,669 ' rendition="Line" xml:id="Pg_40_23"/>
+            <zone points = ' 30,672 110,673 108,679 30,680 ' rendition="Line" xml:id="Pg_40_24" />
+            <zone points = ' 43,685 159,683 158,692 51,691 ' rendition="Line" xml:id="Pg_40_25"/>
+            <zone points = ' 43,695 292,695 287,702 47,702 ' rendition="Line" xml:id="Pg_40_26"/>
+            <zone points = ' 44,707 291,706 287,714 48,713 ' rendition="Line" xml:id="Pg_40_27"/>
+            <zone points = ' 45,719 290,720 290,727 51,726 ' rendition="Line" xml:id="Pg_40_28"/>
+            <zone points = ' 29,731 150,730 145,735 31,737 ' rendition="Line" xml:id="Pg_40_29"/>
+            <zone points = ' 43,741 291,741 291,749 43,748 ' rendition="Line" xml:id="Pg_40_30"/>
+            <zone points = ' 29,752 224,753 224,760 30,758 ' rendition="Line" xml:id="Pg_40_31"/>
+            <zone points = ' 43,763 258,764 258,771 44,770 ' rendition="Line" xml:id="Pg_40_32"/>
+            <zone points = ' 44,774 289,774 289,783 44,782 ' rendition="Line" xml:id="Pg_40_33"/>
+            <zone points = ' 29,786 291,786 291,792 31,793 ' rendition="Line" xml:id="Pg_40_34"/>
+            <zone points = ' 29,797 292,797 291,804 30,805 ' rendition="Line" xml:id="Pg_40_35"/>
+            <!--inizio seconda colonna-->
+            <zone points = ' 299,58 562,57 563,65 300,67 ' rendition="Line" xml:id="Pg_40_36"/>
+            <zone points = ' 302,71 564,69 563,78 302,78 ' rendition="Line" xml:id="Pg_40_37"/>
+            <zone points = ' 300,81 367,82 368,86 302,89 ' rendition="Line" xml:id="Pg_40_38"/>
+            <zone points = ' 314,92 563,92 551,97 320,98 ' rendition="Line" xml:id="Pg_40_39"/>
+            <zone points = ' 315,102 563,101 563,110 322,108 ' rendition="Line" xml:id="Pg_40_40"/>
+            <zone points = ' 300,116 565,113 560,121 302,123 ' rendition="Line" xml:id="Pg_40_41"/>
+            <zone points = ' 300,126 417,124 416,131 300,133 ' rendition="Line" xml:id="Pg_40_42"/>
+            <zone points = ' 314,136 561,137 561,144 321,143 ' rendition="Line" xml:id="Pg_40_43"/>
+            <zone points = ' 300,148 363,148 358,155 300,155 ' rendition="Line" xml:id="Pg_40_44"/>
+            <zone points = ' 313,159 566,159 563,164 315,166 ' rendition="Line" xml:id="Pg_40_45"/>
+            <zone points = ' 299,172 395,171 396,177 301,179 ' rendition="Line" xml:id="Pg_40_46"/>
+            <zone points = ' 313,182 561,181 561,188 314,189 ' rendition="Line" xml:id="Pg_40_47"/>
+            <zone points = ' 300,192 562,192 562,199 301,200 ' rendition="Line" xml:id="Pg_40_48"/>
+            <zone points = ' 298,206 564,204 563,211 300,213 ' rendition="Line" xml:id="Pg_40_49"/>
+            <zone points = ' 299,218 564,215 562,222 301,223 ' rendition="Line" xml:id="Pg_40_50"/>
+            <zone points = ' 299,227 531,225 529,232 301,234 ' rendition="Line" xml:id="Pg_40_51"/>
+            <zone points = ' 314,237 562,236 562,245 313,243 ' rendition="Line" xml:id="Pg_40_52"/>
+            <zone points = ' 300,248 564,250 563,255 301,257 ' rendition="Line" xml:id="Pg_40_53"/>
+            <zone points = ' 299,259 332,261 331,265 300,265 ' rendition="Line" xml:id="Pg_40_54"/>
+            <zone points = ' 313,414 564,415 561,425 322,423 ' rendition="Line" xml:id="Pg_40_55"/>
+            <zone points = ' 299,425 492,427 485,433 301,433 ' rendition="Line" xml:id="Pg_40_56"/>
+            <zone points = ' 315,438 565,438 560,446 316,444 ' rendition="Line" xml:id="Pg_40_57"/>
+            <zone points = ' 299,449 561,450 561,456 301,455 ' rendition="Line" xml:id="Pg_40_58"/>
+            <zone points = ' 299,462 564,461 562,467 300,468 ' rendition="Line" xml:id="Pg_40_59"/>
+            <zone points = ' 300,473 562,472 562,478 300,479 ' rendition="Line" xml:id="Pg_40_60"/>
+            <zone points = ' 299,483 563,482 563,490 300,490 ' rendition="Line" xml:id="Pg_40_61"/>
+            <zone points = ' 300,494 522,494 520,501 300,501 ' rendition="Line" xml:id="Pg_40_62"/>
+            <zone points = ' 314,506 562,504 560,511 316,511 ' rendition="Line" xml:id="Pg_40_63"/>
+            <zone points = ' 300,516 561,515 561,522 301,524 ' rendition="Line" xml:id="Pg_40_64"/>
+            <zone points = ' 301,528 563,528 561,536 301,536 ' rendition="Line" xml:id="Pg_40_65"/>
+            <zone points = ' 300,541 560,537 561,547 301,548 ' rendition="Line" xml:id="Pg_40_66"/>
+            <zone points = ' 298,551 559,552 559,558 301,558 ' rendition="Line" xml:id="Pg_40_67"/>
+            <zone points = ' 313,563 562,563 562,570 315,568 ' rendition="Line" xml:id="Pg_40_68"/>
+            <zone points = ' 299,570 564,574 558,581 299,579 ' rendition="Line" xml:id="Pg_40_69"/>
+            <zone points = ' 300,583 563,585 559,592 300,591 ' rendition="Line" xml:id="Pg_40_70"/>
+            <zone points = ' 300,595 564,595 562,604 301,602 ' rendition="Line" xml:id="Pg_40_71"/>
+            <zone points = ' 313,607 508,607 509,613 314,615 ' rendition="Line" xml:id="Pg_40_72"/>
+            <zone points = ' 312,618 564,619 561,624 315,623 ' rendition="Line" xml:id="Pg_40_73"/>
+            <zone points = ' 300,630 566,629 561,636 299,637 ' rendition="Line" xml:id="Pg_40_74"/>
+            <zone points = ' 300,643 526,641 523,647 301,650 ' rendition="Line" xml:id="Pg_40_75"/>
+            <zone points = ' 313,653 561,650 562,657 313,658 ' rendition="Line" xml:id="Pg_40_76"/>
+            <zone points = ' 299,663 391,661 392,667 299,670 ' rendition="Line" xml:id="Pg_40_77"/>
+            <zone points = ' 315,673 561,673 561,681 319,680 ' rendition="Line" xml:id="Pg_40_78"/>
+            <zone points = ' 299,686 477,683 473,691 300,692 ' rendition="Line" xml:id="Pg_40_79"/>
+            <zone points = ' 315,697 561,696 561,701 315,704 ' rendition="Line" xml:id="Pg_40_80"/>
+            <zone points = ' 299,708 562,706 560,715 300,716 ' rendition="Line" xml:id="Pg_40_81"/>
+            <zone points = ' 300,721 562,719 562,726 301,725 ' rendition="Line" xml:id="Pg_40_82"/>
+            <zone points = ' 299,731 561,729 561,737 299,738 ' rendition="Line" xml:id="Pg_40_83"/>
+            <zone points = ' 300,743 562,741 562,749 301,749 ' rendition="Line" xml:id="Pg_40_84"/>
+            <zone points = ' 300,753 562,752 562,758 300,759 ' rendition="Line" xml:id="Pg_40_85"/>
+            <zone points = ' 299,764 519,763 519,769 300,769 ' rendition="Line" xml:id="Pg_40_86"/>
+            <zone points = ' 313,776 561,776 561,782 314,783 ' rendition="Line" xml:id="Pg_40_87"/>
+            <zone points = ' 299,788 560,787 561,794 302,794 ' rendition="Line" xml:id="Pg_40_88"/>
+            <zone points = ' 299,798 527,800 527,803 299,803 ' rendition="Line" xml:id="Pg_40_89"/>
+            <zone points = ' 299,660 391,662 392,673 296,671 ' rendition="Line" xml:id="Pg_40_90"/>
+            <zone points = ' 313,670 564,671 563,682 316,681 ' rendition="Line" xml:id="Pg_40_91"/>
+            <zone points = ' 297,682 478,683 478,691 296,694 ' rendition="Line" xml:id="Pg_40_92"/>
+            <zone points = ' 313,694 565,692 565,701 313,705 ' rendition="Line" xml:id="Pg_40_93"/>
+            <zone points = ' 298,704 562,703 565,715 296,717 ' rendition="Line" xml:id="Pg_40_94"/>
+            <zone points = ' 297,717 564,718 564,728 297,725 ' rendition="Line" xml:id="Pg_40_95"/>
+            <zone points = ' 295,726 566,728 566,738 296,737 ' rendition="Line" xml:id="Pg_40_96"/>
+            <zone points = ' 296,740 562,739 562,750 297,750 ' rendition="Line" xml:id="Pg_40_97"/>
+            <zone points = ' 297,752 566,748 562,763 295,762 ' rendition="Line" xml:id="Pg_40_98"/>
+            <zone points = ' 297,761 522,765 522,771 296,773 ' rendition="Line" xml:id="Pg_40_99"/>
+            <zone points = ' 311,774 563,773 563,784 312,781 ' rendition="Line" xml:id="Pg_40_100"/>
+            <zone points = ' 298,785 562,784 561,794 296,794 ' rendition="Line" xml:id="Pg_40_101"/>
+            <zone points = ' 297,796 530,796 531,806 302,809 ' rendition="Line" xml:id="Pg_40_102"/>
+        </surface>
+        <!--Inizio seconda pagina-->
+        <surface n="2" xml:id="Pg_41">
+            <graphic url='pg41.png' width='571px' height='860px' />
+                <zone points = ' 2,2 569,5 570,856 2,856 ' rendition="Hotspot" xml:id="Pg_41_s"/>
+                <zone points = ' 34,54 281,60 279,72 32,68 ' rendition="Line" xml:id="Pg_41_1"/>
+                <zone points = ' 17,67 136,71 137,81 15,81 ' rendition="Line" xml:id="Pg_41_2"/>
+                <zone points = ' 30,79 281,82 280,95 29,92 ' rendition="Line" xml:id="Pg_41_3"/>
+                <zone points = ' 20,93 280,93 280,107 20,106 ' rendition="Line" xml:id="Pg_41_4"/>
+                <zone points = ' 20,103 285,105 284,118 16,116 ' rendition="Line" xml:id="Pg_41_5"/>
+                <zone points = ' 16,114 280,117 278,129 14,126 ' rendition="Line" xml:id="Pg_41_6"/>
+                <zone points = ' 14,125 131,125 133,141 17,139 ' rendition="Line" xml:id="Pg_41_7"/>
+                <zone points = ' 29,137 283,135 283,151 25,148 ' rendition="Line" xml:id="Pg_41_8"/>
+                <zone points = ' 16,149 63,150 62,161 14,161 ' rendition="Line" xml:id="Pg_41_9"/>
+                <zone points = ' 33,161 281,160 282,173 31,171 ' rendition="Line" xml:id="Pg_41_10"/>
+                <zone points = ' 17,171 284,170 283,181 15,185 ' rendition="Line" xml:id="Pg_41_11"/>
+                <zone points = ' 19,180 282,182 282,195 19,193 ' rendition="Line" xml:id="Pg_41_12"/>
+                <zone points = ' 19,192 285,192 284,205 19,203 ' rendition="Line" xml:id="Pg_41_13"/>
+                <zone points = ' 19,204 157,206 154,216 17,215 ' rendition="Line" xml:id="Pg_41_14"/>
+                <zone points = ' 29,217 282,218 282,229 28,226 ' rendition="Line" xml:id="Pg_41_15"/>
+                <zone points = ' 19,227 282,229 281,237 20,238 ' rendition="Line" xml:id="Pg_41_16"/>
+                <zone points = ' 18,239 283,238 284,253 19,249 ' rendition="Line" xml:id="Pg_41_17"/>
+                <zone points = ' 16,247 281,250 280,259 15,260 ' rendition="Line" xml:id="Pg_41_18"/>
+                <zone points = ' 28,260 284,258 284,273 29,271 ' rendition="Line" xml:id="Pg_41_19"/>
+                <zone points = ' 21,271 284,271 282,285 20,284 ' rendition="Line" xml:id="Pg_41_20"/>
+                <zone points = ' 16,284 284,284 284,298 17,295 ' rendition="Line" xml:id="Pg_41_21"/>
+                <zone points = ' 19,296 174,295 171,304 17,304 ' rendition="Line" xml:id="Pg_41_22"/>
+                <zone points = ' 29,306 154,304 152,315 27,315 ' rendition="Line" xml:id="Pg_41_23"/>
+                <zone points = ' 29,314 283,314 286,331 27,325 ' rendition="Line" xml:id="Pg_41_24"/>
+                <zone points = ' 16,327 59,329 57,340 16,341 ' rendition="Line" xml:id="Pg_41_25"/>
+                <zone points = ' 31,341 281,340 282,352 32,352 ' rendition="Line" xml:id="Pg_41_26"/>
+                <zone points = ' 28,352 265,352 264,361 25,362 ' rendition="Line" xml:id="Pg_41_27"/>
+                <zone points = ' 25,360 285,360 285,372 25,372 ' rendition="Line" xml:id="Pg_41_28"/>
+                <zone points = ' 19,371 283,373 284,385 19,385 ' rendition="Line" xml:id="Pg_41_29"/>
+                <zone points = ' 16,382 283,388 283,394 16,394 ' rendition="Line" xml:id="Pg_41_30"/>
+                <zone points = ' 18,396 283,396 282,408 20,409 ' rendition="Line" xml:id="Pg_41_31"/>
+                <zone points = ' 20,407 282,408 280,419 19,419 ' rendition="Line" xml:id="Pg_41_32"/>
+                <zone points = ' 19,419 194,419 194,429 12,431 ' rendition="Line" xml:id="Pg_41_33"/>
+                <zone points = ' 32,429 285,427 283,438 31,439 ' rendition="Line" xml:id="Pg_41_34"/>
+                <zone points = ' 19,441 285,441 283,453 19,452 ' rendition="Line" xml:id="Pg_41_35"/>
+                <zone points = ' 17,450 232,452 234,465 19,463 ' rendition="Line" xml:id="Pg_41_36"/>
+                <zone points = ' 29,463 121,463 121,473 27,475 ' rendition="Line" xml:id="Pg_41_37"/>
+                <zone points = ' 36,475 236,472 237,484 35,485 ' rendition="Line" xml:id="Pg_41_38"/>
+                <!---->
+                <zone points = ' 33,486 96,488 98,498 30,496 ' rendition="Line" xml:id="Pg_41_39"/>
+                <zone points = ' 33,494 285,493 282,507 31,506 ' rendition="Line" xml:id="Pg_41_40"/>
+                <zone points = ' 19,506 282,507 283,517 18,517 ' rendition="Line" xml:id="Pg_41_41"/>
+                <zone points = ' 19,519 286,518 283,532 18,532 ' rendition="Line" xml:id="Pg_41_42"/>
+                <zone points = ' 19,530 284,529 285,541 20,542 ' rendition="Line" xml:id="Pg_41_43"/>
+                <zone points = ' 19,543 284,541 284,553 19,553 ' rendition="Line" xml:id="Pg_41_44"/>
+                <zone points = ' 21,553 286,551 286,563 22,564 ' rendition="Line" xml:id="Pg_41_45"/>
+                <zone points = ' 18,563 286,565 284,576 19,574 ' rendition="Line" xml:id="Pg_41_46"/>
+                <zone points = ' 20,576 287,575 284,593 16,586 ' rendition="Line" xml:id="Pg_41_47"/>
+                <zone points = ' 19,586 109,589 111,600 19,598 ' rendition="Line" xml:id="Pg_41_48"/>
+                <zone points = ' 28,596 286,596 284,608 29,606 ' rendition="Line" xml:id="Pg_41_49"/>
+                <zone points = ' 20,608 284,608 284,620 20,619 ' rendition="Line" xml:id="Pg_41_50"/>
+                <zone points = ' 17,617 181,619 180,629 17,629 ' rendition="Line" xml:id="Pg_41_51"/>
+                <zone points = ' 30,627 285,627 286,640 31,640 ' rendition="Line" xml:id="Pg_41_52"/>
+                <zone points = ' 17,640 288,641 283,654 19,654 ' rendition="Line" xml:id="Pg_41_53"/>
+                <zone points = ' 21,653 285,654 286,665 22,664 ' rendition="Line" xml:id="Pg_41_54"/>
+                <zone points = ' 32,665 289,663 290,678 33,675 ' rendition="Line" xml:id="Pg_41_55"/>
+                <zone points = ' 17,676 288,675 286,689 18,687 ' rendition="Line" xml:id="Pg_41_56"/>
+                <zone points = ' 18,688 178,688 176,701 18,698 ' rendition="Line" xml:id="Pg_41_57"/>
+                <zone points = ' 34,697 286,697 285,707 37,710 ' rendition="Line" xml:id="Pg_41_58"/>
+                <zone points = ' 21,708 289,709 284,721 21,719 ' rendition="Line" xml:id="Pg_41_59"/>
+                <zone points = ' 15,719 64,720 66,734 16,732 ' rendition="Line" xml:id="Pg_41_60"/>
+                <zone points = ' 26,732 289,728 289,742 25,742 ' rendition="Line" xml:id="Pg_41_61"/>
+                <zone points = ' 18,739 288,743 288,756 16,752 ' rendition="Line" xml:id="Pg_41_62"/>
+                <zone points = ' 19,750 254,753 254,763 17,763 ' rendition="Line" xml:id="Pg_41_63"/>
+                <zone points = ' 34,763 290,765 290,776 35,776 ' rendition="Line" xml:id="Pg_41_64"/>
+                <zone points = ' 17,774 288,775 289,785 20,787 ' rendition="Line" xml:id="Pg_41_65"/>
+                <zone points = ' 11,785 291,786 286,797 11,795 ' rendition="Line" xml:id="Pg_41_66"/>
+                <zone points = ' 15,796 290,799 290,812 21,814 ' rendition="Line" xml:id="Pg_41_67"/>
+                <zone points = ' 287,59 551,60 552,73 287,72 ' rendition="Line" xml:id="Pg_41_68"/>
+                <zone points = ' 286,71 462,71 460,81 287,83 ' rendition="Line" xml:id="Pg_41_69"/>
+                <zone points = ' 300,84 553,83 552,91 302,95 ' rendition="Line" xml:id="Pg_41_70"/>
+                <zone points = ' 286,95 551,95 552,103 288,103 ' rendition="Line" xml:id="Pg_41_71"/>
+                <zone points = ' 289,107 554,103 556,118 287,117 ' rendition="Line" xml:id="Pg_41_72"/>
+                <zone points = ' 289,114 553,116 552,129 289,127 ' rendition="Line" xml:id="Pg_41_73"/>
+                <zone points = ' 300,125 551,126 551,138 296,140 ' rendition="Line" xml:id="Pg_41_74"/>
+                <zone points = ' 285,137 555,137 556,152 285,150 ' rendition="Line" xml:id="Pg_41_75"/>
+                <zone points = ' 286,149 558,149 555,161 290,160 ' rendition="Line" xml:id="Pg_41_76"/>
+                <zone points = ' 289,162 553,160 553,172 289,173 ' rendition="Line" xml:id="Pg_41_77"/>
+                <zone points = ' 289,174 554,172 554,182 286,183 ' rendition="Line" xml:id="Pg_41_78"/>
+                <zone points = ' 288,184 553,183 552,199 286,195 ' rendition="Line" xml:id="Pg_41_79"/>
+                <zone points = ' 286,193 393,195 392,206 291,210 ' rendition="Line" xml:id="Pg_41_80"/>
+                <zone points = ' 480,194 542,196 542,208 480,210 ' rendition="Line" xml:id="Pg_41_81"/>
+        </surface>
+        <surface n="3" xml:id="Pg_111">
+            <graphic url='pg111.png' width='564px' height='859px' />
+                <zone points = ' 5,7 561,7 561,857 5,856 ' rendition="Hotspot" xml:id="Pg_111_s"/>
+                <zone points = ' 76,256 207,255 207,261 78,262 ' rendition="Line" xml:id="Pg_111_1"/>
+                <zone points = ' 219,264 258,264 258,271 218,270 ' rendition="Line" xml:id="Pg_111_2"/>
+                <zone points = ' 28,274 270,273 270,284 28,282 ' rendition="Line" xml:id="Pg_111_3"/>
+                <zone points = ' 14,287 273,286 272,293 14,292 ' rendition="Line" xml:id="Pg_111_4"/>
+                <zone points = ' 14,298 271,298 272,305 15,303 ' rendition="Line" xml:id="Pg_111_5"/>
+                <zone points = ' 14,310 270,309 271,316 14,314 ' rendition="Line" xml:id="Pg_111_6"/>
+                <zone points = ' 16,321 265,320 265,326 16,326 ' rendition="Line" xml:id="Pg_111_7"/>
+                <zone points = ' 26,332 271,330 271,337 27,338 ' rendition="Line" xml:id="Pg_111_8"/>
+                <zone points = ' 15,342 271,343 270,347 16,347 ' rendition="Line" xml:id="Pg_111_9"/>
+                <zone points = ' 13,353 271,354 271,360 15,361 ' rendition="Line" xml:id="Pg_111_10"/>
+                <zone points = ' 12,365 272,365 271,373 13,370 ' rendition="Line" xml:id="Pg_111_11"/>
+                <zone points = ' 14,376 187,375 187,381 14,381 ' rendition="Line" xml:id="Pg_111_12"/>
+                <zone points = ' 28,386 270,385 272,393 28,393 ' rendition="Line" xml:id="Pg_111_13"/>
+                <zone points = ' 14,398 252,396 251,403 12,404 ' rendition="Line" xml:id="Pg_111_14"/>
+                <zone points = ' 27,410 271,409 271,413 28,413 ' rendition="Line" xml:id="Pg_111_15"/>
+                <zone points = ' 15,420 271,418 270,426 14,428 ' rendition="Line" xml:id="Pg_111_16"/>
+                <zone points = ' 11,431 269,429 269,435 13,436 ' rendition="Line" xml:id="Pg_111_17"/>
+                <zone points = ' 12,443 270,440 270,446 13,448 ' rendition="Line" xml:id="Pg_111_18"/>
+                <zone points = ' 12,454 271,451 271,459 11,459 ' rendition="Line" xml:id="Pg_111_19"/>
+                <zone points = ' 13,463 270,461 270,470 12,470 ' rendition="Line" xml:id="Pg_111_20"/>
+                <zone points = ' 10,474 271,472 270,482 12,481 ' rendition="Line" xml:id="Pg_111_21"/>
+                <zone points = ' 12,486 270,484 270,493 12,493 ' rendition="Line" xml:id="Pg_111_22"/>
+                <zone points = ' 13,500 270,495 271,504 13,504 ' rendition="Line" xml:id="Pg_111_23"/>
+                <zone points = ' 12,510 271,508 269,514 12,517 ' rendition="Line" xml:id="Pg_111_24"/>
+                <zone points = ' 10,521 269,519 269,525 13,526 ' rendition="Line" xml:id="Pg_111_25"/>
+                <zone points = ' 24,530 269,528 270,538 25,537 ' rendition="Line" xml:id="Pg_111_26"/>
+                <zone points = ' 12,542 269,541 269,548 13,548 ' rendition="Line" xml:id="Pg_111_27"/>
+                <zone points = ' 13,554 268,551 268,558 13,559 ' rendition="Line" xml:id="Pg_111_28"/>
+                <zone points = ' 11,564 270,560 269,570 12,570 ' rendition="Line" xml:id="Pg_111_29"/>
+                <zone points = ' 12,575 269,573 269,581 13,582 ' rendition="Line" xml:id="Pg_111_30"/>
+                <zone points = ' 13,588 269,584 268,592 14,594 ' rendition="Line" xml:id="Pg_111_31"/>
+                <zone points = ' 12,598 271,595 269,603 13,604 ' rendition="Line" xml:id="Pg_111_32"/>
+                <zone points = ' 11,611 271,607 269,614 12,615 ' rendition="Line" xml:id="Pg_111_33"/>
+                <zone points = ' 12,620 268,618 268,623 13,627 ' rendition="Line" xml:id="Pg_111_34"/>
+                <zone points = ' 25,632 269,630 268,636 26,637 ' rendition="Line" xml:id="Pg_111_35"/>
+                <zone points = ' 13,642 270,640 269,648 13,647 ' rendition="Line" xml:id="Pg_111_36"/>
+                <zone points = ' 11,654 268,652 268,659 10,659 ' rendition="Line" xml:id="Pg_111_37"/>
+                <zone points = ' 10,664 270,661 269,671 11,670 ' rendition="Line" xml:id="Pg_111_38"/>
+                <zone points = ' 10,676 269,674 268,682 10,682 ' rendition="Line" xml:id="Pg_111_39"/>
+                <zone points = ' 10,686 269,684 269,691 11,692 ' rendition="Line" xml:id="Pg_111_40"/>
+                <zone points = ' 11,697 268,695 268,703 10,703 ' rendition="Line" xml:id="Pg_111_41"/>
+                <zone points = ' 10,707 270,707 269,716 9,716 ' rendition="Line" xml:id="Pg_111_42"/>
+                <zone points = ' 10,719 102,719 103,727 10,727 ' rendition="Line" xml:id="Pg_111_43"/>
+                <zone points = ' 21,731 269,728 268,737 22,737 ' rendition="Line" xml:id="Pg_111_44"/>
+                <zone points = ' 9,742 269,742 270,751 10,750 ' rendition="Line" xml:id="Pg_111_45"/>
+                <zone points = ' 8,753 175,753 175,760 8,759 ' rendition="Line" xml:id="Pg_111_46"/>
+                <zone points = ' 21,763 269,762 268,769 22,769 ' rendition="Line" xml:id="Pg_111_47"/>
+                <zone points = ' 7,774 270,772 269,782 9,782 ' rendition="Line" xml:id="Pg_111_48"/>
+                <zone points = ' 8,785 269,786 269,796 8,791 ' rendition="Line" xml:id="Pg_111_49"/>
+                <zone points = ' 7,796 257,798 259,806 7,803 ' rendition="Line" xml:id="Pg_111_50"/>
+                <!--seconda colonna-->
+                <zone points = ' 291,60 538,59 538,67 293,68 ' rendition="Line" xml:id="Pg_111_51"/>
+                <zone points = ' 279,73 540,71 540,79 279,80 ' rendition="Line" xml:id="Pg_111_52"/>
+                <zone points = ' 279,84 539,82 540,91 279,91 ' rendition="Line" xml:id="Pg_111_53"/>
+                <zone points = ' 279,96 538,94 538,102 278,102 ' rendition="Line" xml:id="Pg_111_54"/>
+                <zone points = ' 279,107 540,105 539,111 278,111 ' rendition="Line" xml:id="Pg_111_55"/>
+                <zone points = ' 279,116 538,115 537,124 280,123 ' rendition="Line" xml:id="Pg_111_56"/>
+                <zone points = ' 279,127 359,127 359,134 279,135 ' rendition="Line" xml:id="Pg_111_57"/>
+                <zone points = ' 292,138 538,136 538,145 292,144 ' rendition="Line" xml:id="Pg_111_58"/>
+                <zone points = ' 279,150 539,148 539,156 279,156 ' rendition="Line" xml:id="Pg_111_59"/>
+                <zone points = ' 279,161 538,160 539,167 280,169 ' rendition="Line" xml:id="Pg_111_60"/>
+                <zone points = ' 279,173 539,171 538,179 279,179 ' rendition="Line" xml:id="Pg_111_61"/>
+                <zone points = ' 279,184 539,182 540,190 279,190 ' rendition="Line" xml:id="Pg_111_62"/>
+                <zone points = ' 279,195 540,192 539,202 280,202 ' rendition="Line" xml:id="Pg_111_63"/>
+                <zone points = ' 279,206 540,205 540,212 279,212 ' rendition="Line" xml:id="Pg_111_64"/>
+                <zone points = ' 279,216 540,215 540,224 279,223 ' rendition="Line" xml:id="Pg_111_65"/>
+                <zone points = ' 279,227 540,226 540,235 279,235 ' rendition="Line" xml:id="Pg_111_66"/>
+                <zone points = ' 278,238 541,236 540,245 278,246 ' rendition="Line" xml:id="Pg_111_67"/>
+                <zone points = ' 278,249 540,248 540,256 279,258 ' rendition="Line" xml:id="Pg_111_68"/>
+                <zone points = ' 277,260 410,260 410,267 279,268 ' rendition="Line" xml:id="Pg_111_69"/>
+                <zone points = ' 293,271 539,269 541,280 293,278 ' rendition="Line" xml:id="Pg_111_70"/>
+                <zone points = ' 280,282 542,282 540,292 280,292 ' rendition="Line" xml:id="Pg_111_71"/>
+                <zone points = ' 280,294 540,295 538,302 279,302 ' rendition="Line" xml:id="Pg_111_72"/>
+                <zone points = ' 279,306 541,305 540,313 280,314 ' rendition="Line" xml:id="Pg_111_73"/>
+                <zone points = ' 278,318 542,316 538,324 281,325 ' rendition="Line" xml:id="Pg_111_74"/>
+                <zone points = ' 280,328 376,327 376,334 280,337 ' rendition="Line" xml:id="Pg_111_75"/>
+                <zone points = ' 293,339 540,338 540,347 295,346 ' rendition="Line" xml:id="Pg_111_76"/>
+                <zone points = ' 280,350 542,350 541,358 280,358 ' rendition="Line" xml:id="Pg_111_77"/>
+                <zone points = ' 280,362 540,361 541,368 282,368 ' rendition="Line" xml:id="Pg_111_78"/>
+                <zone points = ' 280,373 541,372 540,379 280,378 ' rendition="Line" xml:id="Pg_111_79"/>
+                <zone points = ' 279,383 472,383 472,390 279,389 ' rendition="Line" xml:id="Pg_111_80"/>
+                <zone points = ' 293,393 540,392 540,402 293,400 ' rendition="Line" xml:id="Pg_111_81"/>
+                <zone points = ' 278,403 541,404 540,412 280,412 ' rendition="Line" xml:id="Pg_111_82"/>
+                <zone points = ' 293,416 540,414 542,423 295,422 ' rendition="Line" xml:id="Pg_111_83"/>
+                <zone points = ' 279,425 542,425 542,435 279,434 ' rendition="Line" xml:id="Pg_111_84"/>
+                <zone points = ' 278,436 542,437 541,445 279,445 ' rendition="Line" xml:id="Pg_111_85"/>
+                <zone points = ' 279,448 542,448 540,458 279,456 ' rendition="Line" xml:id="Pg_111_86"/>
+                <zone points = ' 279,460 540,460 539,467 279,466 ' rendition="Line" xml:id="Pg_111_87"/>
+                <zone points = ' 278,471 541,470 541,479 279,479 ' rendition="Line" xml:id="Pg_111_88"/>
+                <zone points = ' 277,482 541,484 541,490 278,490 ' rendition="Line" xml:id="Pg_111_89"/>
+                <zone points = ' 277,493 541,494 542,501 277,499 ' rendition="Line" xml:id="Pg_111_90"/>
+                <zone points = ' 278,505 542,506 539,512 278,513 ' rendition="Line" xml:id="Pg_111_91"/>
+                <zone points = ' 277,517 463,517 463,523 278,524 ' rendition="Line" xml:id="Pg_111_92"/>
+                <zone points = ' 291,525 540,525 540,534 292,534 ' rendition="Line" xml:id="Pg_111_93"/>
+                <zone points = ' 278,538 540,537 540,544 279,545 ' rendition="Line" xml:id="Pg_111_94"/>
+                <zone points = ' 278,548 540,547 539,557 279,555 ' rendition="Line" xml:id="Pg_111_95"/>
+                <zone points = ' 277,559 540,560 540,569 278,567 ' rendition="Line" xml:id="Pg_111_96"/>
+                <zone points = ' 276,571 540,571 540,579 276,578 ' rendition="Line" xml:id="Pg_111_97"/>
+                <zone points = ' 277,582 528,582 527,591 276,589 ' rendition="Line" xml:id="Pg_111_98"/>
+                <zone points = ' 290,594 541,592 540,601 291,601 ' rendition="Line" xml:id="Pg_111_99"/>
+                <zone points = ' 278,604 404,604 404,611 279,612 ' rendition="Line" xml:id="Pg_111_100"/>
+                <zone points = ' 290,617 539,616 539,622 291,624 ' rendition="Line" xml:id="Pg_111_101"/>
+                <zone points = ' 276,626 329,627 328,633 279,635 ' rendition="Line" xml:id="Pg_111_102"/>
+                <zone points = ' 290,637 539,637 538,645 291,644 ' rendition="Line" xml:id="Pg_111_103"/>
+                <zone points = ' 277,648 539,648 539,657 276,657 ' rendition="Line" xml:id="Pg_111_104"/>
+                <zone points = ' 276,660 522,660 522,668 276,667 ' rendition="Line" xml:id="Pg_111_105"/>
+                <zone points = ' 290,671 539,670 538,678 291,678 ' rendition="Line" xml:id="Pg_111_106"/>
+                <zone points = ' 276,683 540,682 540,689 275,691 ' rendition="Line" xml:id="Pg_111_107"/>
+                <zone points = ' 289,693 538,693 540,701 291,701 ' rendition="Line" xml:id="Pg_111_108"/>
+                <zone points = ' 276,704 538,704 539,712 277,714 ' rendition="Line" xml:id="Pg_111_109"/>
+                <zone points = ' 275,716 541,716 542,725 276,723 ' rendition="Line" xml:id="Pg_111_110"/>
+                <zone points = ' 276,727 540,728 539,736 278,736 ' rendition="Line" xml:id="Pg_111_111"/>
+                <zone points = ' 276,740 349,738 349,746 277,748 ' rendition="Line" xml:id="Pg_111_112"/>
+                <zone points = ' 271,749 535,747 537,802 275,800 ' rendition="Line" xml:id="Pg_111_exp"/>
+                <!--parte inferiore
+                <zone points = ' 289,751 538,750 539,757 289,758 ' rendition="Line" xml:id="Pg_111_113"/>
+                <zone points = ' 277,760 538,759 539,766 277,767 ' rendition="Line" xml:id="Pg_111_114"/>
+                <zone points = ' 276,769 538,768 537,775 277,775 ' rendition="Line" xml:id="Pg_111_115"/>
+                <zone points = ' 275,777 539,776 538,783 277,783 ' rendition="Line" xml:id="Pg_111_116"/>
+                <zone points = ' 276,785 538,784 538,790 276,791 ' rendition="Line" xml:id="Pg_111_117"/>
+                <zone points = ' 276,793 480,793 480,802 278,801 ' rendition="Line" xml:id="Pg_111_118"/>-->
+        </surface>
+
+        <surface n="4" xml:id="Pg_324"> <!--sezione notizie (prima notizia)-->
+            <graphic url='Pg_324.jpg' width='1079px' height='1559px' />
+                <zone points = ' 8,11 1072,13 1070,1552 9,1551 ' rendition="Hotspot" xml:id="Pg_324_s" />
+                <zone points = ' 258,1307 350,1308 354,1324 256,1325 ' rendition="Line" xml:id="Pg_324_1"/>
+                <zone points = ' 85,1340 544,1336 544,1349 86,1349 ' rendition="Line" xml:id="Pg_324_2"/>
+                <zone points = ' 63,1355 543,1355 543,1365 63,1366 ' rendition="Line" xml:id="Pg_324_3"/>
+                <zone points = ' 62,1373 543,1374 543,1382 63,1383 ' rendition="Line" xml:id="Pg_324_4"/>
+                <zone points = ' 62,1393 542,1390 542,1399 64,1399 ' rendition="Line" xml:id="Pg_324_5"/>
+                <zone points = ' 65,1410 393,1411 393,1419 60,1419 ' rendition="Line" xml:id="Pg_324_6"/>
+                <zone points = ' 83,1428 545,1426 543,1440 86,1438 ' rendition="Line" xml:id="Pg_324_7"/>
+                <zone points = ' 62,1447 544,1447 544,1456 63,1456 ' rendition="Line" xml:id="Pg_324_8"/>
+                <zone points = ' 61,1466 114,1468 114,1475 64,1473 ' rendition="Line" xml:id="Pg_324_9"/>
+                <!---->
+                <zone points = ' 585,103 1044,102 1044,120 585,120 ' rendition="Line" xml:id="Pg_324_10"/>
+                <zone points = ' 563,126 1049,123 1049,135 564,139 ' rendition="Line" xml:id="Pg_324_11"/>
+                <zone points = ' 563,147 1044,144 1044,155 565,159 ' rendition="Line" xml:id="Pg_324_12"/>
+                <zone points = ' 562,163 1045,162 1042,172 565,173 ' rendition="Line" xml:id="Pg_324_13"/>
+                <zone points = ' 564,182 1045,182 1045,190 564,192 ' rendition="Line" xml:id="Pg_324_14"/>
+                <zone points = ' 563,201 1045,199 1044,210 565,210 ' rendition="Line" xml:id="Pg_324_15"/>
+                <zone points = ' 565,218 1045,218 1044,229 565,228 ' rendition="Line" xml:id="Pg_324_16"/>
+                <zone points = ' 562,237 1045,237 1044,245 563,246 ' rendition="Line" xml:id="Pg_324_17"/>
+                <zone points = ' 564,255 1043,255 1041,266 565,264 ' rendition="Line" xml:id="Pg_324_18"/>
+                <zone points = ' 564,271 1045,274 1045,284 562,281 ' rendition="Line" xml:id="Pg_324_19"/>
+                <!---->
+                <zone points = ' 585,289 1044,288 1044,301 583,300 ' rendition="Line" xml:id="Pg_324_20"/>
+                <zone points = ' 563,309 1043,309 1043,320 565,318 ' rendition="Line" xml:id="Pg_324_21"/>
+                <zone points = ' 562,329 1048,328 1048,339 564,337 ' rendition="Line" xml:id="Pg_324_22"/>
+                <zone points = ' 564,347 1042,346 1045,356 564,355 ' rendition="Line" xml:id="Pg_324_23"/>
+                <zone points = ' 563,365 1044,364 1044,374 563,376 ' rendition="Line" xml:id="Pg_324_24"/>
+                <zone points = ' 562,385 994,381 995,392 564,395 ' rendition="Line" xml:id="Pg_324_25"/>
+                <!---->
+                <zone points = ' 584,400 1045,397 1046,412 584,411 ' rendition="Line" xml:id="Pg_324_26"/>
+                <zone points = ' 563,420 1045,419 1043,430 564,429 ' rendition="Line" xml:id="Pg_324_27"/>
+                <zone points = ' 561,439 1047,437 1044,448 563,448 ' rendition="Line" xml:id="Pg_324_28"/>
+                <zone points = ' 564,459 1048,457 1044,468 564,468 ' rendition="Line" xml:id="Pg_324_29"/>
+                <zone points = ' 561,478 1048,476 1041,489 562,488 ' rendition="Line" xml:id="Pg_324_30"/>
+                <zone points = ' 563,496 1024,495 1021,505 563,508 ' rendition="Line" xml:id="Pg_324_31"/>
+                <!--prima riga--> 
+                <zone points = ' 768,510 837,510 837,522 769,522 ' />
+                <!---->
+                <zone points = ' 584,527 1047,525 1045,538 585,539 ' rendition="Line" xml:id="Pg_324_32"/>
+                <zone points = ' 562,546 1044,543 1044,555 562,556 ' rendition="Line" xml:id="Pg_324_33"/>
+                <zone points = ' 563,563 1044,562 1044,573 564,574 ' rendition="Line" xml:id="Pg_324_34"/>
+                <zone points = ' 562,584 1045,581 1042,593 563,594 ' rendition="Line" xml:id="Pg_324_35"/>
+                <zone points = ' 562,602 1044,601 1044,611 563,612 ' rendition="Line" xml:id="Pg_324_36"/>
+                <zone points = ' 561,621 1044,619 1043,630 563,631 ' rendition="Line" xml:id="Pg_324_37"/>
+                <zone points = ' 561,639 1045,638 1044,649 561,649 ' rendition="Line" xml:id="Pg_324_38"/>
+                <zone points = ' 559,657 1043,654 1044,664 560,668 ' rendition="Line" xml:id="Pg_324_39"/>
+                <!--seconda riga--> 
+                <zone points = ' 768,666 836,665 837,677 767,678 ' />
+                <!---->
+                <zone points = ' 580,683 1043,685 1043,697 583,697 ' rendition="Line" xml:id="Pg_324_40"/>
+                <zone points = ' 559,704 1044,701 1044,712 561,714 ' rendition="Line" xml:id="Pg_324_41"/>
+                <zone points = ' 559,725 1047,721 1044,733 561,736 ' rendition="Line" xml:id="Pg_324_42"/>
+                <zone points = ' 561,744 1045,740 1043,752 562,755 ' rendition="Line" xml:id="Pg_324_43"/>
+                <zone points = ' 560,761 1045,759 1042,771 561,773 ' rendition="Line" xml:id="Pg_324_44"/>
+                <zone points = ' 559,780 900,779 900,789 562,791 ' rendition="Line" xml:id="Pg_324_45"/>
+                <!---->
+                <zone points = ' 580,796 1045,793 1045,809 580,809 ' rendition="Line" xml:id="Pg_324_46"/>
+                <zone points = ' 561,813 1046,814 1042,827 559,828 ' rendition="Line" xml:id="Pg_324_47"/>
+                <zone points = ' 560,835 1044,833 1044,844 559,844 ' rendition="Line" xml:id="Pg_324_48"/>
+                <zone points = ' 559,853 1043,851 1042,863 561,864 ' rendition="Line" xml:id="Pg_324_49"/>
+                <zone points = ' 559,871 1043,870 1042,881 561,881 ' rendition="Line" xml:id="Pg_324_50"/>
+                <zone points = ' 558,890 1043,887 1042,898 561,902 ' rendition="Line" xml:id="Pg_324_51"/>
+                <zone points = ' 558,910 847,908 846,917 560,920 ' rendition="Line" xml:id="Pg_324_52"/>
+                <!---->
+                <zone points = ' 580,923 1043,921 1043,938 581,934 ' rendition="Line" xml:id="Pg_324_53"/>
+                <zone points = ' 559,943 1043,944 1043,954 562,953 ' rendition="Line" xml:id="Pg_324_54"/>
+                <zone points = ' 558,962 1043,961 1042,971 562,972 ' rendition="Line" xml:id="Pg_324_55"/>
+                <zone points = ' 560,980 1041,978 1042,992 560,993 ' rendition="Line" xml:id="Pg_324_56"/>
+                <zone points = ' 559,1001 1042,998 1042,1010 560,1013 ' rendition="Line" xml:id="Pg_324_57"/>
+                <!---->
+                <zone points = ' 579,1019 1043,1017 1043,1027 578,1028 ' rendition="Line" xml:id="Pg_324_58"/>
+                <zone points = ' 559,1036 1043,1033 1043,1046 557,1049 ' rendition="Line" xml:id="Pg_324_59"/>
+                <zone points = ' 556,1055 826,1055 826,1067 558,1069 ' rendition="Line" xml:id="Pg_324_60"/>
+                <!--terza riga-->
+                <zone points = ' 767,1072 839,1072 838,1084 769,1085 ' />
+                <!---->
+                <zone points = ' 577,1092 1042,1089 1042,1103 577,1103 ' rendition="Line" xml:id="Pg_324_61"/>
+                <zone points = ' 559,1108 1046,1109 1044,1123 558,1124 ' rendition="Line" xml:id="Pg_324_62"/>
+                <zone points = ' 558,1129 798,1130 797,1142 559,1142 ' rendition="Line" xml:id="Pg_324_63"/>
+                <!--quarta riga-->
+                <zone points = ' 766,1145 835,1143 836,1159 767,1159 ' />
+                <!---->
+                <zone points = ' 580,1167 1044,1164 1042,1179 581,1180 ' rendition="Line" xml:id="Pg_324_64"/>
+                <zone points = ' 560,1184 1044,1186 1041,1199 558,1197 ' rendition="Line" xml:id="Pg_324_65"/>
+                <zone points = ' 557,1204 1044,1203 1040,1217 559,1216 ' rendition="Line" xml:id="Pg_324_66"/>
+                <zone points = ' 559,1224 899,1223 898,1236 560,1237 ' rendition="Line" xml:id="Pg_324_67"/>
+                <!---->
+                <zone points = ' 579,1241 1042,1237 1040,1253 580,1254 ' rendition="Line" xml:id="Pg_324_68"/>
+                <zone points = ' 560,1260 1040,1258 1040,1272 559,1272 ' rendition="Line" xml:id="Pg_324_69"/>
+                <zone points = ' 558,1280 1042,1278 1040,1289 561,1294 ' rendition="Line" xml:id="Pg_324_70"/>
+                <zone points = ' 558,1300 1040,1295 1039,1309 558,1311 ' rendition="Line" xml:id="Pg_324_71"/>
+                <zone points = ' 558,1318 1039,1317 1039,1327 559,1330 ' rendition="Line" xml:id="Pg_324_72"/>
+                <zone points = ' 556,1335 1042,1333 1038,1346 559,1345 ' rendition="Line" xml:id="Pg_324_73"/>
+                <zone points = ' 557,1354 1035,1352 1032,1363 558,1369 ' rendition="Line" xml:id="Pg_324_74"/>
+                <!--Leopoldo e Sydney-->
+                <zone points = ' 569,1381 1034,1381 1031,1421 565,1422 ' rendition="Line" xml:id="Pg_324_75"/>
+                <!--Gherardini-->
+                <zone points = ' 563,1427 1035,1426 1031,1452 561,1454 ' rendition="Line" xml:id="Pg_324_76"/>
+                <!--Data-->
+                <zone points = ' 565,1459 1031,1459 1028,1480 567,1479 ' rendition="Line" xml:id="Pg_324_77"/>
+
+        </surface>
+        
+        <surface n="5" xml:id="Pg_464"> <!--sezione notizie (seconda notizia)-->
+            <graphic url='Pg_464.jpg' width='1063px' height='1564px' />
+                <zone points = ' 8,10 1058,14 1056,1555 9,1555 ' rendition="Hotspot" xml:id="Pg_464_s" />
+                <zone points = ' 743,679 846,677 849,702 743,700 ' rendition="Line" xml:id="Pg_464_1"/>
+                <zone points = ' 567,711 1038,707 1037,728 572,729 ' rendition="Line" xml:id="Pg_464_2"/>
+                <zone points = ' 552,732 1037,733 1036,744 554,748 ' rendition="Line" xml:id="Pg_464_3"/>
+                <zone points = ' 551,754 1037,751 1035,762 553,765 ' rendition="Line" xml:id="Pg_464_4"/>
+                <zone points = ' 553,774 1037,769 1036,781 553,784 ' rendition="Line" xml:id="Pg_464_5"/>
+                <zone points = ' 553,791 872,789 872,801 554,804 ' rendition="Line" xml:id="Pg_464_6"/>
+                <!---->
+                <zone points = ' 572,807 1036,802 1035,820 572,820 ' rendition="Line" xml:id="Pg_464_7"/>
+                <zone points = ' 551,823 1037,824 1035,837 552,836 ' rendition="Line" xml:id="Pg_464_8"/>
+                <zone points = ' 551,843 1038,842 1036,854 552,854 ' rendition="Line" xml:id="Pg_464_9"/>
+                <zone points = ' 551,863 1037,861 1035,875 552,874 ' rendition="Line" xml:id="Pg_464_10"/>
+                <zone points = ' 551,884 793,882 793,893 552,895 ' rendition="Line" xml:id="Pg_464_11"/>
+                <!---->
+                <zone points = ' 571,899 1039,896 1038,910 572,911 ' rendition="Line" xml:id="Pg_464_12"/>
+                <zone points = ' 549,916 1039,917 1037,929 551,928 ' rendition="Line" xml:id="Pg_464_13"/>
+                <zone points = ' 550,937 1036,935 1035,948 551,947 ' rendition="Line" xml:id="Pg_464_14"/>
+                <zone points = ' 552,956 1038,954 1036,968 553,968 ' rendition="Line" xml:id="Pg_464_15"/>
+                <zone points = ' 550,975 1037,974 1036,986 551,986 ' rendition="Line" xml:id="Pg_464_16"/>
+                <zone points = ' 549,995 1038,995 1035,1005 550,1008 ' rendition="Line" xml:id="Pg_464_17"/>
+                <zone points = ' 549,1014 1038,1011 1036,1022 552,1023 ' rendition="Line" xml:id="Pg_464_18"/>
+                <zone points = ' 550,1032 690,1031 690,1043 552,1042 ' rendition="Line" xml:id="Pg_464_19"/>
+                <!--prima riga-->
+                <zone points = ' 748,1036 839,1033 836,1054 751,1055 ' />
+                <!---->
+                <zone points = ' 573,1056 1038,1053 1035,1071 573,1072 ' rendition="Line" xml:id="Pg_464_20"/>
+                <zone points = ' 549,1076 1036,1077 1034,1090 550,1091 ' rendition="Line" xml:id="Pg_464_21"/>
+                <zone points = ' 550,1097 1037,1096 1036,1108 550,1109 ' rendition="Line" xml:id="Pg_464_22"/>
+                <zone points = ' 549,1114 1037,1113 1036,1126 551,1127 ' rendition="Line" xml:id="Pg_464_23"/>
+                <zone points = ' 550,1134 1038,1132 1035,1145 550,1148 ' rendition="Line" xml:id="Pg_464_24"/>
+                <zone points = ' 549,1153 1036,1149 1035,1164 549,1163 ' rendition="Line" xml:id="Pg_464_25"/>
+                <zone points = ' 551,1171 1036,1170 1035,1183 552,1182 ' rendition="Line" xml:id="Pg_464_26"/>
+                <zone points = ' 548,1190 1037,1190 1035,1202 550,1200 ' rendition="Line" xml:id="Pg_464_27"/>
+                <zone points = ' 548,1206 1040,1205 1034,1221 550,1220 ' rendition="Line" xml:id="Pg_464_28"/>
+                <zone points = ' 548,1227 1037,1226 1035,1238 549,1239 ' rendition="Line" xml:id="Pg_464_29"/>
+                <zone points = ' 549,1246 997,1245 995,1258 551,1258 ' rendition="Line" xml:id="Pg_464_30"/>
+                <!--seconda riga-->
+                <zone points = ' 758,1259 833,1259 833,1275 760,1275 ' />
+                <!---->
+                <zone points = ' 569,1274 1037,1272 1035,1291 573,1292 ' rendition="Line" xml:id="Pg_464_31"/>
+                <zone points = ' 551,1299 1037,1297 1035,1310 552,1311 ' rendition="Line" xml:id="Pg_464_32"/>
+                <zone points = ' 551,1318 1036,1315 1036,1328 551,1330 ' rendition="Line" xml:id="Pg_464_33"/>
+                <zone points = ' 550,1335 1038,1333 1037,1348 551,1349 ' rendition="Line" xml:id="Pg_464_34"/>
+                <zone points = ' 550,1353 1032,1354 1030,1369 553,1368 ' rendition="Line" xml:id="Pg_464_35"/>
+                <!--LF e SS-->
+                <zone points = ' 560,1378 1031,1377 1024,1421 556,1421 ' rendition="Line" xml:id="Pg_464_36"/>
+                <!--AG-->
+                <zone points = ' 556,1427 1025,1426 1023,1450 556,1452 ' rendition="Line" xml:id="Pg_464_37"/>
+                <!--data-->
+                <zone points = ' 558,1456 1027,1453 1026,1475 557,1478 ' rendition="Line" xml:id="Pg_464_38"/>
+        </surface>
+
+        <surface n="6" xml:id="Pg_64"><!--bibliografia, scienze militari.-->
+            <graphic url='Pg_64.jpg' width='1104px' height='1653px' />
+                <zone points = ' 7,9 1097,8 1100,1647 8,1644 ' rendition="Hotspot" xml:id="Pg_64_s"/>
+                <zone points = ' 238,521 398,521 399,535 240,536 ' rendition="Line" xml:id="Pg_64_1"/>
+                <zone points = ' 68,541 569,544 568,565 74,563 ' rendition="Line" xml:id="Pg_64_2"/>
+                <zone points = ' 93,566 563,564 563,581 96,583 ' rendition="Line" xml:id="Pg_64_3"/>
+                <zone points = ' 94,587 570,589 570,606 94,606 ' rendition="Line" xml:id="Pg_64_4"/>
+                <zone points = ' 66,608 568,611 567,631 70,629 ' rendition="Line" xml:id="Pg_64_5"/>
+                <zone points = ' 66,633 569,634 568,648 70,647 ' rendition="Line" xml:id="Pg_64_6"/>
+                <zone points = ' 69,656 569,654 568,670 70,670 ' rendition="Line" xml:id="Pg_64_7"/>
+                <zone points = ' 69,680 567,679 567,692 70,693 ' rendition="Line" xml:id="Pg_64_8"/>
+                <zone points = ' 70,699 568,699 567,713 70,712 ' rendition="Line" xml:id="Pg_64_9"/>
+                <zone points = ' 70,721 570,719 568,734 71,735 ' rendition="Line" xml:id="Pg_64_10"/>
+                <zone points = ' 71,743 567,741 569,756 70,759 ' rendition="Line" xml:id="Pg_64_11"/>
+                <zone points = ' 69,764 569,760 569,777 68,780 ' rendition="Line" xml:id="Pg_64_12"/>
+                <zone points = ' 69,784 567,783 567,800 69,800 ' rendition="Line" xml:id="Pg_64_13"/>
+                <zone points = ' 70,801 569,804 570,819 69,820 ' rendition="Line" xml:id="Pg_64_14"/>
+                <zone points = ' 69,826 569,826 569,843 70,841 ' rendition="Line" xml:id="Pg_64_15"/>
+                <zone points = ' 69,848 571,848 570,862 71,864 ' rendition="Line" xml:id="Pg_64_16"/>
+                <zone points = ' 72,869 570,867 570,883 70,884 ' rendition="Line" xml:id="Pg_64_17"/>
+                <zone points = ' 70,892 570,890 571,905 71,906 ' rendition="Line" xml:id="Pg_64_18"/>
+                <zone points = ' 70,914 569,911 569,927 71,928 ' rendition="Line" xml:id="Pg_64_19"/>
+                <zone points = ' 71,934 569,934 569,949 70,948 ' rendition="Line" xml:id="Pg_64_20"/>
+                <zone points = ' 69,954 569,955 568,970 70,969 ' rendition="Line" xml:id="Pg_64_21"/>
+                <zone points = ' 70,977 569,977 568,991 71,991 ' rendition="Line" xml:id="Pg_64_22"/>
+                <zone points = ' 68,999 570,997 569,1013 69,1012 ' rendition="Line" xml:id="Pg_64_23"/>
+                <zone points = ' 68,1020 573,1017 573,1036 68,1033 ' rendition="Line" xml:id="Pg_64_24"/>
+                <zone points = ' 65,1038 571,1040 569,1055 71,1053 ' rendition="Line" xml:id="Pg_64_25"/>
+                <zone points = ' 67,1060 570,1060 570,1076 69,1075 ' rendition="Line" xml:id="Pg_64_26"/>
+                <zone points = ' 71,1078 570,1077 568,1096 70,1096 ' rendition="Line" xml:id="Pg_64_27"/>
+                <zone points = ' 72,1103 568,1102 568,1119 71,1122 ' rendition="Line" xml:id="Pg_64_28"/>
+                <zone points = ' 71,1124 567,1121 567,1138 73,1139 ' rendition="Line" xml:id="Pg_64_29"/>
+                <zone points = ' 70,1146 570,1145 570,1161 70,1160 ' rendition="Line" xml:id="Pg_64_30"/>
+                <zone points = ' 70,1167 571,1168 570,1182 72,1184 ' rendition="Line" xml:id="Pg_64_31"/>
+                <zone points = ' 69,1192 571,1189 570,1202 70,1203 ' rendition="Line" xml:id="Pg_64_32"/>
+                <zone points = ' 71,1210 569,1207 569,1225 72,1226 ' rendition="Line" xml:id="Pg_64_33"/>
+                <zone points = ' 72,1227 568,1226 568,1243 71,1245 ' rendition="Line" xml:id="Pg_64_34"/>
+                <zone points = ' 71,1251 569,1248 569,1269 71,1266 ' rendition="Line" xml:id="Pg_64_35"/>
+                <zone points = ' 65,1270 572,1273 571,1288 68,1288 ' rendition="Line" xml:id="Pg_64_36"/>
+                <zone points = ' 68,1295 568,1294 569,1308 69,1308 ' rendition="Line" xml:id="Pg_64_37"/>
+                <zone points = ' 71,1316 572,1312 571,1330 70,1331 ' rendition="Line" xml:id="Pg_64_38"/>
+                <zone points = ' 70,1337 572,1335 572,1350 69,1353 ' rendition="Line" xml:id="Pg_64_39"/>
+                <zone points = ' 71,1354 569,1353 569,1370 71,1372 ' rendition="Line" xml:id="Pg_64_40"/>
+                <zone points = ' 68,1376 571,1375 569,1393 69,1393 ' rendition="Line" xml:id="Pg_64_41"/>
+                <zone points = ' 69,1400 571,1399 570,1416 70,1418 ' rendition="Line" xml:id="Pg_64_42"/>
+                <zone points = ' 67,1423 568,1422 567,1438 69,1436 ' rendition="Line" xml:id="Pg_64_43"/>
+                <zone points = ' 96,1441 568,1443 569,1457 97,1457 ' rendition="Line" xml:id="Pg_64_44"/>
+                <zone points = ' 67,1466 571,1463 569,1479 72,1482 ' rendition="Line" xml:id="Pg_64_45"/>
+                <zone points = ' 73,1482 570,1479 569,1500 72,1502 ' rendition="Line" xml:id="Pg_64_46"/>
+                <zone points = ' 69,1507 568,1505 568,1525 71,1523 ' rendition="Line" xml:id="Pg_64_47"/>
+                <!--seconda colonna-->
+                <zone points = ' 581,99 1082,96 1082,114 583,116 ' rendition="Line" xml:id="Pg_64_48"/>
+                <zone points = ' 582,120 1079,119 1080,137 583,137 ' rendition="Line" xml:id="Pg_64_49"/>
+                <zone points = ' 583,141 1079,139 1078,159 583,158 ' rendition="Line" xml:id="Pg_64_50"/>
+                <zone points = ' 584,163 1078,162 1079,179 583,180 ' rendition="Line" xml:id="Pg_64_51"/>
+                <zone points = ' 582,187 1084,182 1085,204 583,207 ' rendition="Line" xml:id="Pg_64_52"/>
+                <zone points = ' 581,207 1082,207 1084,227 580,230 ' rendition="Line" xml:id="Pg_64_53"/>
+                <zone points = ' 580,230 1080,227 1080,246 582,246 ' rendition="Line" xml:id="Pg_64_54"/>
+                <zone points = ' 579,249 1082,250 1083,267 581,268 ' rendition="Line" xml:id="Pg_64_55"/>
+                <zone points = ' 579,274 1082,271 1083,288 581,289 ' rendition="Line" xml:id="Pg_64_56"/>
+                <zone points = ' 580,292 1084,294 1083,310 581,310 ' rendition="Line" xml:id="Pg_64_57"/>
+                <zone points = ' 580,316 1082,314 1081,330 581,331 ' rendition="Line" xml:id="Pg_64_58"/>
+                <zone points = ' 579,336 1082,336 1083,352 580,352 ' rendition="Line" xml:id="Pg_64_59"/>
+                <zone points = ' 582,357 1085,355 1083,373 581,374 ' rendition="Line" xml:id="Pg_64_60"/>
+                <zone points = ' 581,380 1081,377 1082,392 583,393 ' rendition="Line" xml:id="Pg_64_61"/>
+                <zone points = ' 581,400 1082,397 1082,415 582,417 ' rendition="Line" xml:id="Pg_64_62"/>
+                <zone points = ' 579,422 1088,419 1086,436 582,439 ' rendition="Line" xml:id="Pg_64_63"/>
+                <zone points = ' 583,439 1082,441 1082,458 583,460 ' rendition="Line" xml:id="Pg_64_64"/>
+                <zone points = ' 580,463 1084,462 1083,480 583,481 ' rendition="Line" xml:id="Pg_64_65"/>
+                <zone points = ' 579,484 1084,486 1081,503 580,502 ' rendition="Line" xml:id="Pg_64_66"/>
+                <zone points = ' 580,508 1085,506 1084,523 583,523 ' rendition="Line" xml:id="Pg_64_67"/>
+                <zone points = ' 579,525 1086,526 1084,547 585,550 ' rendition="Line" xml:id="Pg_64_68"/>
+
+        </surface>
+        
+        <surface n="7" xml:id="Pg_81"><!--bibliografia, scienze filosofiche.-->
+            <graphic url='Pg_81.jpg' width='1111px' height='1596px' />
+                <zone points = ' 9,10 1095,11 1102,1588 8,1587 ' rendition="Hotspot" xml:id="Pg_81_s" />
+                <zone points = ' 168,594 368,596 368,613 169,615 ' rendition="Line" xml:id="Pg_81_1"/>
+                <zone points = ' 36,617 517,618 515,638 34,636 ' rendition="Line" xml:id="Pg_81_2"/>
+                <zone points = ' 59,640 512,638 511,660 57,660 ' rendition="Line" xml:id="Pg_81_3"/>
+                <zone points = ' 58,662 515,660 513,680 59,681 ' rendition="Line" xml:id="Pg_81_4"/>
+                <zone points = ' 36,682 514,685 513,702 35,702 ' rendition="Line" xml:id="Pg_81_5"/>
+                <zone points = ' 35,707 515,706 516,723 35,723 ' rendition="Line" xml:id="Pg_81_6"/>
+                <zone points = ' 37,729 516,726 515,744 37,745 ' rendition="Line" xml:id="Pg_81_7"/>
+                <zone points = ' 35,749 515,749 514,764 36,763 ' rendition="Line" xml:id="Pg_81_8"/>
+                <zone points = ' 34,766 516,764 516,785 35,784 ' rendition="Line" xml:id="Pg_81_9"/>
+                <zone points = ' 35,787 517,784 514,807 34,805 ' rendition="Line" xml:id="Pg_81_10"/>
+                <zone points = ' 34,810 516,810 515,824 35,824 ' rendition="Line" xml:id="Pg_81_11"/>
+                <zone points = ' 34,825 516,827 515,845 34,846 ' rendition="Line" xml:id="Pg_81_12"/>
+                <zone points = ' 35,850 513,849 514,866 36,866 ' rendition="Line" xml:id="Pg_81_13"/>
+                <zone points = ' 38,870 514,871 514,886 35,886 ' rendition="Line" xml:id="Pg_81_14"/>
+                <zone points = ' 33,889 516,890 515,907 34,907 ' rendition="Line" xml:id="Pg_81_15"/>
+                <zone points = ' 35,912 516,912 515,928 34,928 ' rendition="Line" xml:id="Pg_81_16"/>
+                <zone points = ' 34,932 515,932 515,948 35,948 ' rendition="Line" xml:id="Pg_81_17"/>
+                <zone points = ' 34,953 516,951 517,969 35,969 ' rendition="Line" xml:id="Pg_81_18"/>
+                <zone points = ' 34,974 516,970 517,989 34,990 ' rendition="Line" xml:id="Pg_81_19"/>
+                <zone points = ' 33,994 516,994 516,1010 34,1009 ' rendition="Line" xml:id="Pg_81_20"/>
+                <zone points = ' 33,1015 514,1014 514,1032 34,1032 ' rendition="Line" xml:id="Pg_81_21"/>
+                <zone points = ' 33,1035 514,1037 514,1052 34,1050 ' rendition="Line" xml:id="Pg_81_22"/>
+                <zone points = ' 32,1051 515,1052 513,1073 32,1071 ' rendition="Line" xml:id="Pg_81_23"/>
+                <zone points = ' 33,1076 513,1077 513,1094 31,1092 ' rendition="Line" xml:id="Pg_81_24"/>
+                <zone points = ' 31,1099 514,1098 514,1114 32,1113 ' rendition="Line" xml:id="Pg_81_25"/>
+                <zone points = ' 35,1119 514,1118 513,1135 33,1139 ' rendition="Line" xml:id="Pg_81_26"/>
+                <zone points = ' 35,1136 512,1135 514,1156 33,1154 ' rendition="Line" xml:id="Pg_81_27"/>
+                <zone points = ' 34,1159 514,1159 514,1174 34,1174 ' rendition="Line" xml:id="Pg_81_28"/>
+                <zone points = ' 34,1179 514,1177 513,1196 35,1194 ' rendition="Line" xml:id="Pg_81_29"/>
+                <zone points = ' 32,1196 514,1199 514,1216 33,1216 ' rendition="Line" xml:id="Pg_81_30"/>
+                <zone points = ' 33,1220 513,1219 513,1237 32,1235 ' rendition="Line" xml:id="Pg_81_31"/>
+                <zone points = ' 32,1234 514,1235 514,1257 33,1255 ' rendition="Line" xml:id="Pg_81_32"/>
+                <zone points = ' 33,1260 514,1261 514,1279 32,1279 ' rendition="Line" xml:id="Pg_81_33"/>
+                <zone points = ' 32,1283 512,1281 512,1296 33,1297 ' rendition="Line" xml:id="Pg_81_34"/>
+                <zone points = ' 31,1302 512,1301 512,1317 33,1317 ' rendition="Line" xml:id="Pg_81_35"/>
+                <zone points = ' 33,1323 513,1320 513,1336 33,1337 ' rendition="Line" xml:id="Pg_81_36"/>
+                <zone points = ' 31,1341 513,1342 512,1359 33,1359 ' rendition="Line" xml:id="Pg_81_37"/>
+                <zone points = ' 30,1362 513,1364 514,1380 32,1379 ' rendition="Line" xml:id="Pg_81_38"/>
+                <zone points = ' 27,1382 513,1385 512,1401 29,1400 ' rendition="Line" xml:id="Pg_81_39"/>
+                <zone points = ' 29,1400 511,1400 512,1423 28,1420 ' rendition="Line" xml:id="Pg_81_40"/>
+                <zone points = ' 26,1424 513,1427 512,1442 25,1442 ' rendition="Line" xml:id="Pg_81_41"/>
+                <zone points = ' 31,1438 512,1442 512,1462 30,1459 ' rendition="Line" xml:id="Pg_81_42"/>
+                <zone points = ' 30,1462 512,1467 512,1485 31,1482 ' rendition="Line" xml:id="Pg_81_43"/>
+                <!--seconda colonna-->
+                <zone points = ' 529,104 1017,103 1017,124 530,125 ' rendition="Line" xml:id="Pg_81_44"/>
+                <zone points = ' 531,128 1018,127 1017,144 532,147 ' rendition="Line" xml:id="Pg_81_45"/>
+                <zone points = ' 531,146 1017,146 1017,167 530,168 ' rendition="Line" xml:id="Pg_81_46"/>
+                <zone points = ' 531,168 1015,166 1015,188 531,187 ' rendition="Line" xml:id="Pg_81_47"/>
+                <zone points = ' 531,191 1016,191 1015,211 531,209 ' rendition="Line" xml:id="Pg_81_48"/>
+                <zone points = ' 531,213 1016,213 1016,230 531,228 ' rendition="Line" xml:id="Pg_81_49"/>
+                <zone points = ' 531,231 1015,230 1016,248 532,246 ' rendition="Line" xml:id="Pg_81_50"/>
+                <zone points = ' 529,250 1016,251 1016,267 531,270 ' rendition="Line" xml:id="Pg_81_51"/>
+                <zone points = ' 531,274 1018,271 1017,291 531,291 ' rendition="Line" xml:id="Pg_81_52"/>
+                <zone points = ' 532,290 1017,289 1017,311 532,310 ' rendition="Line" xml:id="Pg_81_53"/>
+                <zone points = ' 531,314 1019,313 1017,330 531,330 ' rendition="Line" xml:id="Pg_81_54"/>
+                <zone points = ' 532,335 1016,334 1015,353 533,353 ' rendition="Line" xml:id="Pg_81_55"/>
+                <zone points = ' 543,355 1017,353 1015,373 542,372 ' rendition="Line" xml:id="Pg_81_56"/>
+                <zone points = ' 530,375 1016,378 1014,393 531,394 ' rendition="Line" xml:id="Pg_81_57"/>
+                <zone points = ' 528,398 1016,398 1015,415 530,415 ' rendition="Line" xml:id="Pg_81_58"/>
+                <zone points = ' 528,417 1015,418 1014,435 531,436 ' rendition="Line" xml:id="Pg_81_59"/>
+                <zone points = ' 528,440 1015,439 1013,454 531,456 ' rendition="Line" xml:id="Pg_81_60"/>
+                <zone points = ' 528,459 1017,455 1015,478 529,475 ' rendition="Line" xml:id="Pg_81_61"/>
+                <zone points = ' 528,476 1014,476 1014,495 530,493 ' rendition="Line" xml:id="Pg_81_62"/>
+                <zone points = ' 528,497 1014,499 1014,516 527,516 ' rendition="Line" xml:id="Pg_81_63"/>
+                <zone points = ' 527,521 1015,521 1014,537 530,536 ' rendition="Line" xml:id="Pg_81_64"/>
+                <zone points = ' 529,540 1013,539 1015,557 529,561 ' rendition="Line" xml:id="Pg_81_65"/>
+                <zone points = ' 530,558 1014,557 1016,578 529,579 ' rendition="Line" xml:id="Pg_81_66"/>
+                <zone points = ' 529,578 1015,580 1014,598 530,596 ' rendition="Line" xml:id="Pg_81_67"/>
+                <zone points = ' 530,601 1013,601 1012,621 529,620 ' rendition="Line" xml:id="Pg_81_68"/>
+                <zone points = ' 526,624 1014,625 1012,642 527,640 ' rendition="Line" xml:id="Pg_81_69"/>
+                <zone points = ' 527,646 1013,647 1013,661 529,661 ' rendition="Line" xml:id="Pg_81_70"/>
+                <zone points = ' 527,664 1014,666 1014,682 526,681 ' rendition="Line" xml:id="Pg_81_71"/>
+                <zone points = ' 526,686 1016,687 1013,705 528,704 ' rendition="Line" xml:id="Pg_81_72"/>
+                <zone points = ' 527,704 1014,704 1014,728 527,725 ' rendition="Line" xml:id="Pg_81_73"/>
+                <zone points = ' 529,724 1013,721 1013,746 527,745 ' rendition="Line" xml:id="Pg_81_74"/>
+                <zone points = ' 526,744 1012,744 1012,765 525,763 ' rendition="Line" xml:id="Pg_81_75"/>
+                <zone points = ' 525,768 1012,770 1012,785 526,785 ' rendition="Line" xml:id="Pg_81_76"/>
+                <zone points = ' 526,789 1014,789 1013,806 526,803 ' rendition="Line" xml:id="Pg_81_77"/>
+                <zone points = ' 526,807 1015,810 1015,828 526,827 ' rendition="Line" xml:id="Pg_81_78"/>
+                <zone points = ' 527,831 1015,833 1014,849 526,848 ' rendition="Line" xml:id="Pg_81_79"/>
+                <zone points = ' 527,848 1012,848 1014,869 526,867 ' rendition="Line" xml:id="Pg_81_80"/>
+                <zone points = ' 526,871 1015,871 1016,891 525,887 ' rendition="Line" xml:id="Pg_81_81"/>
+                <zone points = ' 525,890 1016,895 1016,911 526,908 ' rendition="Line" xml:id="Pg_81_82"/>
+                <zone points = ' 526,912 1015,915 1014,930 527,930 ' rendition="Line" xml:id="Pg_81_83"/>
+                <zone points = ' 524,934 1013,936 1013,952 524,949 ' rendition="Line" xml:id="Pg_81_84"/>
+                <zone points = ' 524,953 1014,956 1014,973 526,971 ' rendition="Line" xml:id="Pg_81_85"/>
+        </surface>        
+     </facsimile> 
+
+       <text xml:lang="it" type="newspaper">
+        <body>
+            <pb xml:id="P1_pag40" n="40" facs="#Pg_40" /><!-- segna l'inizio di una nuova pagina, collega le facs della pagina-->
+            <div type="page" n="40">
+                <cb n="1" /> <!-- Stiamo guardando la colonna 1 della pagina 40-->
+                <head xml:id="Pg_h1" facs="#Pg_40_1">PERLA.</head>  <!-- con head specifico il titolo--> 
+                <head xml:id="Pg_h2" facs="#Pg_40_2"> SCENETTA CAMPAGNOLA</head> <!-- con head specifico il sottotitolo-->
+                <ab>
+                    <lb xml:id="Pg_L1" n="1" facs="#Pg_40_3" />
+                    <q>" Secondo me, siccome sono tre o quattro giorni che
+
+                    <lb xml:id="Pg_L2" n="2" facs="#Pg_40_4" />
+                    non fa altro che passar militari che vanno alla finta <w>bat-
+
+                    <lb xml:id="Pg_L3" n="3" facs="#Pg_40_5" />   
+                    taglia</w>, questo che qui lo deve avere smarrito di certo qualche
+
+                    <lb xml:id="Pg_L4" n="4" facs="#Pg_40_6" />  
+                    <persName><roleName role="military">uffiziale</roleName></persName> perchè, lo so, que' signori ci ambiscono a tenere di 
+                    
+                    <lb xml:id="Pg_L5" n="5" facs="#Pg_40_7" />    
+                    questi animali buffi. Ma guardi com'è festoso! Io lo terrei
+
+                    <lb xml:id="Pg_L6" n="6" facs="#Pg_40_8" /> 
+                    per me, ma è proprio un peccato che non abbai punto
+
+                    <lb xml:id="Pg_L7" n="7" facs="#Pg_40_9" /> 
+                    perchè io sul baroccio ho bisogno di tenerci un cane che 
+
+                    <lb xml:id="Pg_L8" n="8" facs="#Pg_40_10" /> 
+                    quando s'accosta gente si faccia sentire, se no addio la
+
+                    <lb xml:id="Pg_L9" n="9" facs="#Pg_40_11" /> 
+                    mi' roba. L'avrebbe a pigliar lei, vede. E a lei glie lo do <w>vo-
+
+                    <lb xml:id="Pg_L10" n="10" facs="#Pg_40_12" /> 
+                    lentieri</w> anche per nulla."</q> 
+
+                </ab>    
+
+                <ab>
+                    <lb xml:id="Pg_L11" n="11" facs="#Pg_40_13" /> 
+                    Così mi diceva una mattina <persName>Pasquale <addName type="epithet">barocciaio</addName></persName>, che <w>in-
+                                                       
+                    <lb xml:id="Pg_L12" n="12" facs="#Pg_40_14" /> 
+                    contrandomi</w> per la strada aveva fermato il mulo per <w>mo-
+
+                    <lb xml:id="Pg_L13" n="13" facs="#Pg_40_15" /> 
+                    strarmi</w> un bel cagnolino da lui trovato la sera avanti sul
+
+                    <lb xml:id="Pg_L14" n="14" facs="#Pg_40_16" /> 
+                    <placeName type="river">greto d'Arno</placeName>, mentre era per buttarsi nell'acqua e <w>traver-
+                    
+                    <lb xml:id="Pg_15" n="15" facs="#Pg_40_17" /> 
+                    sarlo</w> a guado.
+                </ab>
+
+                <ab> 
+                    <lb xml:id="Pg_L16" n="16" facs="#Pg_40_18" /> 
+                    <q>" Lo prenderei tanto volentieri, "</q> risposi, <q>"perchè dopo
+
+                    <lb xml:id="Pg_L17" n="17" facs="#Pg_40_19" />   
+                    esser così festoso è anche d'una razza molto rara; ma, che
+
+                    <lb xml:id="Pg_L18" n="18" facs="#Pg_40_20" /> 
+                    vuoi? fra grossi e piccini ce n'ho cinque per la casa, e non
+
+                    <lb xml:id="Pg_L19" n="19" facs="#Pg_40_21" /> 
+                    ho voglia davvero di mettermi d'intorno un'altra di queste 
+
+                    <lb xml:id="Pg_L20" n="20" facs="#Pg_40_22" /> 
+                    seccature"</q>. 
+
+                    <lb xml:id="Pg_L21" n="21" facs="#Pg_40_23" /> 
+                    <q>" Guà! mi rincresce. A lei signoria glie l'avre' dato <w>di-
+
+                    <lb xml:id="Pg_L22" n="22" facs="#Pg_40_24" /> 
+                    molto</w> volentieri."</q>
+
+                    <lb xml:id="Pg_L23" n="23" facs="#Pg_40_25" />
+                    <q>" Ti ringrazio, <persName>Pasquale</persName>."</q>
+
+                    <lb xml:id="Pg_L24" n="24" facs="#Pg_40_26" />
+                    <q>" O andiamo. Dunque, mi comanda nulla lei, di lassù?"</q>
+
+                    <lb xml:id="Pg_L25" n="25" facs="#Pg_40_27" />   
+                    <q>" Se vedi il <abbr>sor</abbr> <expan resp="SP">signor</expan> <persName><forename>Luigi</forename></persName> e il <abbr>sor</abbr> <expan resp="SP">signor</expan> <persName><forename>Roberto</forename></persName>, salutameli tanto."</q>
+                       <!--'sor' è la forma abbreviata di signor-->
+                    <lb xml:id="Pg_L26" n="26" facs="#Pg_40_28" /> 
+                    <q>" Non pensi, sarà servito. A rivederlo <persName><roleName>signorìa</roleName></persName>. Là, <persName><forename>Gio-</forename></persName>
+                                                          
+                    <lb xml:id="Pg_L27" n="27" facs="#Pg_40_29" /> 
+                    <persName><forename>vanni</forename></persName>, là, s'è fatto tardi."</q>
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L28" n="28" facs="#Pg_40_30" /> 
+                    E accompagnando con una frustata queste ultime parole
+
+                    <lb xml:id="Pg_L29" n="29" facs="#Pg_40_31" /> 
+                    che erano rivolte al suo mulo, si allontanò.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L30" n="30" facs="#Pg_40_32" /> 
+                    Quello che segue, lo seppi qualche giorno dopo.
+
+                    <lb xml:id="Pg_L31" n="31" facs="#Pg_40_33" />   
+                    Circa due miglia lontano dal punto dove c'eravamo <w>la-
+
+                    <lb xml:id="Pg_L32" n="32" facs="#Pg_40_34" /> 
+                    sciati</w>, <persName><forename>Pasquale</forename></persName> trovò da esitare il cane per una dozzina
+
+                    <lb xml:id="Pg_L33" n="33" facs="#Pg_40_35" />
+                    di carciofi a una famiglia di contadini che stavano lungo  
+
+                    <cb n="2" /> <!--inizio seconda colonna 'Perla'-->
+                    <lb xml:id="Pg_L34" n="34" facs="#Pg_40_36" />
+                    la via maestra. Concluso il contratto con la consegna del
+
+                    <lb xml:id="Pg_L35" n="35" facs="#Pg_40_37" />
+                    cane da una parte e dei carciofi dall'altra, il <persName><addName type="epithet">Capoccia</addName></persName> chiese
+                                                                                                 
+                    <lb xml:id="Pg_L36" n="36" facs="#Pg_40_38" />
+                    al <persName><addName type="epithet">barrocciao</addName></persName>: 
+                </ab>
+                
+                <ab>
+                    <lb xml:id="Pg_L39" n="37" facs="#Pg_40_39" />
+                    <q>"Dico bene. O come si domanda egli quest'animale?"</q>
+
+                    <lb xml:id="Pg_L40" n="38" facs="#Pg_40_40" />
+                    <q>"Io lo chiamavo <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> perchè quando lo trovai
+                       
+                    <lb xml:id="Pg_L41" n="39" facs="#Pg_40_41" />
+                    era più lercio del fruciandolo del forno, ma se poi questo
+
+                    <lb xml:id="Pg_L42" n="40" facs="#Pg_40_42" />
+                    nome non vi garbasse...."</q>
+
+                    <lb xml:id="Pg_L43" n="41" facs="#Pg_40_43" />
+                    <q>" E allora si chiamerà <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> anco noi. To', <term ref="#Pill"><persName><addName type="nickname">Pil-</addName></persName></term>
+                    
+                    <lb xml:id="Pg_L44" n="42" facs="#Pg_40_44" />
+                    <term ref="#Pill"><persName><addName type="nickname">lacchera</addName></persName></term> , to'."</q>
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L45" n="43" facs="#Pg_40_45" />
+                    E il canino corse a leccar la mano del nuovo padrone
+
+                    <lb xml:id="Pg_L46" n="44" facs="#Pg_40_46" />
+                    che lo menò in casa.
+
+                    <lb xml:id="Pg_L47" n="45" facs="#Pg_40_47" />
+                    Il povero <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> non dette nel genio al resto della 
+
+                    <lb xml:id="Pg_L48" n="46" facs="#Pg_40_48" />
+                    famiglia, ed anche lo stesso <persName><addName type="epithet">Capoccia</addName></persName>, dopo il mezzogiorno,
+
+                    <lb xml:id="Pg_L49" n="47" facs="#Pg_40_49" />
+                    aveva già cominciato a lavorare di pedate alla sua usanza
+
+                    <lb xml:id="Pg_L50" n="48" facs="#Pg_40_50" />
+                    perchè l'aveva visto ricusare un pezzo di pan nero e non 
+
+                    <lb xml:id="Pg_L51" n="49" facs="#Pg_40_51" />
+                    aveva voluto abbaiare dietro al calesse del <persName>Fattore</persName>
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L52" n="50" facs="#Pg_40_52" />
+                    Ai giovani non piacque, perchè quando si doveva <w>pren-
+
+                    <lb xml:id="Pg_L53" n="51" facs="#Pg_40_53" />
+                    dere</w> un cane, dissero loro, era meglio prenderlo da
+                    
+                    <lb xml:id="Pg_L54" n="52" facs="#Pg_40_54" />
+                    caccia.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L55" n="53" facs="#Pg_40_55" />
+                    La <persName>Massaia</persName> poi era implacabile. Con quella dozzina di 
+
+                    <lb xml:id="Pg_L56" n="54" facs="#Pg_40_56" />
+                    carciofi attraverso all'anima, diceva che cani a quella <w>ma-
+                    
+                    <lb xml:id="Pg_L57" n="55" facs="#Pg_40_57" />
+                    niera</w> non n'aveva ma' visti; ma sopra tutto poi quel pelo
+
+                    <lb xml:id="Pg_L58" n="56" facs="#Pg_40_58" />
+                    lungo che gli nascondeva affatto gli occhi, era per lei <w>qualc-
+
+                    <lb xml:id="Pg_L59" n="57" facs="#Pg_40_59" />
+                    che</w> cosa che non le voleva andar giù in punte maniere.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L60" n="58" facs="#Pg_40_60" />
+                    <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> passò la giornata fra 'l dolore d'una pedata
+
+                    <lb xml:id="Pg_L61" n="59" facs="#Pg_40_61" />
+                    e la paura d'averne un'altra. Finalmente, su la sera, la 
+
+                    <lb xml:id="Pg_L62" n="60" facs="#Pg_40_62" />
+                    famiglia si radunò tutta in cucina per la cena. Dopo aver 
+
+                    <lb xml:id="Pg_L63" n="61" facs="#Pg_40_63" />
+                    messo in tavola il tegame della minestra, la <persName>Massaia</persName> s'<w>ac-
+
+                    <lb xml:id="Pg_L64" n="62" facs="#Pg_40_64" />
+                    costò</w> al <persName><addName role="epithet">Capoccia</addName></persName> che stava pensieroso nel canto del fuoco, 
+
+                    <lb xml:id="Pg_L65" n="63" facs="#Pg_40_65" />
+                    e gli disse in tono burbero all'orecchio: 
+
+                    <lb xml:id="Pg_L66" n="64" facs="#Pg_40_66" />
+                    <q>"L'avete preso voi l'ulivo benedetto?"</q>
+
+                    <lb xml:id="Pg_L67" n="65" facs="#Pg_40_67" />
+                    <q>"Per che farne?"</q>
+
+                    <lb xml:id="Pg_L68" n="66" facs="#Pg_40_68" />
+                    <q>"A voi; e tenetevelo addosso, vecchio grullo, e datene
+
+                    <lb xml:id="Pg_L69" n="67" facs="#Pg_40_69" />
+                    una foglia per uno anche a que' ragazzi."</q>
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L70" n="68" facs="#Pg_40_70" />
+                    Si misero a tavola seri e molto sospettosi, serrandosi
+
+                    <lb xml:id="Pg_L71" n="69" facs="#Pg_40_71" />
+                    l'uno addosso all'altro, perchè ormai, col calar della sera, 
+
+                    <lb xml:id="Pg_L72" n="70" facs="#Pg_40_72" />
+                    s'era fortemente insinuato nell'animo di tutti il dubbio
+
+                    <lb xml:id="Pg_L73" n="71" facs="#Pg_40_73" />
+                    d'essersi messi le streghe in casa. Masticavano scongiuri, 
+
+                    <lb xml:id="Pg_L74" n="72" facs="#Pg_40_74" />
+                    facevan corna ad ogni momento, e pareva loro mill'anni 
+
+                    <lb xml:id="Pg_L75" n="73" facs="#Pg_40_75" />
+                    d'arrivare in fondo alla cena per dire il rosario.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L76" n="74" facs="#Pg_40_76" />
+                    In un momento di silenzio, <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term>, che s'era <w>rinta-
+
+                    <lb xml:id="Pg_L77" n="75" facs="#Pg_40_77" />
+                    nato</w> sotto la madia, stimolato dalla fame, escì di là sotto
+
+                    <lb xml:id="Pg_L78" n="76" facs="#Pg_40_78" />
+                    adagio adagio e inosservato, e cercando forse di mettere a 
+
+                    <lb xml:id="Pg_L79" n="77" facs="#Pg_40_79" />
+                    profitto una delle sue abilità per intenerire i nuovi padroni, 
+
+                    <lb xml:id="Pg_L80" n="78" facs="#Pg_40_80" />
+                    si mise in mezzo alla stanza ritto su le gambe di dietro. 
+                </ab>
+
+                <ab> 
+                    <lb xml:id="Pg_L81" n="79" facs="#Pg_40_81" />
+                    Un grido straziante escì dal petto della <persName>Massaia</persName>; tutti
+
+                    <lb xml:id="Pg_L82" n="80" facs="#Pg_40_82" />
+                    impallidirono e quasi fuori di sè si precipitarono <w>esterre-
+
+                    <lb xml:id="Pg_L83" n="81" facs="#Pg_40_83" />
+                    fatti</w>, facendosi segni di croce e urlando "misericordia"
+
+                    <lb xml:id="Pg_L84" n="82" facs="#Pg_40_84" />
+                    verso un crocifisso che pendeva ad una parete della stanza. 
+
+                    <lb xml:id="Pg_L85" n="83" facs="#Pg_40_85" />
+                    <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> rientrò spaurito sotto la madia.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L86" n="84" facs="#Pg_40_86" />
+                    <q>" Animo, <persName><forename>Angiolo</forename></persName>!"</q> disse il <persName><addName role="epithet">Capoccia</addName></persName> al maggiore de'suoi
+                      
+                    <lb xml:id="Pg_L87" n="85" facs="#Pg_40_87" />
+                    figlioli. <q>"Io, con quell'animale in casa, la nottata non la
+
+                    <lb xml:id="Pg_L88" n="86" facs="#Pg_40_88" />
+                    passo. Fanne quel che ti pare ma levamelo di lì."</q>
+
+                    <lb xml:id="Pg_L89" n="87" facs="#Pg_40_89" />
+                    <persName><forename>Angiolo</forename></persName> non rispose. Il <persName><addName type="epithet">Capoccia</addName></persName> che capì di che cosa 
+
+                    <lb xml:id="Pg_L90" n="88" facs="#Pg_40_90" />
+                    si trattava, replicò:
+
+                    <lb xml:id="Pg_L91" n="89" facs="#Pg_40_91" />
+                    <q>"Se hai paura, piglia con te chi ti pare, ma levami 
+
+                    <lb xml:id="Pg_L92" n="90" facs="#Pg_40_92" />
+                    quella bestia di casa se no mi dànno."</q>
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L93" n="91" facs="#Pg_40_93" />
+                    <persName><forename>Angiolo</forename></persName> legò il cane con una cordicella e s’ avviò, <w>stra-
+                    
+                    <lb xml:id="Pg_L94" n="92" facs="#Pg_40_94" />
+                    scicandoselo</w> dietro, verso l’uscio, fra le imprecazioni dei <w>ri-
+
+                    <lb xml:id="Pg_L95" n="93" facs="#Pg_40_95" />
+                    masti</w>, mentre la <persName>Massaia</persName>, non trovando altro che le venisse
+
+                    <lb xml:id="Pg_L96" n="94" facs="#Pg_40_96" />
+                    alle mani o forse annettendoci qualche importanza <w>antidia­-
+
+                    <lb xml:id="Pg_L97" n="95" facs="#Pg_40_97" />
+                    bolica</w>, si levò uno scarpone di vacchetta e lo tirò con tanta
+
+                    <lb xml:id="Pg_L98" n="96" facs="#Pg_40_98" />
+                    rabbia contro il povero <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term> che lo ridusse ad <w>allon­-
+
+                    <lb xml:id="Pg_L99" n="97" facs="#Pg_40_99" />
+                    tanarsi</w> zoppicando e mandando lamentosi guaiti.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_L100" n="98" facs="#Pg_40_100" />
+                    <persName><forename>Angiolo</forename></persName> ed il suo compagno tornarono presto e con aria
+
+                    <lb xml:id="Pg_L101" n="99" facs="#Pg_40_101" />
+                    molto soddisfatta; la cena fu terminata tranquillamente ed
+
+                    <lb xml:id="Pg_L102" n="100" facs="#Pg_40_102" />
+                    il rosario, cotesta sera, fu detto di quindici poste. 
+                </ab>
+            </div>
+            <!--prima colonna pagina 41-->
+            <pb xml:id="P2_pag41" n="41" facs="#Pg_41"/>
+            <div type="page" n="41">
+            <cb n="1" /> <!--indica la prima colonna-->
+                <ab>
+                    <lb xml:id="Pg_R1" n="1" facs="#Pg_41_1"/>  
+                    Il giorno di poi, su tutte le cantonate del paese vicino
+
+                    <lb xml:id="Pg_R2" n="2" facs="#Pg_41_2"/>
+                    si leggeva questo avviso.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R3" n="3" facs="#Pg_41_3"/>
+                    <q>"Quattrocento lire di cortesia a chi riporterà al <orgName>Comando</orgName>
+
+                    <lb xml:id="Pg_R4" n="4" facs="#Pg_41_4"/> 
+                    <orgName>militare</orgName> una Cagnolina Maltese di pelame bianco finissimo
+
+                    <lb xml:id="Pg_R5" n="5" facs="#Pg_41_5"/>
+                    che risponde al nome di <persName><forename>Perla</forename></persName>. Oltre che alla detta somma,
+
+                    <lb xml:id="Pg_R6" n="6" facs="#Pg_41_6"/>
+                    colui che la riporterà, avrà diritto alla imperitura <w>gratitu-
+
+                    <lb xml:id="Pg_R7" n="7" facs="#Pg_41_7"/> 
+                    dine</w> del proprietario."</q>
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R8" n="8" facs="#Pg_41_8"/>
+                    Passarono tre giorni e nessuno comparve al <orgName>Comando</orgName>
+
+                    <lb xml:id="Pg_R9" n="9" facs="#Pg_41_9"/>
+                    <orgName>militare</orgName>.
+
+                    <lb xml:id="Pg_R10" n="10" facs="#Pg_41_10"/>
+                    Intanto, nella famiglia dei contadini, dopo che ebbero
+
+                    <lb xml:id="Pg_R11" n="11" facs="#Pg_41_11"/>
+                    saputo dell'avviso, seguirono violentissime scene che <w>det-
+
+                    <lb xml:id="Pg_R12" n="12" facs="#Pg_41_12"/> 
+                    tero</w> poi motivo al padrone di licenziarsi dal podere ed alla
+
+                    <lb xml:id="Pg_R13" n="13" facs="#Pg_41_13"/>
+                    <persName>massaia</persName> di convincersi sempre più che il Diavolo in forma
+
+                    <lb xml:id="Pg_R14" n="14" facs="#Pg_41_14"/>
+                    di cane era stato in casa sua.
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R15" n="15" facs="#Pg_41_15"/>                  
+                    Quello stesso giorno fu veduto un <persName><roleName type="military">Colonnello d'artiglieria</roleName></persName> 
+                                                                                      
+                    <lb xml:id="Pg_R16" n="16" facs="#Pg_41_16"/>
+                    percorre ansante le vie del paese, parlare concitato con
+
+                    <lb xml:id="Pg_R17" n="17" facs="#Pg_41_17"/>
+                    <persName><forename>Pasquale</forename></persName> e dopo poco, con aria lietissima, entrare con lui
+
+                    <lb xml:id="Pg_R18" n="18" facs="#Pg_41_18"/>
+                    in un legno di vettura e prendere la via della campagna.
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R19" n="19" facs="#Pg_41_19"/>
+                    Il vento della mattina, impregnato del profumo dei fiori   
+
+                    <lb xml:id="Pg_R20" n="20" facs="#Pg_41_20"/> 
+                    di mandorlo, si divertiva ad arruffare i folti baffi del <persName><roleName type="military">Co-</roleName></persName>
+
+                    <lb xml:id="Pg_R21" n="21" facs="#Pg_41_21"/> 
+                    <persName><roleName type="military">lonnello</roleName></persName> il quale, tutto buonumore, offrendo a <persName><forename>Pasquale</forename></persName> un
+
+                    <lb xml:id="Pg_R22" n="22" facs="#Pg_41_22"/>
+                    un sigaro d'<placeName><settlement type="municipality">avana</settlement></placeName>, gli domandava:
+                                               
+                    <lb xml:id="Pg_R23" n="23" facs="#Pg_41_23"/>
+                    <q>" Che è molto distante? "</q>
+
+                    <lb xml:id="Pg_R24" n="24" facs="#Pg_41_24"/>
+                    <q>" Neanche quattro miglia. In una mezz'ora siamo 
+                    
+                    <lb xml:id="Pg_R25" n="25" facs="#Pg_41_25"/>
+                    lassù. "</q>
+
+                    <lb xml:id="Pg_R26" n="26" facs="#Pg_41_26"/> 
+                    <q>" E l'avranno sempre loro, ne siete proprio sicuro? "</q>
+
+                    <lb xml:id="Pg_R27" n="27" facs="#Pg_41_27"/> 
+                    <q>" Perdinci bacco! o che n'hanno a aver fatto? "</q>
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R28" n="28" facs="#Pg_41_28"/>
+                    In un trasporto d'allegrezza il <persName><roleName type="military">Colonnello</roleName></persName> abbracciò 
+
+                    <lb xml:id="Pg_R29" n="29" facs="#Pg_41_29"/> 
+                    <persName><forename>Pasquale</forename></persName>; gli parlò dell'affezione di sua figlia per la <w>pic-
+
+                    <lb xml:id="Pg_R30" n="30" facs="#Pg_41_30"/> 
+                    cola</w> <persName>Perla</persName> e dello stato di disperazione nel quale da tre
+
+                    <lb xml:id="Pg_R31" n="31" facs="#Pg_41_31"/> 
+                    giorni si trovava; lodò il sistema toscano della mezzerìa e
+                                                          
+                    <lb xml:id="Pg_R32" n="32" facs="#Pg_41_32"/>
+                    parlò con entusiamo dell'indole mite e de' costumi <w>sem-
+
+                    <lb xml:id="Pg_R33" n="33" facs="#Pg_41_33"/>
+                    plici</w> e patriarcali de' nostri contadini.
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R34" n="34" facs="#Pg_41_34"/>
+                    Il cavallo intanto divorava la via a tratto serrato e dopo
+
+                    <lb xml:id="Pg_R35" n="35" facs="#Pg_41_35"/>
+                    poco, di sopra ad una svoltata a secco della strada dalla
+
+                    <lb xml:id="Pg_R36" n="36" facs="#Pg_41_36"/>
+                    quale si dominava la vallata, <persName><forename>Pasquale</forename></persName> gridò:
+
+                    <lb xml:id="Pg_R37" n="37" facs="#Pg_41_37"/>
+                    <q>" Eccola laggiù! "</q>
+
+                    <lb xml:id="Pg_R38" n="38" facs="#Pg_41_38"/> 
+                    <q>" Chi? "</q> domandò con impeto il <persName><roleName type="military">Colonnello</roleName></persName> 
+
+                    <lb xml:id="Pg_R39" n="39" facs="#Pg_41_39"/>
+                    <q>" La casa..... "</q>
+
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R40" n="40" facs="#Pg_41_40"/>
+                    Dieci minuti dopo erano già arrivati. Il <persName><roleName type="military">Colonnello</roleName></persName> tirò  
+
+                    <lb xml:id="Pg_R41" n="41" facs="#Pg_41_41"/>    
+                    fuori il portafogli perché era impaziente di ricompensare, 
+
+                    <lb xml:id="Pg_R42" n="42" facs="#Pg_41_42"/>
+                    così diceva lui, quelle buone creature; saltò dal legno e  
+
+                    <lb xml:id="Pg_R43" n="43" facs="#Pg_41_43"/> 
+                    tutto lieto corse incontro alla <persName>Massaia</persName> che era comparsa
+
+                    <lb xml:id="Pg_R44" n="44" facs="#Pg_41_44"/>
+                    arcigna su la porta. Dopo aver scambiato fra loro poche
+
+                    <lb xml:id="Pg_R45" n="45" facs="#Pg_41_45"/>
+                    parole, la <persName>Massaia</persName> rientrò in casa brontolando e voltandosi
+
+                    <lb xml:id="Pg_R46" n="46" facs="#Pg_41_46"/> 
+                    indietro a squadrare sospettosa il <persName><roleName type="military">Colonnello</roleName></persName> che <w>immo-
+
+                    <lb xml:id="Pg_R47" n="47" facs="#Pg_41_47"/> 
+                    bile</w> e taciturno era rimasto a guardarla con le braccia <w>in-
+
+                    <lb xml:id="Pg_R48" n="48" facs="#Pg_41_48"/>  
+                    crociate</w> sul petto.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R49" n="49" facs="#Pg_41_49"/>
+                    <persName><forename>Pasquale</forename></persName> che aveva osservato attento quella scena <w>scac-
+
+                    <lb xml:id="Pg_R50" n="50" facs="#Pg_41_50"/>  
+                    ciando</w> le mosche al cavallo, <q>" Dio del cielo! "</q> gridò a un 
+
+                    <lb xml:id="Pg_R51" n="51" facs="#Pg_41_51"/>
+                    tratto, spaurito. <q>" O che è stato? "</q>  
+
+                    <lb xml:id="Pg_R52" n="52" facs="#Pg_41_52"/>
+                    <q>" Queste buone creature!...."</q> esclamò il <persName><roleName type="military">Colonnello</roleName></persName> con
+
+                    <lb xml:id="Pg_R53" n="53" facs="#Pg_41_53"/>
+                    angosciosa ironia, <q>" queste buone creature! "</q> e stringendo
+
+                    <lb xml:id="Pg_R54" n="54" facs="#Pg_41_54"/>
+                    convulsamente il portafogli, tornò frettoloso alla vettura....
+
+                    <lb xml:id="Pg_R55" n="55" facs="#Pg_41_55"/>
+                    La povera <persName>Perla</persName>, sotto il nome di <term ref="#Pill"><persName><addName type="nickname">Pillacchera</addName></persName></term>, già da tre
+                                                                                                            
+                    <lb xml:id="Pg_R56" n="56" facs="#Pg_41_56"/>
+                    giorni dormiva accanto alle radici d'un olivo, con la testa
+
+                    <lb xml:id="Pg_R57" n="57" facs="#Pg_41_57"/>
+                    fracassata da un colpo di vanga.
+
+                    <lb xml:id="Pg_R58" n="58" facs="#Pg_41_58"/>
+                    <q>" Creda pure "</q> mi disse <persName><forename>Pasquale</forename></persName> <q>"se avesse visto come
+
+                    <lb xml:id="Pg_R59" n="59" facs="#Pg_41_59"/>
+                    rimase quel povero signore, avrebbe fatto compassione anche
+
+                    <lb xml:id="Pg_R60" n="60" facs="#Pg_41_60"/>
+                    a lei! "</q> 
+                </ab>
+
+                <ab>
+                   <lb xml:id="Pg_R61" n="61" facs="#Pg_41_61"/>
+                    In quella casa ora ci si sente, e nessuno dei dintorni
+
+                   <lb xml:id="Pg_R62" n="62" facs="#Pg_41_62"/>
+                    s'azzarderebbe a dormir solo in una certa camera, <w>nem-
+
+                   <lb xml:id="Pg_R63" n="63" facs="#Pg_41_63"/>
+                    meno</w> per tutto l'oro del mondo. Eccone le cause.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R64" n="64" facs="#Pg_41_64"/>
+                    Dopo quel fatto, ogni volta che un cane passava davanti
+
+                    <lb xml:id="Pg_R65" n="65" facs="#Pg_41_65"/>
+                    alla casa del contadino, tutti gli uomini gli erano dietro per
+
+                    <lb xml:id="Pg_R66" n="66" facs="#Pg_41_66"/>
+                    prenderlo, ma per qualche tempo non fu loro possibile d'<w>ag-
+
+                    <lb xml:id="Pg_R67" n="67" facs="#Pg_41_67"/>
+                    guantarne</w> nemmeno uno. Finalmente uno si lasciò prendere
+
+                    <cb n="2" /> <!--inizio seconda colonna-->
+                    <lb xml:id="Pg_R68" n="68" facs="#Pg_41_68"/>
+                    ma con gran fatica, e dopo aver addentato ripetutamente
+
+                    <lb xml:id="Pg_R69" n="69" facs="#Pg_41_69"/>
+                    il <persName><addName type="epithet">Capoccia</addName></persName> alle gambe ed alle mani.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_R70" n="70" facs="#Pg_41_70"/>
+                    Costui aspettò ansioso il desiderato avviso su le <w>canto-
+
+                    <lb xml:id="Pg_R71" n="71" facs="#Pg_41_71"/>
+                    nate</w>, ma comparve in vece un certo malarello che in tre
+
+                    <lb xml:id="Pg_R72" n="72" facs="#Pg_41_72"/>
+                    giorni lo mandò nel mondo di là, senza che nemmeno al
+
+                    <lb xml:id="Pg_R73" n="73" facs="#Pg_41_73"/>
+                    <persName><roleName type="honorific">Priore</roleName></persName> potesse riuscire di fargli prendere l’ostia consacrata.
+                </ab>
+                    
+                <ab> 
+                    <lb xml:id="Pg_R74" n="74" facs="#Pg_41_74"/>
+                    <q>" Neanche nell’acqua! capisce? ”</q> mi diceva <persName><forename>Pasquale</forename></persName> con
+
+                    <lb xml:id="Pg_R75" n="75" facs="#Pg_41_75"/>
+                    gli occhi stralunati dallo spavento, <q>“ neanche nell’ acqua,
+
+                    <lb xml:id="Pg_R76" n="76" facs="#Pg_41_76"/>
+                    Dio del cielo, ci fu versi di fargliela ingozzare! e quando
+
+                    <lb xml:id="Pg_R77" n="77" facs="#Pg_41_77"/>
+                    la vedeva: mugli che pareva un liofante.... Arrabbiato? O
+
+                    <lb xml:id="Pg_R78" n="78" facs="#Pg_41_78"/>
+                    senta, veh! il <persName><roleName type="honorific">dottore</roleName></persName> è padrone di dire quel che gli pare
+                      
+                    <lb xml:id="Pg_R79" n="79" facs="#Pg_41_79"/>
+                    e piace; ma quello lì, e giocherei la testa, è morto, Gesù ci
+
+                    <lb xml:id="Pg_R80" n="80" facs="#Pg_41_80"/>
+                    liberi tutti, dannato.”</q>
+                </ab>
+
+                <closer>
+                    <lb xml:id="Pg_R81" n="81" facs="#Pg_41_81"/>
+                    <signed> 
+                        <persName ref="Rf">
+                            <forename>R.</forename>
+                            <surname>Fucini</surname>.
+                        </persName>
+                    </signed>
+                </closer>
+            </div>
+
+            <pb xml:id="P3_pag111" n="111" facs="#Pg_111"/>  
+            <div type="page" n="111">
+                <cb n="1"/>
+                
+                <head xml:id="Pg_S1" facs="#Pg_111_1" >
+                CORRISPONDENZA DI <placeName><settlement type="municipality">PALERMO</settlement></placeName></head> 
+
+                <head xml:id="Pg_S2" facs="#Pg_111_2">
+                <date when="--02-12">12 febbraio</date>.</head>
+
+                <ab>
+                    <lb xml:id="Pg_S3" n="1" facs="#Pg_111_3"/>
+                    La preoccupazione generale è sempre la pubblica <w>si­-
+
+                    <lb xml:id="Pg_S4" n="2" facs="#Pg_111_4"/>
+                    curezza</w>, che così direttamente si collega con la prosperità
+
+                    <lb xml:id="Pg_S5" n="3" facs="#Pg_111_5"/>
+                    agricola ed economica dell’ isola, e indirettamente anche
+
+                    <lb xml:id="Pg_S6" n="4" facs="#Pg_111_6"/>
+                    con la prosperità nazionale, alla quale l’isola non apporta
+
+                    <lb xml:id="Pg_S7" n="5" facs="#Pg_111_7"/>
+                    quegli elementi di vita morale e materiale che potrebbe.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S8" n="6" facs="#Pg_111_8"/>
+                    Il ricatto Parisi avvenuto il <date when ="--01-02">2 gennaio</date>, il ricatto Carella
+
+                    <lb xml:id="Pg_S9" n="7" facs="#Pg_111_9"/>
+                    tentato poco dopo, audaci aggressioni avvenute qua e là,
+
+                    <lb xml:id="Pg_S10" n="8" facs="#Pg_111_10"/>
+                    hanno fatto chiaramente vedere che la <orgName type="criminal">mafia</orgName> riprende le
+                                                           
+                    <lb xml:id="Pg_S11" n="9" facs="#Pg_111_11"/>
+                    sue luride gesta, e che gl’ istinti del malfare si sollevano
+
+                    <lb xml:id="Pg_S12" n="10" facs="#Pg_111_12"/>
+                    dallo accasciamento che li avea colpiti.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S13" n="11" facs="#Pg_111_13"/>
+                    Non è dubbio che questi fatti hanno le loro cause, e
+
+                    <lb xml:id="Pg_S14" n="12" facs="#Pg_111_14"/>
+                    cause immediate e mediate. Ma quali sono esse mai?
+
+                    <lb xml:id="Pg_S15" n="13" facs="#Pg_111_15"/>
+                    Con quanta buona fede io non so, si è voluto attribuire
+
+                    <lb xml:id="Pg_S16" n="14" facs="#Pg_111_16"/>
+                    al commendator <persName ref ="Ms"><surname>Malusardi</surname>, <roleName type="office">Prefetto</roleName></persName> di <placeName><settlement type="municipality">Palermo</settlement></placeName>, la <w>respon­-
+
+                    <lb xml:id="Pg_S17" n="15" facs="#Pg_111_17"/>
+                    sabilità</w> morale e materiale di questa levata di scudi, <w>pre­-
+
+                    <lb xml:id="Pg_S18" n="16" facs="#Pg_111_18"/>
+                    parata</w>, si dice, dalla diminuzione delle <roleName type="military">forze militari</roleName>, dalla
+                                                                 
+                    <lb xml:id="Pg_S19" n="17" facs="#Pg_111_19"/>
+                    soppressione di distaccamenti di truppa e di stazioni di
+
+                    <lb xml:id="Pg_S20" n="18" facs="#Pg_111_20"/>
+                    <orgName>Carabinieri</orgName>, dalla vigilanza sminuita. Si è preteso che il
+                    
+                    <lb xml:id="Pg_S21" n="19" facs="#Pg_111_21"/>
+                    <persName ref="Ms"><roleName type="office">Prefetto</roleName></persName> di <placeName><settlement type ="municipality">Palermo</settlement></placeName> per fare guerra al nuovo <roleName type="office"> Ministro <w>del-
+
+                    <lb xml:id="Pg_S22" n="20" facs="#Pg_111_22"/>
+                    l'</w>Interno</roleName> abbia diminuito la sua vigilanza, e si sono <w>rin­-
+
+                    <lb xml:id="Pg_S23" n="21" facs="#Pg_111_23"/>
+                    novate</w> le accuse che ciò che fu fatto durante il <date when="1876">1876</date> dagli
+
+                    <lb xml:id="Pg_S24" n="22" facs="#Pg_111_24"/>
+                    <roleName type="office">onorevoli</roleName> <persName ref="Nic"><surname>Nicotera</surname></persName> e <persName ref="Ms"><surname>Malusardi</surname></persName> non fu che opera di <w>vio­-
+
+                    <lb xml:id="Pg_S25" n="23" facs="#Pg_111_25"/>
+                    lenza</w>, e che nulla fece il <persName ref="Ms"><surname>Malusardi</surname></persName> per organizzare la <orgName>polizia</orgName>.
+                </ab>                                                                                         
+
+                <ab>
+                    <lb xml:id="Pg_S26" n="24" facs="#Pg_111_26"/>
+                    È chiaro che tutto ciò equivale a deliberato proposito
+
+                    <lb xml:id="Pg_S27" n="25" facs="#Pg_111_27"/>
+                    di rimpicciolire la questione, per ridurla, da questione <w>so­-
+                                                                
+                    <lb xml:id="Pg_S28" n="26" facs="#Pg_111_28"/>
+                    ciale</w> degna di esami coscienziosi e di studio severo, a <w>que­-
+
+                    <lb xml:id="Pg_S29" n="27" facs="#Pg_111_29"/>
+                    stione</w> personale e meschina, coi pettegolezzi, la malafede
+
+                    <lb xml:id="Pg_S30" n="28" facs="#Pg_111_30"/>
+                    e le ingiurie proprie della guerra alle persone. Mi <w>per­-
+
+                    <lb xml:id="Pg_S31" n="29" facs="#Pg_111_31"/>
+                    metterete</w> quindi che la grave questione di legislazione e di
+                              
+                    <lb xml:id="Pg_S32" n="30" facs="#Pg_111_32"/>
+                    governo, che si agita in <placeName><settlement type="region">Sicilia</settlement></placeName>, sia svolta per intero ai
+
+                    <lb xml:id="Pg_S33" n="31" facs="#Pg_111_33"/>
+                    vostri lettori, onde abbino un concetto esatto dello stato
+
+                    <lb xml:id="Pg_S34" n="32" facs="#Pg_111_34"/>
+                    della <placeName><settlement type="region">Sicilia</settlement></placeName>, e dei termini dei problemi che vi si presentano.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S35" n="33" facs="#Pg_111_35"/>
+                    Quando <persName ref="Nic"><roleName type="office">l’onorevole <surname>Nicotera</surname></roleName></persName> alla fine del <date when="1876">1876</date> risolvette
+                    
+                    <lb xml:id="Pg_S36" n="34" facs="#Pg_111_36"/>
+                    di affrontare il problema, e di farla finita col <term type="social phenomenon" ref="#brig">brigantaggio</term>
+
+                    <lb xml:id="Pg_S37" n="35" facs="#Pg_111_37"/>
+                    e la <orgName type="criminal">mafia</orgName>, limitò il suo indirizzo al problema di <w>ammini-
+                   
+                    <lb xml:id="Pg_S38" n="36" facs="#Pg_111_38"/>
+                    strazione</w>, trascurando il problema legislativo. Lo <w>incorag-
+
+                    <lb xml:id="Pg_S39" n="37" facs="#Pg_111_39"/>
+                    giava</w> a ciò fare la imperiosità delle circostanze e lo stato
+
+                    <lb xml:id="Pg_S40" n="38" facs="#Pg_111_40"/>
+                    deplorevole delle campagne, abbandonate dai proprietari
+
+                    <lb xml:id="Pg_S41" n="39" facs="#Pg_111_41"/>
+                    alle cure di gente infida. E ciò gli era reso necessario <w>dal-
+
+                    <lb xml:id="Pg_S42" n="40" facs="#Pg_111_42"/>
+                    l’</w> essere incompleto ancora lo studio dei rimedi legislativi
+
+                    <lb xml:id="Pg_S43" n="41" facs="#Pg_111_43"/>
+                    da opporre al male.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S44" n="42" facs="#Pg_111_44"/>
+                    Fu spesa ogni cura per distruggere il <term type="social phenomenon" ref="#brig">brigantaggio</term> <w>col­-
+                                                      
+                    <lb xml:id="Pg_S45" n="43" facs="#Pg_111_45"/>
+                    pendo</w> diritto e duro il manutengolismo su cui si <w>appog­-
+
+                    <lb xml:id="Pg_S46" n="44" facs="#Pg_111_46"/>
+                    giava</w>. E il <term type="social phenomenon" ref="#brig">brigantaggio</term> scomparve.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S47" n="45" facs="#Pg_111_47"/>
+                    Occorreva quindi colpire la <orgName type="criminal">mafia</orgName> nei centri popolosi
+                                                
+                    <lb xml:id="Pg_S48" n="46" facs="#Pg_111_48"/>
+                    per togliere a nuove possibili imprese brigantesche <w>dire­-
+
+                    <lb xml:id="Pg_S49" n="47" facs="#Pg_111_49"/>
+                    zione</w>, aiuti e ricoveri. Fu qui che l’opera governativa
+
+                    <lb xml:id="Pg_S50" n="48" facs="#Pg_111_50"/>
+                    del <date when="1876">1876</date> incontrò i più gravi ostacoli. Ed era naturale.
+                </ab>
+
+                <ab>
+                    <cb n="2" /> <!--inizio seconda colonna-->
+                    <lb xml:id="Pg_S51" n="49" facs="#Pg_111_51"/>
+                    Il rumore grandissimo fatto da una parte della <orgName type="media">stampa</orgName>
+                                                                   
+                    <lb xml:id="Pg_S52" n="50" facs="#Pg_111_52"/>
+                    <orgName type="media">palermitana</orgName> sopra allegate sevizie commesse dalla squadriglia
+                
+                    <lb xml:id="Pg_S53" n="51" facs="#Pg_111_53"/>
+                    capitanata dall'<persName><roleName type ="military">Ispettore <surname>Lucchesi</surname></roleName></persName> e su bastonate date a      
+                                 
+                    <lb xml:id="Pg_S54" n="52" facs="#Pg_111_54"/>
+                    contadini per far loro rivelare circostanze relative a <w>bri-
+
+                    <lb xml:id="Pg_S55" n="53" facs="#Pg_111_55"/>
+                    ganti</w>, non era che un pretesto. Invece è da credere che
+
+                    <lb xml:id="Pg_S56" n="54" facs="#Pg_111_56"/>
+                    tutto quel rumore abbia il suo fondamento in una <w>circo-
+
+                    <lb xml:id="Pg_S57" n="55" facs="#Pg_111_57"/>
+                    stanza</w> più che grave.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S58" n="56" facs="#Pg_111_58"/>
+                    Fra le misure alle quali l'<abbr type="title">on.</abbr> <expan>on<ex>orevole</ex></expan> <persName><surname>Nicotera</surname></persName> credette dover <w>ri- 
+                                                                                                                                  
+                    <lb xml:id="Pg_S59" n="57" facs="#Pg_111_59"/>
+                    correre</w>, qualcuna non era perfettamente conforme alle leggi
+
+                    <lb xml:id="Pg_S60" n="58" facs="#Pg_111_60"/>
+                    vigenti. E io non so comprendere perchè di ciò l'<abbr type="title">on.</abbr> <expan>on<ex>orevole</ex></expan> <persName><surname>Ni-</surname></persName>
+                                                                  
+                    <lb xml:id="Pg_S61" n="59" facs="#Pg_111_61"/>
+                    <persName><surname>cotera</surname></persName> non abbia voluto mai convenire. A mio credere, se
+
+                    <lb xml:id="Pg_S62" n="60" facs="#Pg_111_62"/>
+                    un pubblico amministrativo si convince che, di fronte a
+
+                    <lb xml:id="Pg_S63" n="61" facs="#Pg_111_63"/>
+                    circostanze urgenti, egli deve assumere la responsabilità di
+
+                    <lb xml:id="Pg_S64" n="62" facs="#Pg_111_64"/>
+                    alcune misure, conviene meglio alle esigenze del servizio e 
+
+                    <lb xml:id="Pg_S65" n="63" facs="#Pg_111_65"/>
+                    al prestigio delle istituzioni che egli chieda un voto <w>ripa- 
+
+                    <lb xml:id="Pg_S66" n="64" facs="#Pg_111_66"/>
+                    ratore</w> del <orgName>Parlamento</orgName>, anzichè farsi vincere dalle difficoltà
+
+                    <lb xml:id="Pg_S67" n="65" facs="#Pg_111_67"/>
+                    o estendere di troppo le facoltà del potere esecutivo. Ad
+
+                    <lb xml:id="Pg_S68" n="66" facs="#Pg_111_68"/>
+                    ogni modo, il <persName ref="Nic"><surname>Nicotera</surname></persName> non volle ciò fare, e preferì farsi
+                              
+                    <lb xml:id="Pg_S69" n="67" facs="#Pg_111_69"/>
+                    precipitare per vie indirette.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S70" n="68" facs="#Pg_111_70"/>
+                    La misura illegale alla quale accenno fu l'invio a <w>domi-
+
+                    <lb xml:id="Pg_S71" n="69" facs="#Pg_111_71"/>
+                    cilio</w> coatto senza preventiva contravvenzione all'<w>ammoni-
+
+                    <lb xml:id="Pg_S72" n="70" facs="#Pg_111_72"/>
+                    zione</w>. E fu adottata con certa larghezza, e diede nelle <w>cam- 
+
+                    <lb xml:id="Pg_S73" n="71" facs="#Pg_111_73"/>
+                    pagne</w> eccellenti risultati, appunto perchè non fu guidata
+
+                    <lb xml:id="Pg_S74" n="72" facs="#Pg_111_74"/>
+                    da concetti politici, e fu inflitta su criteri morali <w>coscien- 
+
+                    <lb xml:id="Pg_S75" n="73" facs="#Pg_111_75"/>
+                    ziosamente</w> costatati.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S76" n="74" facs="#Pg_111_76"/>
+                    Sparito però il <term type="social phenomenon" ref="#brig">brigantaggio</term>, era evidente che sarebbe
+
+                    <lb xml:id="Pg_S77" n="75" facs="#Pg_111_77"/>
+                    proceduto più spiccio il lavoro di repressione contro la
+
+                    <lb xml:id="Pg_S78" n="76" facs="#Pg_111_78"/>
+                    <orgName type="criminal">mafia</orgName> delle città, alla quale sarebbe stata applicata la <w>mi- 
+
+                    <lb xml:id="Pg_S79" n="77" facs="#Pg_111_79"/>
+                    sura</w> del domicilio coatto, colla stessa rapidità che avea
+
+                    <lb xml:id="Pg_S80" n="78" facs="#Pg_111_80"/>
+                    prodotto così buoni effetti nelle campagne.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S81" n="79" facs="#Pg_111_81"/>
+                    Ecco il vero e sostanziale motivo della guerra fatta <w>dal-
+
+                    <lb xml:id="Pg_S82" n="80" facs="#Pg_111_82"/>
+                    l'</w> <date when="1877-08">agosto 1877</date> in poi agli <abbr type="title">on.</abbr> <expan>on<ex>orevoli</ex></expan> <persName ref="Nic"><surname>Nicotera</surname></persName> e <persName ref="Ms"><surname>Malusardi</surname></persName> in <placeName><settlement type="region">Sicilia</settlement></placeName>.
+                                                                                       
+                    <lb xml:id="Pg_S83" n="81" facs="#Pg_111_83"/>
+                    Questa guerra, per quanta energia di tempra fosse nel
+
+                    <lb xml:id="Pg_S84" n="82" facs="#Pg_111_84"/>
+                    <persName><roleName type ="office">Ministro</roleName></persName> e nel <persName><roleName type="office">Prefetto</roleName></persName>, dovea produrre i suoi effetti. E
+                      
+                    <lb xml:id="Pg_S85" n="83" facs="#Pg_111_85"/>
+                    <persName ref="Nic"><roleName type="office">l'onorevole <surname>Nicotera</surname></roleName></persName> credette dover rallentare il rigore
+                    
+                    <lb xml:id="Pg_S86" n="84" facs="#Pg_111_86"/>
+                    delle misure adottate. Disposizioni furono date per il <w>ri- 
+
+                    <lb xml:id="Pg_S87" n="85" facs="#Pg_111_87"/>
+                    torno</w> di molti e molti domiciliati coatti, e nulla si fece per
+
+                    <lb xml:id="Pg_S88" n="86" facs="#Pg_111_88"/>
+                    resistere alle richieste del <term ref="#MinisteroGuerra"><orgName>Ministero della Guerra</orgName></term> che volea
+
+                    <lb xml:id="Pg_S89" n="87" facs="#Pg_111_89"/>
+                    ritirare forze di <placeName><settlement type="region">Sicilia</settlement></placeName>. Infatti, l'effettivo dei <orgName>carabinieri</orgName> è
+                                                                                                                        
+                    <lb xml:id="Pg_S90" n="88" facs="#Pg_111_90"/>
+                    diminuito di metà, due battaglioni di <orgName type="military">bersaglieri</orgName> sono <w>ri-
+
+                    <lb xml:id="Pg_S91" n="89" facs="#Pg_111_91"/>
+                    tornati</w> nel continente e il congedo della classe ha <w>assotti-
+
+                    <lb xml:id="Pg_S92" n="90" facs="#Pg_111_92"/>
+                    gliato</w> così le file dei battaglioni rimasti.
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S93" n="91" facs="#Pg_111_93"/>
+                    La <orgName>magistratura</orgName> che, sotto l'impero delle gravi <w>preoc-
+                       
+                    <lb xml:id="Pg_S94" n="92" facs="#Pg_111_94"/>
+                    cupazioni</w> d'ordine pubblico e di circolari incoraggianti del
+
+                    <lb xml:id="Pg_S95" n="93" facs="#Pg_111_95"/>
+                    <orgName>Ministero di grazia e giustizia</orgName>, era stata proclive alle <w>am-
+
+                    <lb xml:id="Pg_S96" n="94" facs="#Pg_111_96"/>
+                    monizioni</w> e avea proceduto con una tal quale severità,
+
+                    <lb xml:id="Pg_S97" n="95" facs="#Pg_111_97"/>
+                    scossa dalla guerra iniziata dalla stampa, ne sentì l'<w>in-
+                                                         
+                    <lb xml:id="Pg_S98" n="96" facs="#Pg_111_98"/>
+                    fluenza</w> e negò qualunque concorso all'amministrazione.
+
+                    <lb xml:id="Pg_S99" n="97" facs="#Pg_111_99"/>
+                    E dopo ciò si fanno meraviglia che la <orgName type="criminal">mafia</orgName> aggiunga
+                                                               
+                    <lb xml:id="Pg_S100" n="98" facs="#Pg_111_100"/>
+                    fasti nuovi a delitti vecchi!
+
+                    <lb xml:id="Pg_S101" n="99" facs="#Pg_111_101"/>
+                    E si muovono laguanze che non si è saputo organizzare
+
+                    <lb xml:id="Pg_S102" n="100" facs="#Pg_111_102"/>
+                    la <orgName>polizia</orgName>!
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S103" n="101" facs="#Pg_111_103"/>
+                    Niuno di quelli che dicono ciò ha guardato mai la legge 
+
+                    <lb xml:id="Pg_S104" n="102" facs="#Pg_111_104"/>
+                    del <date when="1871">1871</date> sulla <orgName>Pubblica Sicurezza</orgName>, e credono che un <persName><roleName type="office">Pre-</roleName></persName>
+                                                                                                                      
+                    <lb xml:id="Pg_S105" n="103" facs="#Pg_111_105"/>
+                    <persName><roleName>fetto</roleName></persName> possa creare ciò che solo può creare una legge!
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S106" n="104" facs="#Pg_111_106"/>
+                    Ma vedo, che malgrado mio, entro nel vivo della <w>que- 
+
+                    <lb xml:id="Pg_S107" n="105" facs="#Pg_111_107"/>
+                    stione</w>, e stancherei troppo i vostri lettori se ci entrassi oggi.
+                </ab>
+
+                <ab>                   
+                    <lb xml:id="Pg_S108" n="106" facs="#Pg_111_108"/>
+                    Sarà oggetto invece di altra mia corrispondenza il dirvi
+
+                    <lb xml:id="Pg_S109" n="107" facs="#Pg_111_109"/>
+                    quali siano a parer mio gl'insegnamenti che vengono fuori
+
+                    <lb xml:id="Pg_S110" n="108" facs="#Pg_111_110"/>
+                    dallo stato delle cose in <placeName><settlement type="region">Sicilia</settlement></placeName>, per le camere e pel governo,
+
+                    <lb xml:id="Pg_S111" n="109" facs="#Pg_111_111"/>
+                    e come il discutere largamente di ciò sia di vantaggio alla
+
+                    <lb xml:id="Pg_S112" n="110" facs="#Pg_111_112"/>
+                    cosa pubblica. *
+                </ab>
+
+                <ab>
+                    <lb xml:id="Pg_S113" n="111" facs="#Pg_111_113"/>
+                   * Se dovessimo aggiungere qualche apprezzamento a quelli del nostro 
+                    corrispondente opineremmo che la riforma del personale di <orgName>Pubblica Sicurezza</orgName>
+                    non ha potuto e non potrà dare tutti i suoi risultati,
+                    ove non si unisca a quella una radicale riforma nel personale giudiziario.
+                    Altrimenti ripetiamo la favola della tela di Penelope, e di disfà da una
+                    parte quel che fa dall'altra. (<hi rend="italic">Nota della Direzione.</hi>)
+                </ab>
+            </div>
+
+            <pb xml:id="P4_pag324" n="324" facs="#Pg_324" />
+            <div type="page" n="324">
+                <cb n="1" />
+                <head xml:id="Pg_T1" facs="#Pg_324_1">NOTIZIE.</head>
+               
+                <p>
+
+                <lb xml:id="Pg_T2" n="1" facs="#Pg_324_2"/>
+                - In occasione delle feste che avranno luogo il <date when="--06">giugno</date> venturo in
+
+                <lb xml:id="Pg_T3" n="2" facs="#Pg_324_3"/>
+                <placeName><settlement type="municipality">Ravenna</settlement></placeName>, per l'inaugurazione del monumento a <term ref="#Far"><persName><forename>Luigi</forename> <forename>Carlo</forename> <surname>Farini</surname></persName></term>,
+
+                <lb xml:id="Pg_T4" n="3" facs="#Pg_324_4"/>
+                l'editore <persName><surname>Maldini</surname></persName> pubblicherà colà una <title type="work"><hi rend ="italic">Vita</hi></title> del <term ref="#Far"><persName><surname>Farini</surname></persName></term> scritta da <persName><forename>Giu-</forename></persName>
+
+                <lb xml:id="Pg_T5" n="4" facs="#Pg_324_5"/>
+                <persName><forename>seppe</forename> <surname>Badiali</surname></persName>; l'editore <persName><surname>Calderini</surname></persName> un saggio dell'<title type="work"><hi rend="italic">Epistolario</hi></title> inedito del
+
+                <lb xml:id="Pg_T6" n="5" facs="#Pg_324_6"/>
+                <term ref="#Far"><persName><surname>Farini</surname></persName></term>, con una prefazione di <persName><forename>Adolfo</forename> <surname>Borgognoni</surname></persName>.
+
+                </p>
+
+                <p>
+
+                <lb xml:id="Pg_T7" n="6" facs="#Pg_324_7"/>
+                - <persName><forename><abbr type="initial">E.</abbr></forename> <surname>Rénan</surname></persName> ha cominciato nel <term ref="#Temps"><title type="work"><hi rend="italic">Temps</hi></title></term> la pubblicazione di un dramma 
+
+                <lb xml:id="Pg_T8" n="7" facs="#Pg_324_8"/>
+                intitolato <title type="work"><hi rend="italic">Calibano</hi></title>, destinato a far seguito alla <title type="work"><hi rend="italic">Tempesta</hi></title> dello <persName><surname>Shak-</surname></persName>
+
+                <lb xml:id="Pg_T9" n="8" facs="#Pg_324_9"/>
+                <persName><surname>speare</surname></persName>.         
+
+                </p>
+
+                <cb n="2" />
+                <p>
+
+                <lb xml:id="Pg_T10" n="9" facs="#Pg_324_10"/>
+                - È uscita la <num>7</num><hi rend="superscript">ª </hi> edizione del <term ref="#Difr"><title type="work"><foreign xml:lang="fr"><hi rend="italic">Dictionnaire de l'Académie française</hi></foreign></title></term>.
+
+                <lb xml:id="Pg_T11" n="10" facs="#Pg_324_11"/>
+                La prefazione è scritta da <persName><abbr>M.</abbr> <surname>de Sacy</surname></persName>.  <persName><abbr>M.</abbr> <forename>Saint-René</forename> <surname>Taillandier</surname></persName> ne
+
+                <lb xml:id="Pg_T12" n="11" facs="#Pg_324_12"/>
+                scrive molto favorevolmente nella <title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue des Deux Mondes</hi></foreign></title>. La <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue po-</hi></foreign></title></term>
+
+                <lb xml:id="Pg_T13" n="12" facs="#Pg_324_13"/>
+                <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">litique et littéraire</hi></foreign></title></term> invece critica questa ristampa, rimproverando all'<w>Ac-
+
+                <lb xml:id="Pg_T14" n="13" facs="#Pg_324_14"/>
+                cademia</w> di aver rigettato alcune parole dell'uso come <foreign xml:lang="fr"><hi rend="italic">actualité</hi></foreign>, <foreign xml:lang="fr"><hi rend="italic">baser</hi></foreign>,
+
+                <lb xml:id="Pg_T15" n="14" facs="#Pg_324_15"/>
+                mentre ammetteva la parola giornalistica <hi rend="italic">reporter</hi>. La <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue politique</hi></foreign></title></term>
+
+                <lb xml:id="Pg_T16" n="15" facs="#Pg_324_16"/>
+                trova più giustificata l'esclusione della parola <foreign xml:lang="fr"><hi rend="italic">réussi</hi></foreign> usata in modo <w>as-
+
+                <lb xml:id="Pg_T17" n="16" facs="#Pg_324_17"/>
+                soluto</w>. È singolare come mentre l'<foreign xml:lang="fr"><hi rend="italic">Académie</hi></foreign> giudica queste parole come
+
+                <lb xml:id="Pg_T18" n="17" facs="#Pg_324_18"/>
+                non francesi, le forme corrispondenti che si adoperano in <placeName><settlement type="country">Italia</settlement></placeName>, <hi rend="italic"><w>attua-
+
+                <lb xml:id="Pg_T19" n="18" facs="#Pg_324_19"/>
+                lità</w></hi>, <hi rend="italic">basare</hi>, <hi rend="italic">riuscito</hi> vengono condannate dai linguisti come puri gallicismi.
+
+                </p>
+
+                <p>
+
+                <lb xml:id="Pg_T20" n="19" facs="#Pg_324_20"/>
+                - La <title type="journal"><hi rend="italic">Rivista di Filologia romanza</hi></title>, recentemente fondata dal <persName><surname>Groe-</surname></persName>
+
+                <lb xml:id="Pg_T21" n="20" facs="#Pg_324_21"/>
+                <persName><surname>ber</surname></persName> (<persName><surname>Niemeyer</surname></persName>, <placeName><settlement type="municipality">Halle</settlement></placeName>) contiene un Supplemento bibliografico assai utile,
+
+                <lb xml:id="Pg_T22" n="21" facs="#Pg_324_22"/>
+                benchè incompleto, delle pubblicazioni sulle lingue romanze negli anni
+
+                <lb xml:id="Pg_T23" n="22" facs="#Pg_324_23"/>
+                <date when="1875">1875</date> e <date when="1876">1876</date>. - <measure quantity="631" unit="numbers">631 numeri</measure> si riferiscono all'<placeName><settlement type="country">Italia</settlement></placeName>. La <placeName><settlement type="municipality"><distinct type="arcaic">Rumania</distinct></settlement></placeName>, è <w>rap-
+
+                <lb xml:id="Pg_T24" n="23" facs="#Pg_324_24"/>
+                presentata</w> da più di <measure quantity="60" unit="numbers">60 numeri</measure> (per gli anni <date from="1870" to="1876">1870-1876</date>). La <placeName><settlement type="country">Francia</settlement></placeName>
+
+                <lb xml:id="Pg_T25" n="24" facs="#Pg_324_25"/>
+                <placeName><settlement type="country">settentrionale</settlement></placeName> da <num>730</num>; la <placeName><settlement type="country">Spagna</settlement></placeName> da <num>130</num>; il <placeName><settlement type="country">Portogallo</settlement></placeName> da <num>90</num>.
+
+                </p>
+               
+                <p>
+
+                <lb xml:id="Pg_T26" n="25" facs="#Pg_324_26"/>
+                - La <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue politique et littéraire</hi></foreign></title></term> <date when="--04-20">(20 aprile)</date> pubblica una lettera
+
+                <lb xml:id="Pg_T27" n="26" facs="#Pg_324_27"/>
+                interessante di <persName><forename>Edgard</forename> <surname>Quinet</surname></persName> sul modo nel quale si dovrebbe <w>interpre-
+
+                <lb xml:id="Pg_T28" n="27" facs="#Pg_324_28"/>
+                tare</w> il <title type="work"><foreign xml:lang="fr"><hi rend="italic">Merlin l'enchanteur</hi></foreign></title>, del quale si è pubblicata una nuova edizione 
+
+                <lb xml:id="Pg_T29" n="28" facs="#Pg_324_29"/>
+                con annotazioni. Il <persName><surname>Quinet</surname></persName> protesta contro tutte le interpretazioni <w>sim-
+
+                <lb xml:id="Pg_T30" n="29" facs="#Pg_324_30"/>
+                boliche</w> che si sono volute dare al suo libro, e vorrebbe che non si <w>cer-
+
+                <lb xml:id="Pg_T31" n="30" facs="#Pg_324_31"/>
+                cassero</w> altri sensi che quello letterale, poetico, naturale e umano.
+
+               </p>
+              
+               <p>
+
+               <lb xml:id="Pg_T32" n="31" facs="#Pg_324_32"/>
+               - Nell' <title type="journal"><foreign xml:lang="en"><hi rend="italic">Harper's New Monthly</hi></foreign></title> troviamo una descrizione di una
+
+               <lb xml:id="Pg_T33" n="32" facs="#Pg_324_33"/>
+               scuola <hi rend="italic">normale femminile</hi> in <placeName><settlement type="municipality">New-York</settlement></placeName> che merita di essere letta.
+
+               <lb xml:id="Pg_T34" n="33" facs="#Pg_324_34"/>
+               Le allieve sono <num>1552</num>. Gli insegnanti <num>30</num> di cui <num>28</num> donne, molte delle
+
+               <lb xml:id="Pg_T35" n="34" facs="#Pg_324_35"/>
+               quali laureate, per così dire, nella scuola stessa. La lista delle <w>ma-
+
+               <lb xml:id="Pg_T36" n="35" facs="#Pg_324_36"/>
+               terie</w>: latino, una lingua straniera, letteratura nazionale, matematiche,
+
+               <lb xml:id="Pg_T37" n="36" facs="#Pg_324_37"/>
+               scienze naturali, disegno, musica, ginnastica, pratica dell'insegnamento.
+
+               <lb xml:id="Pg_T38" n="37" facs="#Pg_324_38"/>
+               Locali: <num>30</num> camere di studio, <num>2</num> aule d'insegnamento, studi d'arte, <w>cal-
+
+               <lb xml:id="Pg_T39" n="38" facs="#Pg_324_39"/>
+               listenio.</w>
+
+               </p>
+
+               <p>
+               <lb xml:id="Pg_T40" n="39" facs="#Pg_324_40"/>
+               - <persName><forename><abbr>C.</abbr></forename> <surname>Baum</surname></persName> nel <title type="journal"><foreign xml:lang="fr"><hi rend="italic">Journal des Economistes</hi></foreign></title> <date when="--04">(aprile)</date> fa la storia dell'<orgName>am-</orgName>
+
+               <lb xml:id="Pg_T41" n="40" facs="#Pg_324_41"/>
+               <orgName>ministrazione delle ferrovie</orgName> in <placeName><settlement type="country">Germania</settlement></placeName>, e rileva il fatto che dopo la
+
+               <lb xml:id="Pg_T42" n="41" facs="#Pg_324_42"/>
+               guerra del <date from="1870" to="1871">1870-71</date> lo Stato ha preso un maggior numero di linee nelle
+
+               <lb xml:id="Pg_T43" n="42" facs="#Pg_324_43"/>
+               proprie mani. Alla fine del <date when="1977">1977</date> le ferrovie amministrate dallo Stato
+
+               <lb xml:id="Pg_T44" n="43" facs="#Pg_324_44"/>
+               avevano un'estensione di <measure quantity="14800" unit="km">14,800 chilometri</measure>. Quelle amministrate da <w>pri-
+
+               <lb xml:id="Pg_T45" n="44" facs="#Pg_324_45"/>
+               vati</w> un'estensione di soltanto <measure quantity="11800" unit="km">11,800 chilometri</measure>.
+
+               </p>
+
+               <p>
+
+               <lb xml:id="Pg_T46" n="45" facs="#Pg_324_46"/>
+               - Il <title type="journal"><foreign xml:lang="fr"><hi rend="italic">Journal des Economistes</hi></foreign></title> pubblica pure la traduzione di un <w>di-
+
+               <lb xml:id="Pg_T47" n="46" facs="#Pg_324_47"/>
+               scorso</w> notevole di <persName><forename><abbr type="initial">G.</abbr></forename> <forename><abbr>F.</abbr></forename> <surname>Shaw-Lefèvre</surname></persName>, presidente della <orgName>Società stati-</orgName>
+
+               <lb xml:id="Pg_T48" n="47" facs="#Pg_324_48"/>
+               <orgName>stica di <placeName><settlement type="municipality">Londra</settlement></placeName></orgName>, sopra le funzioni, l'uso e l'abuso della statistica.
+
+               <lb xml:id="Pg_T49" n="48" facs="#Pg_324_49"/>
+               Il <persName><surname>Shaw</surname></persName> ritiene con <persName><forename>Stuart</forename> <surname>Mill</surname></persName> che la statistica sia una scienza <w>de-
+
+               <lb xml:id="Pg_T50" n="49" facs="#Pg_324_50"/>
+               duttiva</w>, benchè i suoi risultati debbano essere confermati dall'<w>os-
+
+               <lb xml:id="Pg_T51" n="50" facs="#Pg_324_51"/>
+               servazione</w> diretta. Egli espone i pericoli che possono resultare da <w>os-
+
+               <lb xml:id="Pg_T52" n="51" facs="#Pg_324_52"/>
+               servazioni</w> incomplete e da analogie false.
+
+               </p>
+              
+               <p>
+               <lb xml:id="Pg_T53" n="52" facs="#Pg_324_53"/>
+               - La <title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue Scientifique</hi></foreign></title> del <date when="--04-20">20 aprile</date> pubblica una interessantissima
+
+               <lb xml:id="Pg_T54" n="53" facs="#Pg_324_54"/>
+               lezione di <persName><abbr>M.</abbr> <abbr>P.</abbr> <surname>Bert</surname></persName> intorno alla influenza della luce sugli esseri <w>vi-
+
+               <lb xml:id="Pg_T55" n="54" facs="#Pg_324_55"/>
+               venti</w>. Il <persName><surname>Bert</surname></persName> parla dell'influenza della luce sull'adempimento degli atti
+
+               <lb xml:id="Pg_T56" n="55" facs="#Pg_324_56"/>
+               fondamentali della vita delle piante; ed espone come la luce agisca <w>di-
+
+               <lb xml:id="Pg_T57" n="56" facs="#Pg_324_57"/>
+               rettamente</w> sul colore degli animali, e come determini le sensazioni visive.
+               </p>
+              
+               <p>
+
+               <lb xml:id="Pg_T58" n="57" facs="#Pg_324_58"/>
+               - Si pubblicherà fra poco da <orgName type="publisher">Trübner</orgName> a <placeName><settlement type="municipality">Londra</settlement></placeName> il <num type="ordinal">secondo</num> volume 
+
+               <lb xml:id="Pg_T59" n="58" facs="#Pg_324_59"/>
+               della <title type="work"><hi rend="italic">Storia dei Pionieri di Rochdale</hi></title> di <persName><forename><abbr>G.</abbr></forename> <forename><abbr>F.</abbr></forename> <surname>Holyoake</surname></persName>. Questo <num type="ordinal">secondo</num>
+
+               <lb xml:id="Pg_T60" n="59" facs="#Pg_324_60"/>
+               volume abbraccerà l'epoca <date from="1858" to="1878">1858-1878</date>.
+
+               </p>
+
+               <p>
+               <lb xml:id="Pg_T61" n="60" facs="#Pg_324_61"/>
+               - Il <abbr type="title">dott.</abbr> <expan>dott<ex>ore</ex></expan> <persName><forename><abbr>A.</abbr></forename> <surname>Haussath</surname></persName> ha pubblicato a <placeName><settlement type="municipality"></settlement>Heidelberg</placeName> (<orgName type="publisher">Bassermann</orgName>
+
+               <lb xml:id="Pg_T62" n="61" facs="#Pg_324_62"/> 
+               <abbr>edit.</abbr> <expan>edit<ex>ion</ex></expan>) il <num type="ordinal">secondo</num> ed <num type="ordinal">ultimo</num> volume della sua opera intitolata: <title type="work"><hi rend="italic">David</hi></title>
+
+               <lb xml:id="Pg_T63" n="62" facs="#Pg_324_63"/>
+               <title type="work"><hi rend="italic">Strauss e la teologia del suo tempo</hi></title>.
+
+               </p>
+
+               <p>
+               <lb xml:id="Pg_T64" n="63" facs="#Pg_324_64"/>
+               - In uno dei prossimi fascicoli della <title type="journal"><foreign xml:lang="en"><hi rend="italic">Nineteenth Century</hi></foreign></title>, <persName><forename><abbr>W.</abbr> <expan resp="SP">W<ex>illiam</ex></expan></forename> <forename>Fraser</forename></persName>
+
+               <lb xml:id="Pg_T65" n="64" facs="#Pg_324_65"/>
+               <persName><surname>Rae</surname></persName> darà delle notizie inedite sopra un <hi rend="italic">Club</hi> radicale al quale <w>apparte-
+
+               <lb xml:id="Pg_T66" n="65" facs="#Pg_324_66"/>
+               neva</w> <roleName type="nobility">Lord</roleName> <placeName><settlement type="municipality">Beaconsfield</settlement></placeName>, e ci farà conoscere meglio l'organizzazione e 
+
+               <lb xml:id="Pg_T67" n="66" facs="#Pg_324_67"/>
+               la storia dei grandi <hi rend="italic">Club</hi> politici dell'<placeName><settlement type="country">Inghilterra</settlement></placeName>.
+
+               </p>
+
+               <p>
+               <lb xml:id="Pg_T68" n="67" facs="#Pg_324_68"/>
+               - Nell'<title type="journal"><foreign xml:lang="de"><hi rend="italic">Ausland</hi></foreign></title> (<date when="--04-08">8 aprile</date>) il <persName><surname>Vambéry</surname></persName> in un lungo articolo <w>intito-
+
+               <lb xml:id="Pg_T69" n="68" facs="#Pg_324_69"/>
+               lato</w>: <hi rend="italic">La Conservazione della <placeName><settlement type="country">Turchia</settlement></placeName> e la civiltà dei popoli</hi>, risponde al
+
+               <lb xml:id="Pg_T70" n="69" facs="#Pg_324_70"/>
+               redattore del periodico medesimo il quale nel suo studio sulla <distinct>quistione</distinct>
+
+               <lb xml:id="Pg_T71" n="70" facs="#Pg_324_71"/>
+               orientale considerata come <distinct>quistione</distinct> di civiltà (V. <title type="journal">Rassegna settiminale</title>,
+
+               <lb xml:id="Pg_T72" n="71" facs="#Pg_324_72"/>
+               <abbr>n.</abbr> <expan>n<ex>umero</ex></expan> <num>8</num>, <abbr>pag.</abbr> <expan>pag<ex>ina</ex></expan> <num>144</num>) si proponeva di giustificare l'estensione della potenza
+
+               <lb xml:id="Pg_T73" n="72" facs="#Pg_324_73"/>
+               Russa nell'<placeName>Oriente</placeName>. Il <persName><surname>Vambéry</surname></persName> invece si sforza di mettere in rilievo
+
+               <lb xml:id="Pg_T74" n="73" facs="#Pg_324_74"/>
+               le forze civilizzatrici della <placeName><settlement type="country">Turchia</settlement></placeName>.
+
+               <lb xml:id="Pg_T75" n="74" facs="#Pg_324_75"/>
+               <persName><forename>LEOPOLDO</forename> <surname>FRANCHETTI</surname></persName> <persName><forename>SIDNEY</forename> <surname>SONNINO</surname></persName> <pc>}</pc> <roleName><hi rend="italic">Proprietari Direttori</hi></roleName>.
+
+               <lb xml:id="Pg_T76" n="75" facs="#Pg_324_76"/>
+               <persName><forename>ANGIOLO</forename> <surname>GHERARDINI</surname></persName>, <roleName><hi rend="italic">Gerente Responsabile</hi></roleName>.
+
+               <lb xml:id="Pg_T77" n="76" facs="#Pg_324_77"/>
+               <placeName><settlement type="municipality">FIRENZE</settlement></placeName>, <date when="1878">1878</date>. - <orgName>Tipografia BARBÈRA</orgName>.
+
+               </p>
+            
+            </div>
+
+            <pb xml:id="P5_pag464" n="464" facs="#Pg_464" />
+            <div type="page" n="464">
+            
+                
+                <head xml:id="Pg_B1" facs="#Pg_464_1">NOTIZIE.</head> 
+                <p>
+                <lb xml:id="Pg_B2" n="1" facs="#Pg_464_2"/> 
+                - Il Consiglio dell'Università di <placeName><settlement type="municipality">Londra</settlement></placeName> ha risoluto di provvedere
+
+                <lb xml:id="Pg_B3" n="2" facs="#Pg_464_3"/> 
+                all'istruzione sistematica delle donne in classi regolari. Nei corsi <w>de-
+
+                <lb xml:id="Pg_B4" n="3" facs="#Pg_464_4"/>
+                stinati</w> ai più giovani le classi delle donne sono separate da quelle pei
+
+                <lb xml:id="Pg_B5" n="4" facs="#Pg_464_5"/>
+                maschi. Gli altri corsi saranno generalmente aperti ad ambedue i sessi
+
+                <lb xml:id="Pg_B6" n="5" facs="#Pg_464_6"/>
+                come già erano quelli per l'arte e la filosofia.
+                </p>
+                
+
+                <p>
+                <lb xml:id="Pg_B7" n="6" facs="#Pg_464_7"/> 
+                -La <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue politique et littéraire</hi></foreign></title></term> discorre con lode di un libro <w>pub- 
+
+                <lb xml:id="Pg_B8" n="7" facs="#Pg_464_8"/> 
+                blicato</w> recentemente da <persName><forename>Henry</forename> <surname>Latham</surname></persName>, aggregato e ripetitore a <placeName><settlement type="municipality">Cam-</settlement></placeName>
+
+                <lb xml:id="Pg_B9" n="8" facs="#Pg_464_9"/>
+                <placeName><settlement type="municipality">bridge</settlement></placeName>, sull'influenza degli esami come mezzo di scelta: <title type="work"><foreign xml:lang="en"><hi rend="italic">On the action of</hi></foreign></title>
+
+                <lb xml:id="Pg_B10" n="9" facs="#Pg_464_10"/>   
+                <title type="work"><foreign xml:lang="en"><hi rend="italic">examination considered as a means of selection</hi></foreign></title>. L'argomento ha una
+
+                <lb xml:id="Pg_B11" n="10" facs="#Pg_464_11"/> 
+                grande importanza anche in <placeName><settlement type="country">Italia</settlement></placeName>. 
+                </p>
+
+                <p>
+                <lb xml:id="Pg_B12" n="11" facs="#Pg_464_12"/>  
+                - La <term ref="#RevPol"><title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue politique et littéraire</hi></foreign></title></term> annunzia la pubblicazione di un 
+
+                <lb xml:id="Pg_B13" n="12" facs="#Pg_464_13"/>
+                libro di <persName><roleName type="honorific"><abbr>M.</abbr></roleName> <forename>Eugène</forename> <surname>Noël</surname></persName> sotto il titolo: <title type="work"><foreign xml:lang="fr"><hi rend="italic">J. Michelet et ses enfants</hi></foreign></title> e lo
+ 
+                <lb xml:id="Pg_B14" n="13" facs="#Pg_464_14"/>
+                considera come il principio di un battibecco nel mondo letterario che
+
+                <lb xml:id="Pg_B15" n="14" facs="#Pg_464_15"/>
+                rammenterà quello celebre di <title type="work"><foreign xml:lang="fr"><hi rend="italic">Lui et Elle</hi></foreign></title> a proposito di <persName><forename><abbr>A.</abbr></forename> <surname>de Musset</surname></persName> e 
+
+                <lb xml:id="Pg_B16" n="15" facs="#Pg_464_16"/>
+                di <persName><forename>George</forename> <surname>Sand</surname></persName>. In questo libro si cerca di dimostrare che il <w>cambia-
+                
+                <lb xml:id="Pg_B17" n="16" facs="#Pg_464_17"/>
+                mento</w> avvenuto nel carattere delle opere di <persName><surname>Michelet</surname></persName> durante l'ultimo
+
+                <lb xml:id="Pg_B18" n="17" facs="#Pg_464_18"/>
+                periodo della sua vita, è dovuto all'influenza esercitata su di lui dalla 
+
+                <lb xml:id="Pg_B19" n="18" facs="#Pg_464_19"/>
+                sua seconda moglie.
+                </p>
+
+                <p>
+                <lb xml:id="Pg_B20" n="19" facs="#Pg_464_20"/>
+                - Nell'adunanza tenuta dalla <orgName>Società Antropologica di <placeName><settlement type="municipality">Monaco</settlement></placeName></orgName> il
+
+                <lb xml:id="Pg_B21" n="20" facs="#Pg_464_21"/>
+                <date when="--05-24">24 maggio</date>, il <abbr type="title">dott.</abbr> <expan>dott<ex>ore</ex></expan> <persName><forename><abbr>E.</abbr></forename> <surname>Stöhr</surname></persName> parlò delle ultime scoperte di bronzi fatte 
+
+                <lb xml:id="Pg_B22" n="21" facs="#Pg_464_22"/>
+                a <placeName><settlement type="municipality">Bologna</settlement></placeName> e della presenza dell'ambra gialla nell'<placeName><settlement type="region">Emilia</settlement></placeName>. Dimostrò che 
+
+                <lb xml:id="Pg_B23" n="22" facs="#Pg_464_23"/>
+                la vecchia divisione dell'epoca preistorica nelle tre età della pietra e 
+
+                <lb xml:id="Pg_B24" n="23" facs="#Pg_464_24"/>
+                del bronzo e del ferro aveva sofferto in conseguenza delle dette scoperte
+
+                <lb xml:id="Pg_B25" n="24" facs="#Pg_464_25"/>
+                e di altre anteriori una forte scossa, e diventava invece sempre più
+
+                <lb xml:id="Pg_B26" n="25" facs="#Pg_464_26"/>
+                verosimile l'esistenza di una età metallica nella quale per circostanze
+
+                <lb xml:id="Pg_B27" n="26" facs="#Pg_464_27"/>
+                speciali un popolo aveva adoperato piuttosto uno dei due metalli che
+                
+                <lb xml:id="Pg_B28" n="27" facs="#Pg_464_28"/>
+                l'altro. Anzi c'è ragione di credere che l'età del ferro -- se ci fu --
+                
+                <lb xml:id="Pg_B29" n="28" facs="#Pg_464_29"/> 
+                abbia preceduto quella del bronzo perchè coi mezzi di fusione in allora
+
+                <lb xml:id="Pg_B30" n="29" facs="#Pg_464_30"/>
+                esistenti doveva essere più facile lavorare il ferro che il bronzo.                              
+                </p>
+
+                <p>
+                <lb xml:id="Pg_B31" n="30" facs="#Pg_464_31"/>
+                Il professore <term ref="#Hughes"><persName><surname>Hughes</surname></persName></term> ha inventato un nuovo istrumento chiamato
+
+                <lb xml:id="Pg_B32" n="31" facs="#Pg_464_32"/>
+                <hi rend="italic">microfono</hi>, che dà il mezzo di udire suoni quasi impercettibili e di <w>ac-
+
+                <lb xml:id="Pg_B33" n="32" facs="#Pg_464_33"/>
+                accrescere</w> il volume dei suoni intelligibili. Esso sarebbe per l'orecchio
+
+                <lb xml:id="Pg_B34" n="33" facs="#Pg_464_34"/>
+                ciò che è pre gli occhi il microscopio. Il nuovo istrumento farebbe <w>sen-
+                
+                <lb xml:id="Pg_B35" n="34" facs="#Pg_464_35"/>
+                tire</w> i passi di una mosca a grande distanza. (<title type="journal"><foreign xml:lang="fr"><hi rend="italic">Revue scientifique</hi></foreign></title>.)
+
+                <lb xml:id="Pg_B36" n="35" facs="#Pg_464_36"/>
+                <persName><forename>LEOPOLDO</forename> <surname>FRANCHETTI</surname></persName> <persName><forename>SIDNEY</forename> <surname>SONNINO</surname></persName> <pc>}</pc> <roleName><hi rend="italic">Proprietari Direttori</hi></roleName>.
+
+                <lb xml:id="Pg_B37" n="36" facs="#Pg_464_37"/>
+                <persName><forename>ANGIOLO</forename> <surname>GHERARDISI</surname></persName>, <roleName><hi rend="italic">Gerente Rensponsabile</hi></roleName>.
+
+                <lb xml:id="Pg_B38" n="37" facs="#Pg_464_38"/>
+                <placeName><settlement type="municipality">FIRENZE</settlement></placeName>, <date when="1878">1878</date>. -<orgName>Tipografia BARBÈRA</orgName>.
+                </p>
+
+                
+            </div>   
+
+             <pb xml:id="P6_pag64" n="64" facs="#Pg_64" />
+            <div type="page" n="64">
+                
+                <cb n="1" />
+                
+                <head xml:id="Pg_C1" facs="#Pg_64_1">SCIENZE MILITARI.</head>
+
+                <p>
+                <lb xml:id="Pg_C2" n="1" facs="#Pg_64_2"/>
+                <term ref="#Dabo"><persName><forename>VITTORIO</forename> <surname>DABORMIDA</surname></persName></term>. <term ref="#Assi"><hi rend="italic">La battaglia dell'<placeName>Assietta</placeName></hi></term>. <orgName>Studio sto-</orgName>
+                
+                <lb xml:id="Pg_C3" n="2" facs="#Pg_64_3"/>
+                <orgName>rico</orgName>. -<placeName><settlement type="municipality">Roma</settlement></placeName>, <date when="1877">1877</date>.
+
+                <lb xml:id="Pg_C4" n="3" facs="#Pg_64_4"/>
+                L'incarico dato all'Autore di fare una conferenza sulla
+
+                <lb xml:id="Pg_C5" n="4" facs="#Pg_64_5"/>
+                battaglia dell'<term ref="#Assi"><placeName>Assietta</placeName></term> fu l'origine di questo lavoro, che il
+
+                <lb xml:id="Pg_C6" n="5" facs="#Pg_64_6"/>
+                <term ref="#Dabo"><persName><surname>Dabormida</surname></persName></term> diede poi alle stampe ampliato ed arricchito di 
+
+                <lb xml:id="Pg_C7" n="6" facs="#Pg_64_7"/>
+                nuovi particolari. Spiegata l'origine e giustificata la <w>pubbli-
+
+                <lb xml:id="Pg_C8" n="7" facs="#Pg_64_8"/>
+                cazione</w> del suo libro, l'Autore comincia col descrivere l'<w>or-
+
+                <lb xml:id="Pg_C9" n="8" facs="#Pg_64_9"/>
+                dinamento</w> militare del <placeName><settlement type="region">Piemonte</settlement></placeName> alla metà del <date notBefore="1701" notAfter="1800">decimottavo</date>
+
+                <lb xml:id="Pg_C10" n="9" facs="#Pg_64_10"/>
+                <date notBefore="1701" notAfter="1800">secolo</date>, inframmettendovi spesso osservazioni e giudizi suoi
+
+                <lb xml:id="Pg_C11" n="10" facs="#Pg_64_11"/>
+                propri che in genere ci parvero acconci ed esatti, e passa
+
+                <lb xml:id="Pg_C12" n="11" facs="#Pg_64_12"/>
+                poi a discorrere, piuttosto distesamente, delle condizioni <w>po-
+
+                <lb xml:id="Pg_C13" n="12" facs="#Pg_64_13"/>
+                litiche</w> e militari del <placeName><settlement type="region">Piemonte</settlement></placeName> dal principio della guerra della
+
+                <lb xml:id="Pg_C14" n="13" facs="#Pg_64_14"/>
+                <title type="legal">Prammatica Sanzione</title> al <date when="1747-06">giugno 1747</date>. Nei quattro <w>succes-
+                <!--documento storico/atto giuridico-->
+                <lb xml:id="Pg_C15" n="14" facs="#Pg_64_15"/>
+                sivi</w> capitoli, il <term ref="#Dabo"><persName><surname>Dabormida</surname></persName></term> tratta dei preparativi della <w>cam-
+
+                <lb xml:id="Pg_C16" n="15" facs="#Pg_64_16"/>
+                pagna</w> del <date when="1747">1747</date> fatti tanto dai <name type="ethnic">Gallo-Ispani</name> quanto dagli
+
+                <lb xml:id="Pg_C17" n="16" facs="#Pg_64_17"/>
+                <name type="ethnic">Austro-Sardi</name>, e, toccato della rivoluzione di <placeName><settlement type="municipality">Genova</settlement></placeName> del <date when="1746">1746</date>
+
+                <lb xml:id="Pg_C18" n="17" facs="#Pg_64_18"/>
+                e dell'assedio postovi dallo <persName><surname>Schulenburg</surname></persName> nella primavera
+
+                <lb xml:id="Pg_C19" n="18" facs="#Pg_64_19"/>
+                successiva, discorre distesamente delle operazioni dell'<w>eser-
+
+                <lb xml:id="Pg_C20" n="19" facs="#Pg_64_20"/>
+                cito</w>, comandato nominalmente dall'infante <persName><roleName type="honorific">Don</roleName> <forename>Filippo</forename></persName>
+
+                <lb xml:id="Pg_C21" n="20" facs="#Pg_64_21"/>
+                lungo la <placeName type="region">riviera ligure di Ponente</placeName>, non che di quelle del <persName><roleName type="military">ge-</roleName></persName>
+
+                <lb xml:id="Pg_C22" n="21" facs="#Pg_64_22"/>
+                <persName><roleName>nerale</roleName> <surname>Leutrum</surname></persName> suo avversario, e narra infine, coi più <w>mi-
+                
+                <lb xml:id="Pg_C23" n="22" facs="#Pg_64_23"/>
+                nuti</w> particolari, i preparativi fatti dai <name type="ethnic">Gallo-Ispani</name> nel <placeName type="region">Delfi-</placeName>
+                
+                <lb xml:id="Pg_C24" n="23" facs="#Pg_64_24"/>
+                <placeName type="region">nato</placeName> allo scopo d'invadere il <placeName><settlement type="region">Piemonte</settlement></placeName> per le valli della
+
+                <lb xml:id="Pg_C25" n="24" facs="#Pg_64_25"/>
+                <placeName type="valley">Stura</placeName> e del <placeName type="valley">Chisone</placeName>, le disposizioni prese da quell'acuto
+
+                <lb xml:id="Pg_C26" n="25" facs="#Pg_64_26"/>
+                ingegno militare di <persName><forename>Carlo</forename> <forename>Emanuele</forename> <genName>III</genName></persName> per non trovarsi
+
+                <lb xml:id="Pg_C27" n="26" facs="#Pg_64_27"/>
+                impreparato su qualche punto della frontiera alpina, ed il
+
+                <lb xml:id="Pg_C28" n="27" facs="#Pg_64_28"/>
+                passaggio del <placeName>Monginevra</placeName> eseguito dai Francesi sotto il <persName><roleName type="military">ca-</roleName></persName>
+                
+                <lb xml:id="Pg_C29" n="28" facs="#Pg_64_29"/>
+                <persName><roleName type="military">valiere</roleName></persName> di <placeName>Bellisle</placeName>, nonchè le operazioni dei due avversari
+
+                <lb xml:id="Pg_C30" n="29" facs="#Pg_64_30"/>
+                nei tre giorni che precedettero il fatto d'armi dell'<term ref="#Assi"><placeName>Assietta</placeName></term>
+
+                <lb xml:id="Pg_C31" n="30" facs="#Pg_64_31"/>
+                (<date when="1747-07-19">19 luglio 1747</date>). Il penultimo capitolo del libro contiene una
+
+                <lb xml:id="Pg_C32" n="31" facs="#Pg_64_32"/>
+                carta topografica, copia di un originale dell'epoca, esistente
+
+                <lb xml:id="Pg_C33" n="32" facs="#Pg_64_33"/>
+                nell'<term ref="#ArchTor"><orgName>Archivio di Stato di <placeName><settlement type="municipality">Torino</settlement></placeName></orgName></term>; è consacrato alla descrizione
+
+                <lb xml:id="Pg_C34" n="33" facs="#Pg_64_34"/>
+                del terreno del combattimento dell'<term ref="#Assi"><placeName>Assietta</placeName></term>, dei trinceramenti
+
+                <lb xml:id="Pg_C35" n="34" facs="#Pg_64_35"/>
+                con cui fu afforzato, e dei più minuti particolari di quella lotta,
+
+                <lb xml:id="Pg_C36" n="35" facs="#Pg_64_36"/>
+                in cui <num>3000</num> piemontesi, appena sostenuti da <num>2000</num> austriaci, e 
+
+                <lb xml:id="Pg_C37" n="36" facs="#Pg_64_37"/>
+                senz'artiglieria, respinsero <num>20,000 </num> francesi protetti da <num>7</num> <w>can-
+
+                <lb xml:id="Pg_C38" n="37" facs="#Pg_64_38"/>
+                noni</w> facendo loro perdere <num>5300</num> <roleName type="military">soldati</roleName> e <num>430</num> <roleName type="military">ufficiali</roleName>, fra i
+
+                <lb xml:id="Pg_C39" n="38" facs="#Pg_64_39"/>
+                quali il <roleName type="military">cavaliere</roleName> stesso di <placeName>Bellisle</placeName>, che cadeva eroicamente
+
+                <lb xml:id="Pg_C40" n="39" facs="#Pg_64_40"/>
+                ferito di baionetta e trapassato da due palle. Chiude il <w>li-
+
+                <lb xml:id="Pg_C41" n="40" facs="#Pg_64_41"/>
+                bro</w> un breve esame critico dell'Autore circa le operazioni
+
+                <lb xml:id="Pg_C42" n="41" facs="#Pg_64_42"/>
+                che precedettero il combattimento dell'<term ref="#Assi"><placeName>Assietta</placeName></term>, e le <w>di-
+
+                <lb xml:id="Pg_C43" n="42" facs="#Pg_64_43"/>
+                sposizioni</w> prese dai due avversari durante lo stesso.
+
+                <lb xml:id="Pg_C44" n="43" facs="#Pg_64_44"/>
+                Il libro di cui ci stiamo occupando sarà certamente letto
+
+                <lb xml:id="Pg_C45" n="44" facs="#Pg_64_45"/>
+                con interesse da quanti si dilettano di cose militari, ed esso
+
+                <lb xml:id="Pg_C46" n="45" facs="#Pg_64_46"/>
+                deve essere costato all'Autore, che vi si rivela assai versato
+
+                <lb xml:id="Pg_C47" n="46" facs="#Pg_64_47"/>
+                negli studi storico-militari, gravi fatiche, giacchè in parte
+                </p>
+                
+                <cb n="2" />
+                <p>
+                <lb xml:id="Pg_C48" n="47" facs="#Pg_64_48"/>
+                è desunto da documenti inediti esistenti nell'<term ref="#ArchTor"><orgName>Archivio di</orgName></term>
+
+                <lb xml:id="Pg_C49" n="48" facs="#Pg_64_49"/>
+                <term ref="#ArchTor"><orgName>Stato di <placeName><settlement type="municipality">Torino</settlement></placeName></orgName></term> e nelle biblioteche del <roleName type="nobility">Re</roleName> e del <roleName type="nobility">Duca</roleName> di <placeName><settlement type="municipality">Ge-</settlement></placeName>
+                
+                <lb xml:id="Pg_C50" n="49" facs="#Pg_64_50"/>
+                <placeName><settlement type="municipality">nova</settlement></placeName>, nonchè dalle più importanti ed accreditate <w>pubblica-
+                
+                <lb xml:id="Pg_C51" n="50" facs="#Pg_64_51"/>
+                zioni</w> storiche. È da desiderarsi che queste pubblicazioni
+
+                <lb xml:id="Pg_C52" n="51" facs="#Pg_64_52"/>
+                speciali, conscienziose ed esatte, vadano moltiplicandosi sì
+
+                <lb xml:id="Pg_C53" n="52" facs="#Pg_64_53"/>
+                perchè l'esperienza del passato è sempre la miglior scuola,
+
+                <lb xml:id="Pg_C54" n="53" facs="#Pg_64_54"/>
+                sì perchè crediamo col <term ref="#Dabo"><persName><surname>Dabormida</surname></persName></term> che le passate glorie <w>mi-
+                
+                <lb xml:id="Pg_C55" n="54" facs="#Pg_64_55"/>
+                litari</w> delle varie province del Regno non sono glorie <w>regio-
+                
+                <lb xml:id="Pg_C56" n="55" facs="#Pg_64_56"/>
+                nali</w> ma glorie italiane. Ci sia per altro concesso di fare al
+
+                <lb xml:id="Pg_C57" n="56" facs="#Pg_64_57"/>
+                libro due lievi appunti. Nelle pubblicazioni originali, anche 
+
+                <lb xml:id="Pg_C58" n="57" facs="#Pg_64_58"/>
+                se militari, la forma deve essere curata al pari della <w>so-
+                
+                <lb xml:id="Pg_C59" n="58" facs="#Pg_64_59"/>
+                stanza</w>; ora ci pare che l'Autore abbia poco usato della
+
+                <lb xml:id="Pg_C60" n="59" facs="#Pg_64_60"/> 
+                lima nella prima parte del libro, che in taluni punti riesce
+
+                <lb xml:id="Pg_C61" n="60" facs="#Pg_64_61"/>
+                un poco avviluppata. Nelle parti seguenti, l'Autore, trattando
+
+                <lb xml:id="Pg_C62" n="61" facs="#Pg_64_62"/>
+                esclusivamente di cose militari, si sente più in agio, e la <w>nar-
+                
+                <lb xml:id="Pg_C63" n="62" facs="#Pg_64_63"/>
+                razione</w> corre più spiccia. Il secondo appunto riguarda il
+
+                <lb xml:id="Pg_C64" n="63" facs="#Pg_64_64"/>
+                titolo del libro che non ci pare il più proprio relativamente
+
+                <lb xml:id="Pg_C65" n="64" facs="#Pg_64_65"/>
+                al contenuto di questo. A far ben comprendere il fatto <w>del-
+                 
+                <lb xml:id="Pg_C66" n="65" facs="#Pg_64_66"/> 
+                l'</w> <term ref="#Assi"><placeName>Assietta</placeName></term>, descritto in <measure quantity="18" unit="pages">18 pagine</measure>, non sarebbe stata di certo
+
+                <lb xml:id="Pg_C67" n="66" facs="#Pg_64_67"/>
+                necessaria una prefazione di oltre <num>90</num>, ed avrebbe ben <w>po-
+                
+                <lb xml:id="Pg_C68" n="67" facs="#Pg_64_68"/>
+                tuto</w> cominciare all'incirca da <abbr>pag.</abbr><expan>pag<ex>ina</ex></expan> <num>45</num> od al più da <abbr>pag.</abbr><expan>pag<ex>ina</ex></expan> <num>38</num>.
+                </p>
+                
+                
+            </div>    
+
+            <pb xml:id="P7_pag81" n="81" facs="#Pg_81" /><!-- segna l'inizio di una nuova pagina, collega le facs della pagina-->
+            <div type="page" n="81">
+                <cb n="1" /> 
+                
+                <head xml:id="Pg_Z1" facs="#Pg_81_1">SCIENZE FILOSOFICHE.</head>
+
+                <p>
+
+                <lb xml:id="Pg_Z2" n="1" facs="#Pg_81_2"/>
+                <persName><roleName type="honorific">Dottor</roleName> <forename><abbr>P.</abbr></forename> <surname>Riccardi</surname></persName>. <title type="article"><hi rend="italic">Studi ed osservazioni sull'attenzione nel-</hi></title>
+
+                <lb xml:id="Pg_Z3" n="2" facs="#Pg_81_3"/>
+                <title type="article"><hi rend="italic">l'Uomo e negli Animali</hi></title>. - <placeName><settlement type="municipality">Modena</settlement></placeName>, <date when="1877">1877</date>. 
+
+                <lb xml:id="Pg_Z4" n="3" facs="#Pg_81_4"/>
+                L'indole del nostro periodico non si presta ad un'<w>ana-
+
+                <lb xml:id="Pg_Z5" n="4" facs="#Pg_81_5"/>
+                lisi</w> completa di quest'importante lavoro in tutta la sua 
+
+                <lb xml:id="Pg_Z6" n="5" facs="#Pg_81_6"/>
+                estensione; parleremo solo della prima e della terza parte,
+
+                <lb xml:id="Pg_Z7" n="6" facs="#Pg_81_7"/>
+                perchè la seconda e la quarta trattano di argomenti così
+                
+                <lb xml:id="Pg_Z8" n="7" facs="#Pg_81_8"/>
+                speciali, che il renderne conto spetta alle riviste scientifiche.
+
+                <lb xml:id="Pg_Z9" n="8" facs="#Pg_81_9"/>
+                L'Autore divide il processo attentivo in due grandi classi:
+
+                <lb xml:id="Pg_Z10" n="9" facs="#Pg_81_10"/>
+                l'attenzione <hi rend="italic">esterna</hi> e l'attenzione <hi rend="italic">interna</hi>; la prima è <w>pro-
+
+                <lb xml:id="Pg_Z11" n="10" facs="#Pg_81_11"/>
+                vocata</w> dalle impressionni esterne, la seconda è ingenerata
+
+                <lb xml:id="Pg_Z12" n="11" facs="#Pg_81_12"/>
+                da stimoli interni. A noi pare che nulla sia mutato alla <w>na-
+                
+                <lb xml:id="Pg_Z13" n="12" facs="#Pg_81_13"/>
+                tura</w> del processo attentivo secondo l'origine degli stimoli
+
+                <lb xml:id="Pg_Z14" n="13" facs="#Pg_81_14"/>
+                che lo mettono in attività, secondo cioè che questi siano
+
+                <lb xml:id="Pg_Z15" n="14" facs="#Pg_81_15"/>
+                impressioni pervenute al sensorio per la via dei sensi, (<w>sen-
+
+                <lb xml:id="Pg_Z16" n="15" facs="#Pg_81_16"/>
+                sazioni</w> dirette) oppure rappresentazioni destate da queste
+
+                <lb xml:id="Pg_Z17" n="16" facs="#Pg_81_17"/>
+                nell'interno del sensorio medesimo, (sensazioni indirette o 
+
+                <lb xml:id="Pg_Z18" n="17" facs="#Pg_81_18"/>
+                riflesse). Risvegliata dalle une o dalle altre, l'attenzione è 
+
+                <lb xml:id="Pg_Z19" n="18" facs="#Pg_81_19"/>
+                sempre l'attenzione, dimodichè il dividerla in due classi
+
+                <lb xml:id="Pg_Z20" n="19" facs="#Pg_81_20"/>
+                non sembra sufficientemente giustificato. L'Autore <w>distin-
+
+                <lb xml:id="Pg_Z21" n="20" facs="#Pg_81_21"/>
+                gue</w> poi in ciascuna delle predette classi due forme di <w>at-
+               
+                <lb xml:id="Pg_Z22" n="21" facs="#Pg_81_22"/>
+                tenzione</w>, <hi rend="italic">fisiologica</hi> o <hi rend="italic">incosciente</hi> l'una, e <hi rend="italic">psichica</hi> o <hi rend="italic">cosciente</hi>
+
+                <lb xml:id="Pg_Z23" n="22" facs="#Pg_81_23"/>
+                l'altra. Egli si occupa specialmente di quest'ultima e non 
+
+                <lb xml:id="Pg_Z24" n="23" facs="#Pg_81_24"/>
+                spiega abbastanza ciò che intenda colla prima. Una <w>espo-
+
+                <lb xml:id="Pg_Z25" n="24" facs="#Pg_81_25"/>
+                sizione</w> completa in questo riguardo sarebbe stata tanto
+
+                <lb xml:id="Pg_Z26" n="25" facs="#Pg_81_26"/>
+                più necessaria che la stessa espressione di <hi rend="italic">attenzione <w>inco-
+
+                <lb xml:id="Pg_Z27" n="26" facs="#Pg_81_27"/>
+                sciente</w></hi> è atta a sorprendere chiunque consideri l'attenzione
+
+                <lb xml:id="Pg_Z28" n="27" facs="#Pg_81_28"/>
+                come una recrudescenza di coscienza. Le innumerevoli <w>ecci-
+                
+                <lb xml:id="Pg_Z29" n="28" facs="#Pg_81_29"/>
+                tazioni</w> cui è esposto il cervello, provenienti tanto dalla
+
+                <lb xml:id="Pg_Z30" n="29" facs="#Pg_81_30"/>
+                fonte inesauribile delle impressioni esterne quanto da quella
+
+                <lb xml:id="Pg_Z31" n="30" facs="#Pg_81_31"/>
+                egualmente inesauribile delle sensazioni esterne, non sono
+
+                <lb xml:id="Pg_Z32" n="31" facs="#Pg_81_32"/>
+                tutte percepite col medesimo grado di consapevolezza; una
+
+                <lb xml:id="Pg_Z33" n="32" facs="#Pg_81_33"/>
+                grandissima parte di esse passa del tutto inosservata, e 
+
+                <lb xml:id="Pg_Z34" n="33" facs="#Pg_81_34"/>
+                soltanto un numero relativamente piccolo viene chiaramente 
+
+                <lb xml:id="Pg_Z35" n="34" facs="#Pg_81_35"/>
+                avvertito. Di questo piccolo numero poi solo <hi rend="italic">alcune</hi>, <w>de-
+                
+                <lb xml:id="Pg_Z36" n="35" facs="#Pg_81_36"/>
+                stando</w>, per contrasto o per similitudine, un alto grado di
+
+                <lb xml:id="Pg_Z37" n="36" facs="#Pg_81_37"/>
+                consapevolezza, prendono il sopravvento sopra le altre, <w>con-
+                
+                <lb xml:id="Pg_Z38" n="37" facs="#Pg_81_38"/>
+                centrano</w> su di sè l'attività psichica, ne invadono <w>prepo-
+                
+                <lb xml:id="Pg_Z39" n="38" facs="#Pg_81_39"/>
+                tentemente</w> il campo, insomma, <hi rend="italic">preoccupano</hi> più o meno <w>du-
+                
+                <lb xml:id="Pg_Z40" n="39" facs="#Pg_81_40"/>
+                revolmente</w> l'intelletto, Or bene, lo stato speciale, <w>comune-
+
+                <lb xml:id="Pg_Z41" n="40" facs="#Pg_81_41"/>
+                mente</w> detto <hi rend="italic">attenzione</hi>, è appunto quelle che queste poche
+
+                <lb xml:id="Pg_Z42" n="41" facs="#Pg_81_42"/>
+                impressioni destano nell'atto di imporsi alla mente; <w>men-
+                
+                <lb xml:id="Pg_Z43" n="42" facs="#Pg_81_43"/>
+                tre</w> non si suol chiamare attenzione lo stato di indifferenza
+
+                <cb n="2" />
+                <lb xml:id="Pg_Z44" n="43" facs="#Pg_81_44"/>
+                nel quale la grande massa di eccitazioni lasciano il cervello
+
+                <lb xml:id="Pg_Z45" n="44" facs="#Pg_81_45"/>
+                o la mente. Uno stato <hi rend="italic">in</hi>-conscio od anche <hi rend="italic">sub</hi>-conscio è anzi
+
+                <lb xml:id="Pg_Z46" n="45" facs="#Pg_81_46"/>
+                addirittura il contrario dello stato d'intensa consapevolezza
+
+                <lb xml:id="Pg_Z47" n="46" facs="#Pg_81_47"/>
+                che costituisce l'attenzione; se non limitiamo il significato
+
+                <lb xml:id="Pg_Z48" n="47" facs="#Pg_81_48"/>
+                di questa parola precisamente al <hi rend="italic">raddoppiamento di coscienza</hi>,
+
+                <lb xml:id="Pg_Z49" n="48" facs="#Pg_81_49"/>
+                e quindi di impressionabilità di fronte ad una data <w>ecci-
+
+                <lb xml:id="Pg_Z50" n="49" facs="#Pg_81_50"/>
+                tazione</w>, essa perde ogni senso speciale, e diviene <w>equiva-
+                
+                <lb xml:id="Pg_Z51" n="50" facs="#Pg_81_51"/>
+                lente</w> non solo all'<hi rend="italic">attività psichica</hi> in generale ma alla
+
+                <lb xml:id="Pg_Z52" n="51" facs="#Pg_81_52"/>
+                semplice <hi rend="italic">irratibilità nervosa</hi>; l'Autore difatti è condotto a
+
+                <lb xml:id="Pg_Z53" n="52" facs="#Pg_81_53"/>
+                definire l'attenzione: <quote>"quel fenomeno pel quale gli elementi</quote>
+
+                <lb xml:id="Pg_Z54" n="53" facs="#Pg_81_54"/>
+                <quote>nervosi sono messi in vibrazioni o in movimento da una</quote>
+
+                <lb xml:id="Pg_Z55" n="54" facs="#Pg_81_55"/>
+                <quote>eccitazione."</quote>
+
+                <lb xml:id="Pg_Z56" n="55" facs="#Pg_81_56"/>
+                La seconda parte è un bello studio, ricco di fatti <w>inte-
+                
+                <lb xml:id="Pg_Z57" n="56" facs="#Pg_81_57"/>
+                ressanti</w> e di buone osservazioni sulla <quote>"Espressione dell'at-</quote>
+                
+                <lb xml:id="Pg_Z58" n="57" facs="#Pg_81_58"/>
+                <quote>tenzione nell'uomo e negli animali."</quote> La quarta parte tratta
+                    
+                <lb xml:id="Pg_Z59" n="58" facs="#Pg_81_59"/>
+                dell'<quote>"Attenzione degli Alienati."</quote> Malgrado tutto <w>l'inte-
+                                                                    
+                <lb xml:id="Pg_Z60" n="59" facs="#Pg_81_60"/>
+                resse</w> che offrono queste due parti, siamo costretti a <w>la-
+
+                <lb xml:id="Pg_Z61" n="60" facs="#Pg_81_61"/>
+                sciarle</w> da banda, per fermarci un momento sulla terza, ove
+
+                <lb xml:id="Pg_Z62" n="61" facs="#Pg_81_62"/>
+                l'Autore studia l'Attenzione <quote>"in rapporto alla Educazione</quote>
+
+                <lb xml:id="Pg_Z63" n="62" facs="#Pg_81_63"/>
+                <quote>intellettuale dell'Uomo."</quote> Questa parte del suo lavoro è una
+                                                    
+                <lb xml:id="Pg_Z64" n="63" facs="#Pg_81_65"/>
+                continuazione di quello del <persName><surname>De Dominicis</surname></persName>, di cui abbiamo
+
+                <lb xml:id="Pg_Z65" n="64" facs="#Pg_81_65"/>
+                già parlato, o piuttosto uno sviluppo più particolareggiato
+
+                <lb xml:id="Pg_Z66" n="65" facs="#Pg_81_66"/>
+                di un punto che il <persName><surname>De Dominicis</surname></persName> non fa che accennare.
+
+                <lb xml:id="Pg_Z67" n="66" facs="#Pg_81_67"/>
+                L'attenzione è una condizione indispensabile dello sviluppo
+
+                <lb xml:id="Pg_Z68" n="67" facs="#Pg_81_68"/>
+                intellettuale, giacchè solo ciò che si riceve con attenzione
+
+                <lb xml:id="Pg_Z69" n="68" facs="#Pg_81_69"/>
+                si ritiene durevolmente e chiaramente. La mente giovane
+
+                <lb xml:id="Pg_Z70" n="69" facs="#Pg_81_70"/>
+                non attende che a poche cose; queste sono le sole che essa
+
+                <lb xml:id="Pg_Z71" n="70" facs="#Pg_81_71"/>
+                assimila con frutto; nell'educazione intellettuale bisogna
+
+                <lb xml:id="Pg_Z72" n="71" facs="#Pg_81_72"/>
+                aiutare le naturali disposizioni della mente e non <w>contra-
+                
+                <lb xml:id="Pg_Z73" n="72" facs="#Pg_81_73"/>
+                riarle</w>, bisogna darle il cibo che essa stessa ricerca, e non
+
+                <lb xml:id="Pg_Z74" n="73" facs="#Pg_81_74"/>
+                quello che le ripugna; forzandola a nutrirsi di tali materie,
+
+                <lb xml:id="Pg_Z75" n="74" facs="#Pg_81_75"/>
+                lungi dal favorirne lo sviluppo, lo soffermiamo, lungi <w>dal-
+                
+                <lb xml:id="Pg_Z76" n="75" facs="#Pg_81_76"/>
+                l'</w>allettare l'intelligenza allo studio, la disgustiamo; lungi
+
+                <lb xml:id="Pg_Z77" n="76" facs="#Pg_81_77"/>
+                dal fare una cosa in virtù della quale essa deve svolgersi,
+
+                <lb xml:id="Pg_Z78" n="77" facs="#Pg_81_78"/>
+                facciamo una cosa malgrado la quale essa riesce a non <w>soc-
+                
+                <lb xml:id="Pg_Z79" n="78" facs="#Pg_81_79"/>
+                combere</w>. - L'insegnamento classico, dice l'Autore, è quello
+
+                <lb xml:id="Pg_Z80" n="79" facs="#Pg_81_80"/>
+                che la psicologia e la pedagogia moderne condannano, l'<w>in-
+                
+                <lb xml:id="Pg_Z81" n="80" facs="#Pg_81_81"/>
+                segnamento</w> scientifico è quello che esse prescrivono; è
+
+                <lb xml:id="Pg_Z82" n="81" facs="#Pg_81_82"/>
+                tempo di tradurre in atto e mettere in pratica un sistema
+
+                <lb xml:id="Pg_Z83" n="82" facs="#Pg_81_83"/>
+                educativo conforme ai dettami della scienza ed <w>abbando-
+
+                <lb xml:id="Pg_Z84" n="83" facs="#Pg_81_84"/>
+                nare</w> un sistema giustificato solo dalla consuetudine e dalla
+
+                <lb xml:id="Pg_Z85" n="84" facs="#Pg_81_85"/>
+                tradizione.
+                </p>
+            </div>   
+        </body>    
+            
+            
+        <back>
+            <list type= "terminology">
+                <label><!--etichetta-->
+                    <term xml:id="Pill" ref="#Pill">Pillacchera</term>
+                </label>
+                <item><!--ci riferiamo all'oggetto etichettato e lo descriviamo -->
+                    <gloss target="#Pill" resp="SP">Secondo la descrizione del testo, Pillacchera si riferise
+                    all'epiteto che designa il personaggio del cane assegnando il soprannome di Pillacchera.
+                    Il termine si riferisce a una macchia di fango, per indicare che il cane viene trovato
+                    molto sporco, simile a una scopa utilizzata per pulire il forno.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="Assi" ref="#Assi">La battaglia dell'Assietta</term>
+                </label>
+                <item>
+                    <gloss target="#Assi" resp="SP">La battaglia dell'Assietta fu combattuta il 19 luglio 1747 
+                    sulla cresta tra la Val Chisone e la Val di Susa (Piemonte). 
+                    Tale battaglia fu un significativo episodio della guerra di successione austriaca, 
+                    conflitto che sconvolse l'Europa della metà del Settecento.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="Dabo" ref="#Dabo">Vittorio Dabormida</term>
+                </label>
+                <item>
+                    <gloss target="#Dabo" resp="SP">Vittorio Emanuele Dabormida (Torino, 22 novembre 1842 – Adua, 1º marzo 1896)
+                    è stato un generale del Regio Esercito italiano, autore di una serie di pubblicazioni relative all'arte militare, 
+                    caduto nella battaglia di Adua.</gloss>
+                </item>   
+
+                <label>
+                    <term xml:id="Far" ref="#Far">Luigi Carlo Farini</term>
+                </label> 
+                <item>
+                    <gloss target="#Far" resp="SP">Luigi Carlo Farini (Russi, 22 ottobre 1812 – Quarto, 1º agosto 1866) 
+                    è stato un medico, storico, politico e patriota italiano, per breve tempo Presidente del Consiglio 
+                    dei ministri del Regno d'Italia tra il 1862 e il 1863.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="Temps" ref="#Temps">Les Temps</term>
+                </label>
+                <item>
+                    <gloss target="#Temps" resp="SP">Temps, Le Quotidiano politico fondato a Parigi nel 1861 da A. Nefftzer. 
+                    Modellato sul britannico Times, divenne, per la larghezza e l’attendibilità delle informazioni e per l’autorevolezza 
+                    dei collaboratori (molti dei quali passati ad alte responsabilità politiche), il giornale più importante, anche se non
+                    di maggiore tiratura, della Terza Repubblica, fino a essere considerato portavoce delle posizioni governative.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="Difr" ref="#Difr">Dictionnaire de l'Académie française</term>
+                </label>
+                <item>
+                    <gloss target="#Difr">Il Dictionnaire de l'Académie française (Dizionario dell'Accademia di Francia) è il 
+                    dizionario ufficiale della lingua francese curato dall'Académie française, sotto la direzione del suo 
+                    segretario generale perpetuo.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="RevPol" ref="#RevPol">Revue politique et littéraire</term>
+                </label>
+                <item>
+                    <gloss target="#RevPol" resp="SP">La Revue politique et littéraire nota come Revue bleue è una rivista letteraria francese 
+                    fondata da Eugène Yung nel 1871 e pubblicata fino al 1939.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="MinisteroGuerra" ref="#MinisteroGuerra">Ministero della Guerra</term>
+                </label>
+                <item>
+                    <gloss target="#MinisteroGuerra" resp="SP">Il Ministero della guerra fu uno storico dicastero 
+                    presente sin dall'unità d'Italia, nel governo Cavour. 
+                    Gestiva le forze militari del Regio Esercito, mentre il Ministero della marina si occupava della Regia Marina.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="brig" ref="#brig">Brigantaggio</term>
+                </label>
+                <item>
+                    <gloss target="#brig" resp="SP">Il brigantaggio fu un fenomeno di natura criminale, frutto dell'attività di bande di malfattori che 
+                    infestavano campagne o vie di comunicazione a scopo di rapina e omicidio. Tra i crimini, particolarmente violenti, perpetrati dai 
+                    briganti spiccano la grassazione, l'omicidio, l'abigeato, lo stupro, oltre che varie forme di minaccia e angherie. 
+                    Sebbene il fenomeno abbia origini remote e riguardi periodi storici e territori diversi, nella storiografia italiana questo termine 
+                    si riferisce generalmente alle bande armate presenti nel Mezzogiorno d'Italia e attive nel primo decennio successivo alla proclamazione 
+                    del Regno d'Italia.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="ArchTor" ref="#ArchTor">Archivio di Stato di Torino</term>
+                </label>
+                <item>
+                    <gloss target="#ArchTor" resp="SP">L'Archivio di Stato di Torino raccoglie il complesso dei documenti dei membri di casa Savoia, 
+                    cui nel tempo si sono andati a sommare archivi di famiglie e personalità illustri, archivi di associazioni, di industrie e 
+                    la documentazione amministrativa prodotta dal Regno di Sardegna e dagli Uffici periferici dello Stato italiano in Provincia di Torino. 
+                    Questo importante patrimonio, custodito su circa 83 km lineari di scaffalature, rende l'Archivio una ricchissima miniera di informazioni 
+                    che permettono, agli storici e non solo, di spaziare su 1300 anni di storia del Piemonte, dell'Italia e dell'Europa.</gloss>
+                </item>
+
+                <label>
+                    <term xml:id="Hughes" ref="#Hughes">David Edward Hughes</term>
+                </label>
+                <item>
+                    <gloss target="#Hughes" resp="SP">David Edward Hughes (Londra o Corwen, 16 maggio 1830 – Londra, 22 gennaio 1900) è stato 
+                    un inventore britannico naturalizzato statunitense, noto per aver inventato il microfono a carbone.</gloss>
+                </item>
+
+            </list>
+            <listPerson>
+
+                <person xml:id="Rf">
+                    <persName role ="poet">
+                        <ref target="https://it.wikipedia.org/wiki/Renato_Fucini"></ref>
+                        <name>Renato</name>
+                        <surname>Fucini</surname>
+                    </persName>
+                    <sex>M</sex>
+                    <birth>
+                        <date when="1843-04-08">8 aprile 1843</date>
+                        <placeName>
+                            <settlement type="region">Toscana</settlement>
+                            <settlement type="municipality">Monterotondo mattimo</settlement>
+                        </placeName>
+                    </birth>
+                    <death>
+                        <date when="1921-02-25">25 febbraio 1921</date>
+                        <placeName>
+                            <settlement type="region">Toscana</settlement>
+                            <settlement type="municipality">Emploli</settlement>
+                        </placeName>
+                    </death>
+                </person>
+
+                <person xml:id="Ms">
+                    <persName role ="prefetto">
+                        <ref target="https://it.wikipedia.org/wiki/Antonio_Malusardi"></ref>
+                        <name>Antonio</name>
+                        <surname>Malusardi</surname>
+                    </persName>
+                    <sex>M</sex>
+                    <birth>
+                        <date when="1818-05-11">11 maggio 1818</date>
+                        <placeName>
+                            <settlement type="region">Piemonte</settlement>
+                            <settlement type="municipality">Vespolate</settlement>
+                        </placeName>
+                    </birth>
+                    <death>
+                        <date when="1891-01-04">4 gennaio 1891</date>
+                        <placeName>
+                            <settlement type="region">Piemonte</settlement>
+                            <settlement type="municipality">Vespolate</settlement>
+                        </placeName>
+                    </death>
+                </person>
+
+                <person xml:id="Nic">
+                    <persName role ="prefetto">
+                        <name>Francesco Saverio</name>
+                        <surname>Nicotera</surname>
+                    </persName>
+                    <sex>M</sex>
+                    <birth>
+                        <date when="1838-11-02">2 novembre 1838</date>
+                        <placeName>
+                            <settlement type="region">Calabria</settlement>
+                            <settlement type="municipality">Vibo Valentia</settlement>
+                        </placeName>
+                    </birth>
+                    <death>
+                        <date when="1894-11-29">29 novembre 1894</date>
+                        <placeName>
+                            <settlement type="region">Campania</settlement>
+                            <settlement type="municipality">Napoli</settlement>
+                        </placeName>
+                    </death>
+                </person>
+
+            </listPerson>
+            
+            <listBibl>
+                <bibl>
+                    <title>Saggio di studi e di osservazioni intorno all'attenzione nell'uomo e degli animali</title>
+                    <author>Paolo Riccardi</author>
+                    <pubPlace><placeName><settlement type="municipality">Modena</settlement></placeName></pubPlace>
+                    <date when="1877">1877</date>
+                </bibl>
+                <bibl>
+                    <title>La battaglia dell'Assietta studio storico</title>
+                    <author>Vittorio Dabormida</author>
+                    <pubPlace><placeName><settlement type="municipality">Voghera</settlement></placeName></pubPlace>
+                    <date when="1877">1877</date>
+                </bibl>
+
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,668 @@
+body {
+    margin: 0;
+    padding: 0;
+    /*padding-top: 70px;*/
+    margin-bottom: 70px;
+    background-color: white;
+}
+nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #4F94CD;
+    border-bottom: solid #36648B; 
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 19px;
+    font-family: 'Arial';
+    /*position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;*/
+}
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    }
+
+li {
+    margin: 0 10px;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 20px 55px;
+    height: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    /*width: 100px;*/
+    height: 50px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+li a:hover {
+    text-decoration: underline; 
+    background-color: #0511b0; /* Rosso più scuro */
+    color: #fff;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+li a:active{
+   text-decoration: underline;   
+}
+
+li a:visited{
+    color: white;
+}
+.text{
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';*/
+}
+
+.background-section{
+    /*background-image: url('img.png');*/
+    background-image: url('LaRassCompr.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%; /* Solo metà della pagina */
+    height: 420px;
+    float: none;
+    position: relative;
+    border: 5px solid #ddd;
+    border: 10px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.background-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.centered-text {
+    position: absolute; /*permette di posizionare il testo sopra l'immagine.*/
+    top: 45%; 
+    left: 50%;
+    transform: translate(-50%, -50%); /*corregge l'ancoraggio portandolo esattamente al centro*/
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    font-weight: bold; /* Testo in grassetto */
+    z-index: 2;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Ombra dietro al testo */
+    -webkit-text-stroke: 2px black; /* Bordo nero attorno alle lettere */
+} 
+
+
+.centered-text h1{
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Ombra sfumata */
+}
+
+.infTitle{
+    border: none; /* Bordo */
+    border-radius: 15px; /* Angoli arrotondati */
+    padding: 20px; /* Spazi interni */
+    margin: 20px auto;
+    width: 80%; /* Larghezza relativa */
+    background-color: #F8F8FF; /* Sfondo chiaro */
+    display: flex; /* Disposizione in fila */
+    justify-content: space-between; /* Spazio tra i blocchi */
+    align-items: center; /* Allinea i blocchi verticalmente */
+}
+
+.infTitle .sin, .infTitle .dest {
+    background-color: #F8F8FF; /* Sfondo chiaro */
+    /*border: 2px solid #d53032;  Bordo rosso */
+    /*border-image: linear-gradient(to right, #d53032, #ff9999) 1; /* Gradiente rosso/rosa */
+    /*border: 5px solid transparent;*/
+    border: 2px solid #7D9EC0;
+    border-radius: 10px; /* Angoli arrotondati */
+    padding: 20px; /* Spazi interni */
+    margin: 10px; /* Spazio tra i blocchi */
+    /*box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  Ombra leggera */
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombra interna */
+    font-family: 'Arial', sans-serif; /* Font leggibile */
+    text-align: center; /* Centra il testo */
+}
+
+.infTitle .sin:hover, 
+.infTitle .dest:hover {
+    transform: scale(1.05); /* Ingrandimento leggero */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Ombra più evidente */
+    transition: all 0.3s ease-in-out; /* Transizione fluida */
+}
+
+.infTitle .sin p, .infTitle .dest p {
+    font-size: 1.2rem; /* Dimensione del titolo */
+    font-weight: bold; /* Titolo in grassetto */
+    color: #333; /* Colore scuro per il testo */
+    margin-bottom: 10px; /* Spazio sotto il titolo */
+}
+
+.infTitle #test {
+    display: block; /* Il contenuto su una nuova riga */
+    font-size: 1rem; /* Dimensione normale per il testo */
+    font-style: italic; /* Corsivo */
+    color: #555; /* Colore più tenue */
+}
+
+.infTitle, .cont {
+    display: flex;
+    padding: 20px 16px; /*spazi interni*/
+    justify-content: space-between; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+}
+
+.infTitle .sin {
+    margin-bottom: 40px; /* Spazio tra "Il titolo della rivista" e "Gli autori" */
+    background-color: #F8F8FF; 
+    border-color: #7D9EC0; 
+}
+
+.infTitle .dest {
+    margin-top: 20px; /* Aggiunge spazio sopra gli autori */
+    background-color: #F8F8FF; /* Sfondo azzurrino */
+    border-color: #7D9EC0; /* Bordo blu */
+}
+
+.sini h2, .destr h2 {
+    font-size: 35px;
+    color: black;
+}
+.sin, .dest {
+    width: 50%; /* Larghezza relativa centrata */
+}
+
+.dest {
+    padding-right: 280px;
+}
+
+.sin {
+    padding-left: 280px;
+}
+
+.infTitle #test{
+    text-decoration: none;
+    font-style: italic;
+}
+
+.sini, .destr{ 
+    padding-left: 120px;
+    padding-right: 100px;
+    width: 50%;
+}
+.sini p, .destr p {
+    text-align: justify;
+    line-height: 1.7;
+    margin-bottom: 10px;
+}
+.titoli {
+    color: #b22222;
+    /*font-family: 'Georgia', sans-serif;*/
+    font-size: 1.8rem;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+.luoghi {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+.titolo {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+
+.autori {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+
+.sommario {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1;; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+
+.edizione {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1;; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+
+.publplace{
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1;; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+
+.descFisica {
+    font-size: 1.1rem;
+    font-family: 'Arial', sans-serif;
+    background-color: #e9f4f1;; /* Verde acqua molto chiaro */
+    color: #021725; /* Blu elegante */
+    padding: 10px 15px;
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    border-left: 4px solid #154360; /* Barra decorativa a sinistra */
+    margin-bottom: 10px;
+}
+.autori:hover {
+    transform: scale(1.05); /* Ingrandisce leggermente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Aggiunge un'ombra */
+}
+
+.titolo:hover{
+    transform: scale(1.05); /* Ingrandisce leggermente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Aggiunge un'ombra */
+}
+
+.sommario:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.luoghi:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.edizione:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.publplace:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.descFisica:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+hr.stile {
+    /*border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    */
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(211, 48, 50, 0), #CD2990, rgba(211, 48, 50, 0));
+    margin-bottom: 5px;
+    border: 0;
+}
+
+#pg4041 {
+    display: flex;
+    justify-content: center; /* Centra il div newspaper */
+    align-items: center;
+    flex-direction: column; /* Disposizione verticale */
+    padding: 20px;
+}
+
+#pg4041 h3, #pg111 h3, #pg64 h3, #pg81 h3, #pg324 h3, #pg464 h3 { 
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 2px solid #4F94CD; /* Linea decorativa sotto */
+    padding-bottom: 5px; /* Spazio tra testo e linea */
+    margin-bottom: 8px;
+}
+
+#pg64, #pg81, #pg324 {
+    display: flex;
+    justify-content: center; /* Centra il div newspaper */
+    align-items: center;
+    flex-direction: column; /* Disposizione verticale */
+    padding: 20px;
+}
+
+img[usemap="#Pg_40"], img[usemap="#Pg_41"], img[usemap="#Pg_111"] {
+    display: block; /* Rende le immagini elementi di blocco */
+    margin: 0 auto; /* Centra orizzontalmente */
+    border: 2px solid black; /* Facoltativo: bordo nero per maggiore visibilità */
+}
+
+.newspaper {
+    background-image: url('paper-texture.png'); /* Aggiungi un'immagine di carta */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 15px auto;
+    width: 90%;
+    max-width: 850px;
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    text-align: justify;
+}
+    
+
+.newspaper h3 {
+    font-size: 2rem; /* Titolo grande */
+    text-align: center; /* Centra il titolo */
+    margin-bottom: 15px; /* Spazio sotto il titolo */
+    color: black; /* Colore rosso per il titolo */
+    font-family: serif;
+    font-style: italic;
+}
+
+.newspaper p {
+    font-size: 1rem; /* Dimensione normale per il testo */
+    color: #333; /* Colore scuro per il testo */
+}
+.page{
+    column-count: 2; /* Dividi in due colonne */
+    column-gap: 20px; /* Spazio tra le colonne */
+    column-rule: 1px solid #999797; /* Linea sottile tra le colonne */
+    text-align: justify; /* Allinea il testo */
+    font-family: 'Times New Roman', serif; /* Stile classico */
+    line-height: 1.6; /* Migliora la leggibilità */
+
+}
+
+.textContainer {
+    font-size: 7pt;
+    line-height: 1.8em;
+    background-color: white;
+    height: fit-content;
+  }
+   
+  .lineNumber{
+    font-weight: 6pt;
+    padding: 0.4em;
+    margin-right: 0.2em;
+    font-family: 'Futura';
+  }
+  
+  .lineNumber:hover{
+    text-decoration: none;
+  }
+  
+.Off {
+    font-family: 'Futura';
+    margin: auto 10px;
+    padding: 5px;
+    font-size: 12pt;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #DDD;
+    color: #00688B;
+    background-color: #D1EEEE;
+    border: 1px solid #5CACEE;
+    transition: transform 0.2s, background-color 0.3s ease;
+}
+.Off:hover {
+    background-color: #87CEFF;
+    transform: scale(1.05); /* Leggero ingrandimento */
+}
+.Off:active {
+    background-color: #B2DFEE;
+    transform: scale(0.95); /* Effetto click */
+}
+
+
+.btnOn {
+  background-color: blue;
+  color: white;
+}
+
+.ragrBut {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+abbr, .expan{
+    cursor: pointer;
+}
+
+.expan {
+    background-color: rgb(255, 255, 160);
+    font-weight: 600;
+}
+
+.bot {
+ display: inline;
+ cursor: none;
+}
+
+.bot > span {
+ position: relative;
+ border-bottom: 1px dotted black;
+}
+
+.term {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltip-content {
+    visibility: hidden;
+    background-color: #f9f9f9;
+    color: #000;
+    text-align: left;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.term:hover .tooltip-content {
+    visibility: visible;
+    background-color: rgb(140, 255, 140);
+}
+
+.persName:hover {
+background-color: rgb(140, 255, 140);
+}
+
+.orgName:hover {
+    background-color: rgb(140, 140, 255);
+}
+
+.date:hover {
+    background-color: #26be74;
+}
+
+.placeName:hover{
+    background-color: #f082de;
+}
+
+.title:hover{
+    background-color: #47d3f3;
+}
+
+.num:hover{
+    background-color: #e0a734;
+}
+
+.quote:hover{
+    background-color: #f37693;
+}
+
+.persNameOn, .orgNameOn, .dateNameOn, .placeNameOn{
+font-weight: bold;
+padding: 2px;
+border: none;
+}
+
+.persNameOn {
+background-color: lawngreen;
+}
+
+.orgNameOn {
+background-color: #b59ee7;
+}
+
+.dateNameOn {
+    background-color: green;
+}
+
+.placeNameOn {
+    background-color: #f8a7a7;
+}
+
+.titleOn {
+    background-color: #1cc7ed;
+}
+
+.numOn{
+    background-color: orange;
+}
+
+.quoteOn{
+    background-color: rgb(240, 146, 176);
+}
+
+.ragrbut {
+    position: fixed; /* Rende la barra fissa */
+    bottom: 0; /* Ancorata al fondo della pagina */
+    left: 0;
+    width: 100%; /* Copre tutta la larghezza della pagina */
+    z-index: 1000; /* Porta la barra in primo piano sopra gli altri elementi */
+    background-color: rgba(86, 175, 243, 0.4); /* Rosso con 80% di opacità */
+    padding: 10px; /* Spazi interni */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2); /* Ombra sopra la barra */
+    display: flex; /* Disposizione dei bottoni in riga */
+    justify-content: center; /* Centra i bottoni nella barra */
+    gap: 10px; /* Distanza tra i bottoni */
+}
+
+.bibliografia {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+.bibliografia-titolo {
+    color: #b22222; /* Rosso scuro */
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.bibl-container {
+    display: flex;
+    background-color: #eef7f6; /* Colore simile all'immagine */
+    border-left: 4px solid #1d4d60; /* Bordo laterale blu */
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    flex-wrap: wrap; /* Permette di andare a capo se lo spazio è insufficiente */
+}
+
+.bibl-box {
+    padding: 10px;
+    flex: 1; /* Distribuisce lo spazio in modo uniforme */
+    min-width: 200px; /* Assicura che ogni box abbia una dimensione minima */
+    text-align: left;
+}
+.titolo {
+    border-right: 2px solid #1d4d60;
+}
+
+.autori {
+    border-right: 2px solid #1d4d60;
+}
+
+.data {
+    border-right: 2px solid #1d4d60;
+}
+
+.luogo {
+    border-right: 2px solid #1d4d60;
+}
+
+.data:hover {
+    transform: scale(1.05); /* Ingrandisce leggermente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Aggiunge un'ombra */
+}
+
+.luogo:hover{
+    transform: scale(1.05); /* Ingrandisce leggermente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Aggiunge un'ombra */
+}
+@media (max-width: 768px) {
+    .infTitle, .cont {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .sin, .dest, .sini, .destr {
+        width: 100%; /* Prendono tutta la larghezza */
+        padding: 10px 0; /* Riduce i margini laterali */
+    }
+    .ragrBut {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 768px) {
+    .page {
+        column-count: 1; /* Una colonna su schermi più piccoli */
+    }
+}
+img.documento{
+    border: 3px outset black; /* Bordo nero di 3px */
+    border-radius: 5px; /* Angoli leggermente arrotondati */
+    margin: 10px auto; /* Spazio intorno e centrato */
+    display: block; /* Per centrare l'immagine */
+}
+
